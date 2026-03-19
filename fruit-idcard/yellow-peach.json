@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJ5ZWxsb3ctcGVhY2giLAogICJuYW1lIjogIum7hOahgyIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLolLfolofnp5EiLAogICAgIuWxniI6ICLmnY7lsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIum7hOmHkeahgyIsCiAgICAgICLnvZDlpLTmoYMiCiAgICBdLAogICAgIuexu+WeiyI6ICLmoLjmnpznsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIua5luWNl+ecgSIsCiAgICAi5a6J5b6955yBIiwKICAgICLmtZnmsZ/nnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNy05IOaciO+8iOebm+Wkj+aIkOeGn++8jOaenOiCiemHkem7hO+8jOmmmeawlOa1k+mDge+8jOmFuOeUnOW5s+ihoe+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNDBrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiOS44ZyIsCiAgICAi6JuL55m96LSoIjogIjAuOWciLAogICAgIue7tOeUn+e0oCBDIjogIjhtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjEuNmciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi5a+M5ZCrzrIt6IOh6JCd5Y2c57Sg5oqk55y85oqk6IKkIiwKICAgICLkv4Pov5vmtojljJbmtrLliIbms4wiLAogICAgIuWinuW8uuearuiCpOW8ueaApyIKICBdLAogICJ0aXBzIjogWwogICAgIuWkmueUqOS6juWItue9kOWktOaIluaenOmFsSIsCiAgICAi6bKc6aOf6YCJ56iN56Gs6ICF5pu06ICQ5YKoIiwKICAgICLov4fmlY/kvZPotKjogIXliJ3mrKHlsJHph4/lsJ3or5UiCiAgXQp9
+{
+  "id": "yellow-peach",
+  "name": "黄桃",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "李属",
+    "别名": [
+      "黄金桃",
+      "罐头桃"
+    ],
+    "类型": "核果类水果"
+  },
+  "origin_range": [
+    "湖南省",
+    "安徽省",
+    "浙江省"
+  ],
+  "best_season": "7-9 月（盛夏成熟，果肉金黄，香气浓郁，酸甜平衡）",
+  "nutrition_per_100g": {
+    "热量": "40kcal",
+    "碳水化合物": "9.8g",
+    "蛋白质": "0.9g",
+    "维生素 C": "8mg",
+    "膳食纤维": "1.6g"
+  },
+  "benefits": [
+    "富含β-胡萝卜素护眼护肤",
+    "促进消化液分泌",
+    "增强皮肤弹性"
+  ],
+  "tips": [
+    "多用于制罐头或果酱",
+    "鲜食选稍硬者更耐储",
+    "过敏体质者初次少量尝试"
+  ]
+}

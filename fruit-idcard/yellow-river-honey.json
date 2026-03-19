@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJ5ZWxsb3ctcml2ZXItaG9uZXkiLAogICJuYW1lIjogIum7hOays+icnCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLokavoiqbnp5EiLAogICAgIuWxniI6ICLnlJznk5zlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIum7hOeTpOicnOeTnCIsCiAgICAgICLmsrPopb/onJznk5wiCiAgICBdLAogICAgIuexu+WeiyI6ICLljprnmq7nlJznk5znsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIueUmOiCg+ecgSIsCiAgICAi5paw55aG57u05ZC+5bCU6Ieq5rK75Yy6IiwKICAgICLlhoXokpnlj6Toh6rmsrvljLoiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNy0xMCDmnIjvvIjlpI/mnKvnp4vliJ3vvIzmnpznmq7ph5Hpu4TluKbnvZHnurnvvIzogonljprmsYHkuLDvvIznlJzlpoLonJzvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjM3a2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjkuMWciLAogICAgIuibi+eZvei0qCI6ICIwLjVnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIxN21nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMC44ZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLpq5jmsLTliIbop6PmmpHliKnlsL8iLAogICAgIuWQq86yLeiDoeiQneWNnOe0oOaKpOecvCIsCiAgICAi5aSp54S257OW5YiG5b+r6YCf6KGl5YWF6IO96YePIgogIF0sCiAgInRpcHMiOiBbCiAgICAi6KGo55qu572R57q55riF5pmw44CB6aaZ5rCU5rWT6YOB5Li65L2zIiwKICAgICLlhrfol4/lkI7po47lkbPmm7TkvbPkvYbkuI3lrpzkuYXlrZgiLAogICAgIuezluWwv+eXheaCo+iAhemcgOmZkOmHj+mjn+eUqCIKICBdCn0=
+{
+  "id": "yellow-river-honey",
+  "name": "黄河蜜",
+  "classification": {
+    "科": "葫芦科",
+    "属": "甜瓜属",
+    "别名": [
+      "黄瓤蜜瓜",
+      "河西蜜瓜"
+    ],
+    "类型": "厚皮甜瓜类水果"
+  },
+  "origin_range": [
+    "甘肃省",
+    "新疆维吾尔自治区",
+    "内蒙古自治区"
+  ],
+  "best_season": "7-10 月（夏末秋初，果皮金黄带网纹，肉厚汁丰，甜如蜜）",
+  "nutrition_per_100g": {
+    "热量": "37kcal",
+    "碳水化合物": "9.1g",
+    "蛋白质": "0.5g",
+    "维生素 C": "17mg",
+    "膳食纤维": "0.8g"
+  },
+  "benefits": [
+    "高水分解暑利尿",
+    "含β-胡萝卜素护眼",
+    "天然糖分快速补充能量"
+  ],
+  "tips": [
+    "表皮网纹清晰、香气浓郁为佳",
+    "冷藏后风味更佳但不宜久存",
+    "糖尿病患者需限量食用"
+  ]
+}

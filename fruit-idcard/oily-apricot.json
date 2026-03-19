@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJvaWx5LWFwcmljb3QiLAogICJuYW1lIjogIuayueadjyIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLolLfolofnp5EiLAogICAgIuWxniI6ICLmnY7lsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIumHkeadjyIsCiAgICAgICLmu5Hnmq7mnY8iCiAgICBdLAogICAgIuexu+WeiyI6ICLmoLjmnpznsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuWxseS4nOecgSIsCiAgICAi5rKz5YyX55yBIiwKICAgICLmsrPljZfnnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNS03IOaciO+8iOWIneWkj+aIkOeGn++8jOaenOmdouWFiea7keWmgua2guayue+8jOiCiei0qOe7hui9r++8jOeUnOS4reW4puW+rumFuO+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNDFrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTAuMmciLAogICAgIuibi+eZvei0qCI6ICIxLjBnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIxMW1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMi4xZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLmtqbogrrmraLlkrPvvIznlJ/mtKXmraLmuLQiLAogICAgIuWQq86yLeiDoeiQneWNnOe0oOaKpOecvCIsCiAgICAi5L+D6L+b6ZOB5ZC45pS2IgogIF0sCiAgInRpcHMiOiBbCiAgICAi6KGo55qu5peg57uS5q+b77yM5riF5rSX5ZCO5Y+v55u05o6l6aOf55SoIiwKICAgICLnhp/pgI/lkI7mmJPova/ng4LvvIzpnIDlsL3lv6vpo5/nlKgiLAogICAgIuS4gOasoeW7uuiuruS4jei2hei/hyA1IOmilyIKICBdCn0=
+{
+  "id": "oily-apricot",
+  "name": "油杏",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "李属",
+    "别名": [
+      "金杏",
+      "滑皮杏"
+    ],
+    "类型": "核果类水果"
+  },
+  "origin_range": [
+    "山东省",
+    "河北省",
+    "河南省"
+  ],
+  "best_season": "5-7 月（初夏成熟，果面光滑如涂油，肉质细软，甜中带微酸）",
+  "nutrition_per_100g": {
+    "热量": "41kcal",
+    "碳水化合物": "10.2g",
+    "蛋白质": "1.0g",
+    "维生素 C": "11mg",
+    "膳食纤维": "2.1g"
+  },
+  "benefits": [
+    "润肺止咳，生津止渴",
+    "含β-胡萝卜素护眼",
+    "促进铁吸收"
+  ],
+  "tips": [
+    "表皮无绒毛，清洗后可直接食用",
+    "熟透后易软烂，需尽快食用",
+    "一次建议不超过 5 颗"
+  ]
+}

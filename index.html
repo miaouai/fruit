@@ -1,1 +1,587 @@
-PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9InpoLUNOIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wIj4KICA8dGl0bGU+5rC05p6c6Ze5IChOT1cpIC0g5pe25Luk5rC05p6c5p+l6K+iPC90aXRsZT4KICA8c3R5bGU+CiAgICAqIHsgbWFyZ2luOiAwOyBwYWRkaW5nOiAwOyBib3gtc2l6aW5nOiBib3JkZXItYm94OyB9CiAgICAKICAgIGJvZHkgewogICAgICBmb250LWZhbWlseTogLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCAnU2Vnb2UgVUknLCAnUGluZ0ZhbmcgU0MnLCAnSGlyYWdpbm8gU2FucyBHQicsICdNaWNyb3NvZnQgWWFIZWknLCBzYW5zLXNlcmlmOwogICAgICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQoMTM1ZGVnLCAjNjY3ZWVhIDAlLCAjNzY0YmEyIDEwMCUpOwogICAgICBtaW4taGVpZ2h0OiAxMDB2aDsKICAgICAgcGFkZGluZzogMjBweDsKICAgIH0KICAgIAogICAgLmNvbnRhaW5lciB7CiAgICAgIG1heC13aWR0aDogMTIwMHB4OwogICAgICBtYXJnaW46IDAgYXV0bzsKICAgIH0KICAgIAogICAgaGVhZGVyIHsKICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICBjb2xvcjogd2hpdGU7CiAgICAgIG1hcmdpbi1ib3R0b206IDQwcHg7CiAgICAgIGFuaW1hdGlvbjogZmFkZUluRG93biAwLjhzIGVhc2Utb3V0OwogICAgfQogICAgCiAgICBoMSB7CiAgICAgIGZvbnQtc2l6ZTogMi41cmVtOwogICAgICBtYXJnaW4tYm90dG9tOiAxMHB4OwogICAgICB0ZXh0LXNoYWRvdzogMnB4IDJweCA0cHggcmdiYSgwLDAsMCwwLjIpOwogICAgfQogICAgCiAgICAuc3VidGl0bGUgewogICAgICBmb250LXNpemU6IDEuMXJlbTsKICAgICAgb3BhY2l0eTogMC45NTsKICAgIH0KICAgIAogICAgLyog56ys5LiA5qCP77ya5b2T5YmN5bqU5a2j5rC05p6cICovCiAgICAuc2VjdGlvbi1jdXJyZW50IHsKICAgICAgYmFja2dyb3VuZDogd2hpdGU7CiAgICAgIGJvcmRlci1yYWRpdXM6IDIwcHg7CiAgICAgIHBhZGRpbmc6IDMwcHg7CiAgICAgIG1hcmdpbi1ib3R0b206IDMwcHg7CiAgICAgIGJveC1zaGFkb3c6IDAgMTBweCA0MHB4IHJnYmEoMCwwLDAsMC4yKTsKICAgICAgYW5pbWF0aW9uOiBmYWRlSW5VcCAwLjZzIGVhc2Utb3V0OwogICAgfQogICAgCiAgICAuc2VjdGlvbi10aXRsZSB7CiAgICAgIGZvbnQtc2l6ZTogMS41cmVtOwogICAgICBjb2xvcjogIzMzMzsKICAgICAgbWFyZ2luLWJvdHRvbTogMjBweDsKICAgICAgZGlzcGxheTogZmxleDsKICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgICAgZ2FwOiAxMHB4OwogICAgfQogICAgCiAgICAuc2VjdGlvbi10aXRsZTo6YmVmb3JlIHsKICAgICAgY29udGVudDogJ/CflKUnOwogICAgfQogICAgCiAgICAuZnJ1aXQtZ3JpZCB7CiAgICAgIGRpc3BsYXk6IGdyaWQ7CiAgICAgIGdyaWQtdGVtcGxhdGUtY29sdW1uczogcmVwZWF0KGF1dG8tZmlsbCwgbWlubWF4KDEyMHB4LCAxZnIpKTsKICAgICAgZ2FwOiAxNXB4OwogICAgfQogICAgCiAgICAuZnJ1aXQtaXRlbSB7CiAgICAgIGJhY2tncm91bmQ6IGxpbmVhci1ncmFkaWVudCgxMzVkZWcsICNmMDkzZmIgMCUsICNmNTU3NmMgMTAwJSk7CiAgICAgIGJvcmRlci1yYWRpdXM6IDE1cHg7CiAgICAgIHBhZGRpbmc6IDIwcHggMTBweDsKICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICBjb2xvcjogd2hpdGU7CiAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgICAgdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTsKICAgICAgYm94LXNoYWRvdzogMCA0cHggMTVweCByZ2JhKDI0NSwgODcsIDEwOCwgMC4zKTsKICAgIH0KICAgIAogICAgLmZydWl0LWl0ZW06aG92ZXIgewogICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTVweCkgc2NhbGUoMS4wNSk7CiAgICAgIGJveC1zaGFkb3c6IDAgOHB4IDI1cHggcmdiYSgyNDUsIDg3LCAxMDgsIDAuNCk7CiAgICB9CiAgICAKICAgIC5mcnVpdC1uYW1lIHsKICAgICAgZm9udC1zaXplOiAxLjFyZW07CiAgICAgIGZvbnQtd2VpZ2h0OiA2MDA7CiAgICB9CiAgICAKICAgIC8qIOesrOS6jOagj++8muaciOS7vemAieaLqSAqLwogICAgLnNlY3Rpb24tbW9udGhzIHsKICAgICAgYmFja2dyb3VuZDogd2hpdGU7CiAgICAgIGJvcmRlci1yYWRpdXM6IDIwcHg7CiAgICAgIHBhZGRpbmc6IDMwcHg7CiAgICAgIGJveC1zaGFkb3c6IDAgMTBweCA0MHB4IHJnYmEoMCwwLDAsMC4yKTsKICAgICAgYW5pbWF0aW9uOiBmYWRlSW5VcCAwLjhzIGVhc2Utb3V0OwogICAgfQogICAgCiAgICAuc2VjdGlvbi10aXRsZS5tb250aHMgewogICAgICBjb2xvcjogIzMzMzsKICAgIH0KICAgIAogICAgLnNlY3Rpb24tdGl0bGUubW9udGhzOjpiZWZvcmUgewogICAgICBjb250ZW50OiAn8J+ThSc7CiAgICB9CiAgICAKICAgIC5tb250aC10YWJzIHsKICAgICAgZGlzcGxheTogZ3JpZDsKICAgICAgZ3JpZC10ZW1wbGF0ZS1jb2x1bW5zOiByZXBlYXQoNiwgMWZyKTsKICAgICAgZ2FwOiAxMnB4OwogICAgICBtYXJnaW4tdG9wOiAyMHB4OwogICAgfQogICAgCiAgICAubW9udGgtdGFiIHsKICAgICAgYmFja2dyb3VuZDogbGluZWFyLWdyYWRpZW50KDEzNWRlZywgI2E4ZWRlYSAwJSwgI2ZlZDZlMyAxMDAlKTsKICAgICAgYm9yZGVyOiBub25lOwogICAgICBib3JkZXItcmFkaXVzOiAxMnB4OwogICAgICBwYWRkaW5nOiAxNXB4OwogICAgICBmb250LXNpemU6IDEuMXJlbTsKICAgICAgZm9udC13ZWlnaHQ6IDYwMDsKICAgICAgY29sb3I6ICMzMzM7CiAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgICAgdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTsKICAgICAgYm94LXNoYWRvdzogMCAzcHggMTBweCByZ2JhKDAsMCwwLDAuMSk7CiAgICB9CiAgICAKICAgIC5tb250aC10YWI6aG92ZXIgewogICAgICB0cmFuc2Zvcm06IHNjYWxlKDEuMDUpOwogICAgICBib3gtc2hhZG93OiAwIDZweCAyMHB4IHJnYmEoMCwwLDAsMC4xNSk7CiAgICB9CiAgICAKICAgIC5tb250aC10YWIuYWN0aXZlIHsKICAgICAgYmFja2dyb3VuZDogbGluZWFyLWdyYWRpZW50KDEzNWRlZywgIzY2N2VlYSAwJSwgIzc2NGJhMiAxMDAlKTsKICAgICAgY29sb3I6IHdoaXRlOwogICAgfQogICAgCiAgICAvKiDlvLnnqpfmoLflvI8gKi8KICAgIC5tb2RhbC1vdmVybGF5IHsKICAgICAgcG9zaXRpb246IGZpeGVkOwogICAgICB0b3A6IDA7CiAgICAgIGxlZnQ6IDA7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgICBoZWlnaHQ6IDEwMCU7CiAgICAgIGJhY2tncm91bmQ6IHJnYmEoMCwwLDAsMC42KTsKICAgICAgZGlzcGxheTogbm9uZTsKICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgICAgIHotaW5kZXg6IDEwMDA7CiAgICAgIGJhY2tkcm9wLWZpbHRlcjogYmx1cig1cHgpOwogICAgICBhbmltYXRpb246IGZhZGVJbiAwLjNzIGVhc2U7CiAgICB9CiAgICAKICAgIC5tb2RhbC1vdmVybGF5LmFjdGl2ZSB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICB9CiAgICAKICAgIC5tb2RhbCB7CiAgICAgIGJhY2tncm91bmQ6IHdoaXRlOwogICAgICBib3JkZXItcmFkaXVzOiAyMHB4OwogICAgICBwYWRkaW5nOiAzMHB4OwogICAgICBtYXgtd2lkdGg6IDUwMHB4OwogICAgICB3aWR0aDogOTAlOwogICAgICBtYXgtaGVpZ2h0OiA4MHZoOwogICAgICBvdmVyZmxvdy15OiBhdXRvOwogICAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICAgIGFuaW1hdGlvbjogc2NhbGVJbiAwLjNzIGVhc2U7CiAgICB9CiAgICAKICAgIC5tb2RhbC1jbG9zZSB7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgdG9wOiAxNXB4OwogICAgICByaWdodDogMTVweDsKICAgICAgYmFja2dyb3VuZDogI2Y1NTc2YzsKICAgICAgY29sb3I6IHdoaXRlOwogICAgICBib3JkZXI6IG5vbmU7CiAgICAgIHdpZHRoOiAzNnB4OwogICAgICBoZWlnaHQ6IDM2cHg7CiAgICAgIGJvcmRlci1yYWRpdXM6IDUwJTsKICAgICAgZm9udC1zaXplOiAxLjJyZW07CiAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgICAgdHJhbnNpdGlvbjogYWxsIDAuM3M7CiAgICB9CiAgICAKICAgIC5tb2RhbC1jbG9zZTpob3ZlciB7CiAgICAgIGJhY2tncm91bmQ6ICNlNjQwNWM7CiAgICAgIHRyYW5zZm9ybTogcm90YXRlKDkwZGVnKTsKICAgIH0KICAgIAogICAgLm1vZGFsLXRpdGxlIHsKICAgICAgZm9udC1zaXplOiAxLjhyZW07CiAgICAgIGNvbG9yOiAjMzMzOwogICAgICBtYXJnaW4tYm90dG9tOiAyMHB4OwogICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICB9CiAgICAKICAgIC8qIOawtOaenCBJRCDljaHniYfmoLflvI8gKi8KICAgIC5pZGNhcmQtc2VjdGlvbiB7CiAgICAgIG1hcmdpbi1ib3R0b206IDIwcHg7CiAgICAgIHBhZGRpbmctYm90dG9tOiAxNXB4OwogICAgICBib3JkZXItYm90dG9tOiAxcHggZGFzaGVkICNlZWU7CiAgICB9CiAgICAKICAgIC5pZGNhcmQtc2VjdGlvbjpsYXN0LWNoaWxkIHsKICAgICAgYm9yZGVyLWJvdHRvbTogbm9uZTsKICAgICAgbWFyZ2luLWJvdHRvbTogMDsKICAgICAgcGFkZGluZy1ib3R0b206IDA7CiAgICB9CiAgICAKICAgIC5pZGNhcmQtbGFiZWwgewogICAgICBmb250LXdlaWdodDogNjAwOwogICAgICBjb2xvcjogIzY2NjsKICAgICAgZm9udC1zaXplOiAwLjlyZW07CiAgICAgIG1hcmdpbi1ib3R0b206IDVweDsKICAgIH0KICAgIAogICAgLmlkY2FyZC12YWx1ZSB7CiAgICAgIGNvbG9yOiAjMzMzOwogICAgICBmb250LXNpemU6IDFyZW07CiAgICAgIGxpbmUtaGVpZ2h0OiAxLjY7CiAgICB9CiAgICAKICAgIC5udXRyaXRpb24tZ3JpZCB7CiAgICAgIGRpc3BsYXk6IGdyaWQ7CiAgICAgIGdyaWQtdGVtcGxhdGUtY29sdW1uczogcmVwZWF0KDIsIDFmcik7CiAgICAgIGdhcDogOHB4OwogICAgICBtYXJnaW4tdG9wOiAxMHB4OwogICAgfQogICAgCiAgICAubnV0cml0aW9uLWl0ZW0gewogICAgICBiYWNrZ3JvdW5kOiAjZjhmOWZhOwogICAgICBwYWRkaW5nOiA4cHggMTJweDsKICAgICAgYm9yZGVyLXJhZGl1czogOHB4OwogICAgICBmb250LXNpemU6IDAuOXJlbTsKICAgIH0KICAgIAogICAgLnRhZy1jb250YWluZXIgewogICAgICBkaXNwbGF5OiBmbGV4OwogICAgICBmbGV4LXdyYXA6IHdyYXA7CiAgICAgIGdhcDogOHB4OwogICAgICBtYXJnaW4tdG9wOiAxMHB4OwogICAgfQogICAgCiAgICAudGFnIHsKICAgICAgYmFja2dyb3VuZDogbGluZWFyLWdyYWRpZW50KDEzNWRlZywgI2E4ZWRlYSAwJSwgI2ZlZDZlMyAxMDAlKTsKICAgICAgcGFkZGluZzogNnB4IDEycHg7CiAgICAgIGJvcmRlci1yYWRpdXM6IDIwcHg7CiAgICAgIGZvbnQtc2l6ZTogMC44NXJlbTsKICAgICAgY29sb3I6ICMzMzM7CiAgICB9CiAgICAKICAgIC50aXBzLWxpc3QgewogICAgICBsaXN0LXN0eWxlOiBub25lOwogICAgICBtYXJnaW4tdG9wOiAxMHB4OwogICAgfQogICAgCiAgICAudGlwcy1saXN0IGxpIHsKICAgICAgcGFkZGluZzogOHB4IDAgOHB4IDI1cHg7CiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgZm9udC1zaXplOiAwLjk1cmVtOwogICAgICBsaW5lLWhlaWdodDogMS41OwogICAgfQogICAgCiAgICAudGlwcy1saXN0IGxpOjpiZWZvcmUgewogICAgICBjb250ZW50OiAn8J+SoSc7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgbGVmdDogMDsKICAgICAgdG9wOiA4cHg7CiAgICB9CiAgICAKICAgIEBrZXlmcmFtZXMgZmFkZUluRG93biB7CiAgICAgIGZyb20geyBvcGFjaXR5OiAwOyB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTMwcHgpOyB9CiAgICAgIHRvIHsgb3BhY2l0eTogMTsgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDApOyB9CiAgICB9CiAgICAKICAgIEBrZXlmcmFtZXMgZmFkZUluVXAgewogICAgICBmcm9tIHsgb3BhY2l0eTogMDsgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDMwcHgpOyB9CiAgICAgIHRvIHsgb3BhY2l0eTogMTsgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDApOyB9CiAgICB9CiAgICAKICAgIEBrZXlmcmFtZXMgZmFkZUluIHsKICAgICAgZnJvbSB7IG9wYWNpdHk6IDA7IH0KICAgICAgdG8geyBvcGFjaXR5OiAxOyB9CiAgICB9CiAgICAKICAgIEBrZXlmcmFtZXMgc2NhbGVJbiB7CiAgICAgIGZyb20geyBvcGFjaXR5OiAwOyB0cmFuc2Zvcm06IHNjYWxlKDAuOSk7IH0KICAgICAgdG8geyBvcGFjaXR5OiAxOyB0cmFuc2Zvcm06IHNjYWxlKDEpOyB9CiAgICB9CiAgICAKICAgIC8qIOWTjeW6lOW8jyAqLwogICAgQG1lZGlhIChtYXgtd2lkdGg6IDc2OHB4KSB7CiAgICAgIGgxIHsgZm9udC1zaXplOiAxLjhyZW07IH0KICAgICAgCiAgICAgIC5tb250aC10YWJzIHsKICAgICAgICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IHJlcGVhdCgzLCAxZnIpOwogICAgICB9CiAgICAgIAogICAgICAuZnJ1aXQtZ3JpZCB7CiAgICAgICAgZ3JpZC10ZW1wbGF0ZS1jb2x1bW5zOiByZXBlYXQoYXV0by1maWxsLCBtaW5tYXgoMTAwcHgsIDFmcikpOwogICAgICB9CiAgICB9CiAgPC9zdHlsZT4KPC9oZWFkPgo8Ym9keT4KICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgPGhlYWRlcj4KICAgICAgPGgxPvCfjYog5rC05p6c6Ze5IChOT1cpPC9oMT4KICAgICAgPHAgY2xhc3M9InN1YnRpdGxlIj7kuobop6PkuK3lm73looPlhoXmr4/kuKrmnIjkuIrluILnmoTmlrDpspzmsLTmnpzvvIzlkIPlvZPlraPjgIHkuqvlgaXlurfvvIE8L3A+CiAgICA8L2hlYWRlcj4KICAgIAogICAgPCEtLSDnrKzkuIDmoI/vvJrlvZPliY3lupTlraPmsLTmnpwgLS0+CiAgICA8ZGl2IGNsYXNzPSJzZWN0aW9uLWN1cnJlbnQiPgogICAgICA8aDIgY2xhc3M9InNlY3Rpb24tdGl0bGUiPuacrOWto+iKgueahOW6lOWto+awtOaenDwvaDI+CiAgICAgIDxkaXYgY2xhc3M9ImZydWl0LWdyaWQiIGlkPSJjdXJyZW50LWZydWl0cyI+PC9kaXY+CiAgICA8L2Rpdj4KICAgIAogICAgPCEtLSDnrKzkuozmoI/vvJrmnIjku73pgInmi6kgLS0+CiAgICA8ZGl2IGNsYXNzPSJzZWN0aW9uLW1vbnRocyI+CiAgICAgIDxoMiBjbGFzcz0ic2VjdGlvbi10aXRsZSBtb250aHMiPuaMieaciOafpeivouawtOaenDwvaDI+CiAgICAgIDxkaXYgY2xhc3M9Im1vbnRoLXRhYnMiIGlkPSJtb250aC10YWJzIj48L2Rpdj4KICAgIDwvZGl2PgogIDwvZGl2PgogIAogIDwhLS0g5pyI5Lu95rC05p6c5YiX6KGo5by556qXIC0tPgogIDxkaXYgY2xhc3M9Im1vZGFsLW92ZXJsYXkiIGlkPSJtb250aC1tb2RhbCI+CiAgICA8ZGl2IGNsYXNzPSJtb2RhbCI+CiAgICAgIDxidXR0b24gY2xhc3M9Im1vZGFsLWNsb3NlIiBvbmNsaWNrPSJjbG9zZU1vZGFsKCdtb250aC1tb2RhbCcpIj7DlzwvYnV0dG9uPgogICAgICA8aDIgY2xhc3M9Im1vZGFsLXRpdGxlIiBpZD0ibW9udGgtbW9kYWwtdGl0bGUiPjwvaDI+CiAgICAgIDxkaXYgY2xhc3M9ImZydWl0LWdyaWQiIGlkPSJtb250aC1mcnVpdHMtZ3JpZCI+PC9kaXY+CiAgICA8L2Rpdj4KICA8L2Rpdj4KICAKICAgIDwhLS0g5rC05p6cIElEIOWNoeW8ueeqlyAtLT4KICA8ZGl2IGNsYXNzPSJtb2RhbC1vdmVybGF5IiBpZD0iaWRjYXJkLW1vZGFsIj4KICAgIDxkaXYgY2xhc3M9Im1vZGFsIj4KICAgICAgPGJ1dHRvbiBjbGFzcz0ibW9kYWwtY2xvc2UiIG9uY2xpY2s9ImNsb3NlTW9kYWwoJ2lkY2FyZC1tb2RhbCcpIj7DlzwvYnV0dG9uPgogICAgICA8aDIgY2xhc3M9Im1vZGFsLXRpdGxlIiBpZD0iaWRjYXJkLXRpdGxlIj48L2gyPgogICAgICA8ZGl2IGlkPSJpZGNhcmQtY29udGVudCI+PC9kaXY+CiAgICA8L2Rpdj4KICA8L2Rpdj4KICAKICA8IS0tIOmhteiEmiAtLT4KICA8Zm9vdGVyIHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7IGNvbG9yOiB3aGl0ZTsgcGFkZGluZzogNDBweCAyMHB4OyBtYXJnaW4tdG9wOiAzMHB4OyBhbmltYXRpb246IGZhZGVJblVwIDFzIGVhc2Utb3V0OyI+CiAgICA8ZGl2IHN0eWxlPSJtYXgtd2lkdGg6IDgwMHB4OyBtYXJnaW46IDAgYXV0bzsiPgogICAgICA8IS0tIOmhueebrumTvuaOpSAtLT4KICAgICAgPGRpdiBzdHlsZT0ibWFyZ2luLWJvdHRvbTogMjVweDsiPgogICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9taWFvdWFpL2ZydWl0IiAKICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIgCiAgICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgIHN0eWxlPSJkaXNwbGF5OiBpbmxpbmUtYmxvY2s7IGJhY2tncm91bmQ6IHJnYmEoMjU1LDI1NSwyNTUsMC4yKTsgcGFkZGluZzogMTBweCAyNXB4OyBib3JkZXItcmFkaXVzOiAyNXB4OyBjb2xvcjogd2hpdGU7IHRleHQtZGVjb3JhdGlvbjogbm9uZTsgZm9udC13ZWlnaHQ6IDYwMDsgdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTsgYmFja2Ryb3AtZmlsdGVyOiBibHVyKDEwcHgpOyI+CiAgICAgICAgICDwn5OmIEdpdEh1YiDku5PlupMgwrcgbWlhb3VhaS9mcnVpdAogICAgICAgIDwvYT4KICAgICAgPC9kaXY+CiAgICAgIAogICAgICA8IS0tIOS9nOiAheS/oeaBryAtLT4KICAgICAgPHAgc3R5bGU9ImZvbnQtc2l6ZTogMC45NXJlbTsgbWFyZ2luLWJvdHRvbTogMTBweDsgb3BhY2l0eTogMC45OyI+CiAgICAgICAg55SxIDxzdHJvbmc+bWlhb3VhaTwvc3Ryb25nPiDlvIDlj5Hnu7TmiqQgfCDmlbDmja7mnaXmupDvvJrlhazlvIDlhpzkuJrotYTmlpkgJiBBSSDph4fpm4bmlbTnkIYKICAgICAgPC9wPgogICAgICAKICAgICAgPCEtLSDniYjmnKznu5/orqEgLS0+CiAgICAgIDxwIHN0eWxlPSJmb250LXNpemU6IDAuODVyZW07IG1hcmdpbi1ib3R0b206IDI1cHg7IG9wYWNpdHk6IDAuODsiPgogICAgICAgIHYxLjAgwrcg5pS25b2VIDE0NCDnp43ml7bku6TmsLTmnpwgwrcg5oyB57ut5pu05paw5LitLi4uCiAgICAgIDwvcD4KICAgICAgCiAgICAgIDwhLS0g5YiG6ZqU57q/IC0tPgogICAgICA8ZGl2IHN0eWxlPSJoZWlnaHQ6IDFweDsgYmFja2dyb3VuZDogcmdiYSgyNTUsMjU1LDI1NSwwLjMpOyBtYXJnaW46IDI1cHggMDsiPjwvZGl2PgogICAgICAKICAgICAgPCEtLSDlhY3otKPlo7DmmI4gLS0+CiAgICAgIDxkaXYgc3R5bGU9InRleHQtYWxpZ246IGxlZnQ7IGJhY2tncm91bmQ6IHJnYmEoMCwwLDAsMC4yKTsgcGFkZGluZzogMjBweDsgYm9yZGVyLXJhZGl1czogMTVweDsgYmFja2Ryb3AtZmlsdGVyOiBibHVyKDEwcHgpOyI+CiAgICAgICAgPHAgc3R5bGU9ImZvbnQtc2l6ZTogMC43NXJlbTsgbGluZS1oZWlnaHQ6IDEuNjsgbWFyZ2luLWJvdHRvbTogOHB4OyBvcGFjaXR5OiAwLjg1OyI+CiAgICAgICAgICDimqDvuI88c3Ryb25nPuWFjei0o+WjsOaYju+8mjwvc3Ryb25nPuacrOe9keermeaPkOS+m+eahOawtOaenOS/oeaBr+S7heS+m+WPguiAg+WSjOWtpuS5oOS6pOa1ge+8jOS4jeS9nOS4uuS4k+S4muWMu+eWl+aIluiQpeWFu+aMh+WvvOOAggogICAgICAgIDwvcD4KICAgICAgICA8cCBzdHlsZT0iZm9udC1zaXplOiAwLjc1cmVtOyBsaW5lLWhlaWdodDogMS42OyBtYXJnaW4tYm90dG9tOiA4cHg7IG9wYWNpdHk6IDAuODU7Ij4KICAgICAgICAgIOKAoiDmsLTmnpzkuIrluILml7bpl7Tlj6/og73lm6DlnLDljLrmsJTlgJnjgIHnp43mpI3mioDmnK/nrYnlm6DntKDmnInmiYDlt67lvII8YnI+CiAgICAgICAgICDigKIg6JCl5YW75oiQ5YiG5pWw5o2u5Li65bmz5Z2H5YC877yM5a6e6ZmF5ZCr6YeP5Lya5Zug5ZOB56eN44CB5Lqn5Zyw44CB5oiQ54af5bqm6ICM5rOi5YqoPGJyPgogICAgICAgICAg4oCiICLpo5/nlKjlip/mlYgi5LuF5Li65rCR6Ze05Lyg57uf6K6k55+l5oiW5Yid5q2l56CU56m257uT5p6c77yM5LiN5Y+v5pu/5Luj5Yy75ZixPGJyPgogICAgICAgICAg4oCiIOWmguacieeJueauiuWBpeW6t+eKtuWGte+8iOWmguezluWwv+eXheOAgei/h+aVj+S9k+i0qO+8ie+8jOivt+WSqOivouWMu+eUn+WQjumAgumHj+mjn+eUqAogICAgICAgIDwvcD4KICAgICAgICA8cCBzdHlsZT0iZm9udC1zaXplOiAwLjdyZW07IGxpbmUtaGVpZ2h0OiAxLjU7IG1hcmdpbi10b3A6IDE1cHg7IG9wYWNpdHk6IDAuNzsgZm9udC1zdHlsZTogaXRhbGljOyI+CiAgICAgICAgICDwn42KIOWQg+W9k+Wto+awtOaenO+8jOS6q+WPl+WBpeW6t+eUn+a0u++8geacrOmhueebrumBteW+qiBDQyBCWS1OQy1TQSA0LjAg5Y2P6K6u5byA5rqQ5YiG5LqrCiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KICAgICAgCiAgICAgIDwhLS0g54mI5p2D5L+h5oGvIC0tPgogICAgICA8cCBzdHlsZT0iZm9udC1zaXplOiAwLjc1cmVtOyBtYXJnaW4tdG9wOiAyNXB4OyBvcGFjaXR5OiAwLjc7Ij4KICAgICAgICDCqSAyMDI1IDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9taWFvdWFpIiB0YXJnZXQ9Il9ibGFuayIgc3R5bGU9ImNvbG9yOiAjZjA5M2ZiOyB0ZXh0LWRlY29yYXRpb246IG5vbmU7Ij5taWFvdWFpPC9hPi4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KICAgICAgPC9wPgogICAgPC9kaXY+CiAgPC9mb290ZXI+CiAgCiAgPHNjcmlwdD4KICAgIGxldCBmcnVpdHNEYXRhID0gW107CiAgICAKICAgIC8vIOiOt+WPluW9k+aciAogICAgZnVuY3Rpb24gZ2V0Q3VycmVudE1vbnRoKCkgewogICAgICByZXR1cm4gbmV3IERhdGUoKS5nZXRNb250aCgpICsgMTsgLy8gMS0xMgogICAgfQogICAgCiAgICAvLyDliqDovb3msLTmnpzmlbDmja4KICAgIGFzeW5jIGZ1bmN0aW9uIGxvYWRGcnVpdHMoKSB7CiAgICAgIHRyeSB7CiAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaCgnZnJ1aXQtbGlzdC5qc29uJyk7CiAgICAgICAgZnJ1aXRzRGF0YSA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTsKICAgICAgICBpbml0QXBwKCk7CiAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgY29uc29sZS5lcnJvcign5Yqg6L295aSx6LSlOicsIGVycm9yKTsKICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3VycmVudC1mcnVpdHMnKS5pbm5lckhUTUwgPSAnPHA+5pWw5o2u5Yqg6L295LitLi4uPC9wPic7CiAgICAgIH0KICAgIH0KICAgIAogICAgLy8g5Yid5aeL5YyW5bqU55SoCiAgICBmdW5jdGlvbiBpbml0QXBwKCkgewogICAgICByZW5kZXJDdXJyZW50U2Vhc29uRnJ1aXRzKCk7CiAgICAgIHJlbmRlck1vbnRoVGFicygpOwogICAgfQogICAgCiAgICAvLyDmuLLmn5PlvZPliY3lupTlraPmsLTmnpwKICAgIGZ1bmN0aW9uIHJlbmRlckN1cnJlbnRTZWFzb25GcnVpdHMoKSB7CiAgICAgIGNvbnN0IGN1cnJlbnRNb250aCA9IGdldEN1cnJlbnRNb250aCgpOwogICAgICBjb25zdCBjb250YWluZXIgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3VycmVudC1mcnVpdHMnKTsKICAgICAgCiAgICAgIGNvbnN0IHNlYXNvbmFsRnJ1aXRzID0gZnJ1aXRzRGF0YS5mcnVpdHMuZmlsdGVyKGZydWl0ID0+IAogICAgICAgIGlzRnJ1aXRJbk1vbnRoKGZydWl0LCBjdXJyZW50TW9udGgpCiAgICAgICk7CiAgICAgIAogICAgICBpZiAoc2Vhc29uYWxGcnVpdHMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgY29udGFpbmVyLmlubmVySFRNTCA9ICc8cD7mmoLml6DmlbDmja48L3A+JzsKICAgICAgICByZXR1cm47CiAgICAgIH0KICAgICAgCiAgICAgIGNvbnRhaW5lci5pbm5lckhUTUwgPSBzZWFzb25hbEZydWl0cy5tYXAoZnJ1aXQgPT4gYAogICAgICAgIDxkaXYgY2xhc3M9ImZydWl0LWl0ZW0iIG9uY2xpY2s9InNob3dJZENhcmQoJyR7ZnJ1aXQuaWR9JykiPgogICAgICAgICAgPGRpdiBjbGFzcz0iZnJ1aXQtbmFtZSI+JHtmcnVpdC5uYW1lfTwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICBgKS5qb2luKCcnKTsKICAgIH0KICAgIAogICAgLy8g5riy5p+T5pyI5Lu95qCH562+CiAgICBmdW5jdGlvbiByZW5kZXJNb250aFRhYnMoKSB7CiAgICAgIGNvbnN0IGNvbnRhaW5lciA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdtb250aC10YWJzJyk7CiAgICAgIGNvbnRhaW5lci5pbm5lckhUTUwgPSBBcnJheS5mcm9tKHtsZW5ndGg6IDEyfSwgKF8sIGkpID0+IGkgKyAxKQogICAgICAgIC5tYXAobW9udGggPT4gYAogICAgICAgICAgPGJ1dHRvbiBjbGFzcz0ibW9udGgtdGFiIiBvbmNsaWNrPSJzaG93TW9udGhGcnVpdHMoJHttb250aH0pIj4KICAgICAgICAgICAgJHttb250aH3mnIgKICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgIGApLmpvaW4oJycpOwogICAgfQogICAgCiAgICAvLyDliKTmlq3msLTmnpzmmK/lkKblnKjmjIflrprmnIjku73kuIrluIIKICAgIGZ1bmN0aW9uIGlzRnJ1aXRJbk1vbnRoKGZydWl0LCBtb250aCkgewogICAgICBpZiAoIWZydWl0LmhhcnZlc3Rfc3RhcnQgfHwgIWZydWl0LmhhcnZlc3RfZW5kKSByZXR1cm4gZmFsc2U7CiAgICAgIAogICAgICBjb25zdCBzdGFydCA9IHBhcnNlSW50KGZydWl0LmhhcnZlc3Rfc3RhcnQpOwogICAgICBjb25zdCBlbmQgPSBwYXJzZUludChmcnVpdC5oYXJ2ZXN0X2VuZCk7CiAgICAgIAogICAgICBpZiAoc3RhcnQgPD0gZW5kKSB7CiAgICAgICAgcmV0dXJuIG1vbnRoID49IHN0YXJ0ICYmIG1vbnRoIDw9IGVuZDsKICAgICAgfSBlbHNlIHsKICAgICAgICAvLyDot6jlubTnmoTmg4XlhrXvvIjkvovlpoIgMTEg5pyI5Yiw5qyh5bm0IDMg5pyI77yJCiAgICAgICAgcmV0dXJuIG1vbnRoID49IHN0YXJ0IHx8IG1vbnRoIDw9IGVuZDsKICAgICAgfQogICAgfQogICAgCiAgICAvLyDmmL7npLrmn5DkuKrmnIjnmoTmsLTmnpzliJfooagKICAgIGZ1bmN0aW9uIHNob3dNb250aEZydWl0cyhtb250aCkgewogICAgICBjb25zdCBtb2RhbFRpdGxlID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ21vbnRoLW1vZGFsLXRpdGxlJyk7CiAgICAgIGNvbnN0IGZydWl0c0dyaWQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbW9udGgtZnJ1aXRzLWdyaWQnKTsKICAgICAgY29uc3QgbW9kYWwgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbW9udGgtbW9kYWwnKTsKICAgICAgCiAgICAgIG1vZGFsVGl0bGUudGV4dENvbnRlbnQgPSBgJHttb250aH3mnIjnmoTlupTlraPmsLTmnpxgOwogICAgICAKICAgICAgY29uc3QgbW9udGhseUZydWl0cyA9IGZydWl0c0RhdGEuZnJ1aXRzLmZpbHRlcihmcnVpdCA9PiAKICAgICAgICBpc0ZydWl0SW5Nb250aChmcnVpdCwgbW9udGgpCiAgICAgICk7CiAgICAgIAogICAgICBpZiAobW9udGhseUZydWl0cy5sZW5ndGggPT09IDApIHsKICAgICAgICBmcnVpdHNHcmlkLmlubmVySFRNTCA9ICc8cD7or6XmnIjku73mmoLml6DmsLTmnpzmlbDmja48L3A+JzsKICAgICAgfSBlbHNlIHsKICAgICAgICBmcnVpdHNHcmlkLmlubmVySFRNTCA9IG1vbnRobHlGcnVpdHMubWFwKGZydWl0ID0+IGAKICAgICAgICAgIDxkaXYgY2xhc3M9ImZydWl0LWl0ZW0iIG9uY2xpY2s9InNob3dJZENhcmQoJyR7ZnJ1aXQuaWR9JykiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJmcnVpdC1uYW1lIj4ke2ZydWl0Lm5hbWV9PC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICBgKS5qb2luKCcnKTsKICAgICAgfQogICAgICAKICAgICAgbW9kYWwuY2xhc3NMaXN0LmFkZCgnYWN0aXZlJyk7CiAgICB9CiAgICAKICAgIC8vIOaYvuekuuawtOaenCBJRCDljaEKICAgIGFzeW5jIGZ1bmN0aW9uIHNob3dJZENhcmQoZnJ1aXRJZCkgewogICAgICB0cnkgewogICAgICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goYGZydWl0LWlkY2FyZC8ke2ZydWl0SWR9Lmpzb25gKTsKICAgICAgICBjb25zdCBkYXRhID0gYXdhaXQgcmVzcG9uc2UuanNvbigpOwogICAgICAgIAogICAgICAgIGNvbnN0IG1vZGFsVGl0bGUgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnaWRjYXJkLXRpdGxlJyk7CiAgICAgICAgY29uc3QgbW9kYWxDb250ZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2lkY2FyZC1jb250ZW50Jyk7CiAgICAgICAgY29uc3QgbW9kYWwgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnaWRjYXJkLW1vZGFsJyk7CiAgICAgICAgCiAgICAgICAgbW9kYWxUaXRsZS50ZXh0Q29udGVudCA9IGRhdGEubmFtZTsKICAgICAgICAKICAgICAgICBtb2RhbENvbnRlbnQuaW5uZXJIVE1MID0gYAogICAgICAgICAgPGRpdiBjbGFzcz0iaWRjYXJkLXNlY3Rpb24iPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJpZGNhcmQtbGFiZWwiPuWIhuexu+S/oeaBrzwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0YWctY29udGFpbmVyIj4KICAgICAgICAgICAgICAke09iamVjdC5lbnRyaWVzKGRhdGEuY2xhc3NpZmljYXRpb24gfHwge30pLm1hcCgoW2tleSwgdmFsdWVdKSA9PiAKICAgICAgICAgICAgICAgIGA8c3BhbiBjbGFzcz0idGFnIj4ke2tleX06ICR7dmFsdWV9PC9zcGFuPmAKICAgICAgICAgICAgICApLmpvaW4oJycpfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgCiAgICAgICAgICA8ZGl2IGNsYXNzPSJpZGNhcmQtc2VjdGlvbiI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImlkY2FyZC1sYWJlbCI+5Lqn5Zyw6IyD5Zu0PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InRhZy1jb250YWluZXIiPgogICAgICAgICAgICAgICR7KGRhdGEub3JpZ2luX3JhbmdlIHx8IFtdKS5tYXAocmVnaW9uID0+IAogICAgICAgICAgICAgICAgYDxzcGFuIGNsYXNzPSJ0YWciPiR7cmVnaW9ufTwvc3Bhbj5gCiAgICAgICAgICAgICAgKS5qb2luKCcnKX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIAogICAgICAgICAgPGRpdiBjbGFzcz0iaWRjYXJkLXNlY3Rpb24iPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJpZGNhcmQtbGFiZWwiPuacgOS9s+WTgeWwneWto+iKgjwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJpZGNhcmQtdmFsdWUiPvCfjYIgJHtkYXRhLmJlc3Rfc2Vhc29uIHx8ICflhajlubTkvpvlupQnfTwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICAKICAgICAgICAgIDxkaXYgY2xhc3M9ImlkY2FyZC1zZWN0aW9uIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iaWRjYXJkLWxhYmVsIj7okKXlhbvmiJDliIbvvIjmr48gMTAwIOWFi++8iTwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJudXRyaXRpb24tZ3JpZCI+CiAgICAgICAgICAgICAgJHtPYmplY3QuZW50cmllcyhkYXRhLm51dHJpdGlvbl9wZXJfMTAwZyB8fCB7fSkubWFwKChba2V5LCB2YWx1ZV0pID0+IAogICAgICAgICAgICAgICAgYDxkaXYgY2xhc3M9Im51dHJpdGlvbi1pdGVtIj4ke2tleX06ICR7dmFsdWV9PC9kaXY+YAogICAgICAgICAgICAgICkuam9pbignJyl9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICAKICAgICAgICAgIDxkaXYgY2xhc3M9ImlkY2FyZC1zZWN0aW9uIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iaWRjYXJkLWxhYmVsIj7okKXlhbvlip/mlYg8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0idGFnLWNvbnRhaW5lciI+CiAgICAgICAgICAgICAgJHsoZGF0YS5iZW5lZml0cyB8fCBbXSkubWFwKGJlbmVmaXQgPT4gCiAgICAgICAgICAgICAgICBgPHNwYW4gY2xhc3M9InRhZyI+4pyoICR7YmVuZWZpdH08L3NwYW4+YAogICAgICAgICAgICAgICkuam9pbignJyl9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICAKICAgICAgICAgIDxkaXYgY2xhc3M9ImlkY2FyZC1zZWN0aW9uIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iaWRjYXJkLWxhYmVsIj7po5/nlKjlsI/otLTlo6s8L2Rpdj4KICAgICAgICAgICAgPHVsIGNsYXNzPSJ0aXBzLWxpc3QiPgogICAgICAgICAgICAgICR7KGRhdGEudGlwcyB8fCBbXSkubWFwKHRpcCA9PiAKICAgICAgICAgICAgICAgIGA8bGk+JHt0aXB9PC9saT5gCiAgICAgICAgICAgICAgKS5qb2luKCcnKX0KICAgICAgICAgICAgPC91bD4KICAgICAgICAgIDwvZGl2PgogICAgICAgIGA7CiAgICAgICAgCiAgICAgICAgbW9kYWwuY2xhc3NMaXN0LmFkZCgnYWN0aXZlJyk7CiAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgY29uc29sZS5lcnJvcign5Yqg6L295aSx6LSlOicsIGVycm9yKTsKICAgICAgICBhbGVydCgn5peg5rOV5Yqg6L295rC05p6c5L+h5oGvJyk7CiAgICAgIH0KICAgIH0KICAgIAogICAgLy8g5YWz6Zet5by556qXCiAgICBmdW5jdGlvbiBjbG9zZU1vZGFsKG1vZGFsSWQpIHsKICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQobW9kYWxJZCkuY2xhc3NMaXN0LnJlbW92ZSgnYWN0aXZlJyk7CiAgICB9CiAgICAKICAgIC8vIOeCueWHu+mBrue9qeWxguWFs+mXreW8ueeqlwogICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgnLm1vZGFsLW92ZXJsYXknKS5mb3JFYWNoKG92ZXJsYXkgPT4gewogICAgICBvdmVybGF5LmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgKGUpID0+IHsKICAgICAgICBpZiAoZS50YXJnZXQgPT09IG92ZXJsYXkpIHsKICAgICAgICAgIG92ZXJsYXkuY2xhc3NMaXN0LnJlbW92ZSgnYWN0aXZlJyk7CiAgICAgICAgfQogICAgICB9KTsKICAgIH0pOwogICAgCiAgICAvLyBFU0Mg6ZSu5YWz6Zet5by556qXCiAgICBkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCdrZXlkb3duJywgKGUpID0+IHsKICAgICAgaWYgKGUua2V5ID09PSAnRXNjYXBlJykgewogICAgICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJy5tb2RhbC1vdmVybGF5JykuZm9yRWFjaChtb2RhbCA9PiB7CiAgICAgICAgICBtb2RhbC5jbGFzc0xpc3QucmVtb3ZlKCdhY3RpdmUnKTsKICAgICAgICB9KTsKICAgICAgfQogICAgfSk7CiAgICAKICAgIC8vIOWQr+WKqOW6lOeUqAogICAgbG9hZEZydWl0cygpOwogIDwvc2NyaXB0Pgo8L2JvZHk+CjwvaHRtbD4=
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>水果闹 (NOW) - 时令水果查询</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    header {
+      text-align: center;
+      color: white;
+      margin-bottom: 40px;
+      animation: fadeInDown 0.8s ease-out;
+    }
+    
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+    }
+    
+    .subtitle {
+      font-size: 1.1rem;
+      opacity: 0.95;
+    }
+    
+    /* 第一栏：当前应季水果 */
+    .section-current {
+      background: white;
+      border-radius: 20px;
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+      animation: fadeInUp 0.6s ease-out;
+    }
+    
+    .section-title {
+      font-size: 1.5rem;
+      color: #333;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .section-title::before {
+      content: '🔥';
+    }
+    
+    .fruit-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 15px;
+    }
+    
+    .fruit-item {
+      background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+      border-radius: 15px;
+      padding: 20px 10px;
+      text-align: center;
+      color: white;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(245, 87, 108, 0.3);
+    }
+    
+    .fruit-item:hover {
+      transform: translateY(-5px) scale(1.05);
+      box-shadow: 0 8px 25px rgba(245, 87, 108, 0.4);
+    }
+    
+    .fruit-name {
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+    
+    /* 第二栏：月份选择 */
+    .section-months {
+      background: white;
+      border-radius: 20px;
+      padding: 30px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+      animation: fadeInUp 0.8s ease-out;
+    }
+    
+    .section-title.months {
+      color: #333;
+    }
+    
+    .section-title.months::before {
+      content: '📅';
+    }
+    
+    .month-tabs {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 12px;
+      margin-top: 20px;
+    }
+    
+    .month-tab {
+      background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+      border: none;
+      border-radius: 12px;
+      padding: 15px;
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #333;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    }
+    
+    .month-tab:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+    }
+    
+    .month-tab.active {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+    }
+    
+    /* 弹窗样式 */
+    .modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.6);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+      backdrop-filter: blur(5px);
+      animation: fadeIn 0.3s ease;
+    }
+    
+    .modal-overlay.active {
+      display: flex;
+    }
+    
+    .modal {
+      background: white;
+      border-radius: 20px;
+      padding: 30px;
+      max-width: 500px;
+      width: 90%;
+      max-height: 80vh;
+      overflow-y: auto;
+      position: relative;
+      animation: scaleIn 0.3s ease;
+    }
+    
+    .modal-close {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      background: #f5576c;
+      color: white;
+      border: none;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      font-size: 1.2rem;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+    
+    .modal-close:hover {
+      background: #e6405c;
+      transform: rotate(90deg);
+    }
+    
+    .modal-title {
+      font-size: 1.8rem;
+      color: #333;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    
+    /* 水果 ID 卡片样式 */
+    .idcard-section {
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 1px dashed #eee;
+    }
+    
+    .idcard-section:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+    
+    .idcard-label {
+      font-weight: 600;
+      color: #666;
+      font-size: 0.9rem;
+      margin-bottom: 5px;
+    }
+    
+    .idcard-value {
+      color: #333;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+    
+    .nutrition-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 8px;
+      margin-top: 10px;
+    }
+    
+    .nutrition-item {
+      background: #f8f9fa;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-size: 0.9rem;
+    }
+    
+    .tag-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+    }
+    
+    .tag {
+      background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      color: #333;
+    }
+    
+    .tips-list {
+      list-style: none;
+      margin-top: 10px;
+    }
+    
+    .tips-list li {
+      padding: 8px 0 8px 25px;
+      position: relative;
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+    
+    .tips-list li::before {
+      content: '💡';
+      position: absolute;
+      left: 0;
+      top: 8px;
+    }
+    
+    @keyframes fadeInDown {
+      from { opacity: 0; transform: translateY(-30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    
+    @keyframes scaleIn {
+      from { opacity: 0; transform: scale(0.9); }
+      to { opacity: 1; transform: scale(1); }
+    }
+    
+    /* 响应式 */
+    @media (max-width: 768px) {
+      h1 { font-size: 1.8rem; }
+      
+      .month-tabs {
+        grid-template-columns: repeat(3, 1fr);
+      }
+      
+      .fruit-grid {
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🍊 水果闹 (NOW)</h1>
+      <p class="subtitle">了解中国境内每个月上市的新鲜水果，吃当季、享健康！</p>
+    </header>
+    
+    <!-- 第一栏：当前应季水果 -->
+    <div class="section-current">
+      <h2 class="section-title">本季节的应季水果</h2>
+      <div class="fruit-grid" id="current-fruits"></div>
+    </div>
+    
+    <!-- 第二栏：月份选择 -->
+    <div class="section-months">
+      <h2 class="section-title months">按月查询水果</h2>
+      <div class="month-tabs" id="month-tabs"></div>
+    </div>
+  </div>
+  
+  <!-- 月份水果列表弹窗 -->
+  <div class="modal-overlay" id="month-modal">
+    <div class="modal">
+      <button class="modal-close" onclick="closeModal('month-modal')">×</button>
+      <h2 class="modal-title" id="month-modal-title"></h2>
+      <div class="fruit-grid" id="month-fruits-grid"></div>
+    </div>
+  </div>
+  
+    <!-- 水果 ID 卡弹窗 -->
+  <div class="modal-overlay" id="idcard-modal">
+    <div class="modal">
+      <button class="modal-close" onclick="closeModal('idcard-modal')">×</button>
+      <h2 class="modal-title" id="idcard-title"></h2>
+      <div id="idcard-content"></div>
+    </div>
+  </div>
+  
+  <!-- 页脚 -->
+  <footer style="text-align: center; color: white; padding: 40px 20px; margin-top: 30px; animation: fadeInUp 1s ease-out;">
+    <div style="max-width: 800px; margin: 0 auto;">
+      <!-- 项目链接 -->
+      <div style="margin-bottom: 25px;">
+        <a href="https://github.com/miaouai/fruit" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           style="display: inline-block; background: rgba(255,255,255,0.2); padding: 10px 25px; border-radius: 25px; color: white; text-decoration: none; font-weight: 600; transition: all 0.3s ease; backdrop-filter: blur(10px);">
+          📦 GitHub 仓库 · miaouai/fruit
+        </a>
+      </div>
+      
+      <!-- 作者信息 -->
+      <p style="font-size: 0.95rem; margin-bottom: 10px; opacity: 0.9;">
+        由 <strong>miaouai</strong> 开发维护 | 数据来源：公开农业资料 & AI 采集整理
+      </p>
+      
+      <!-- 版本统计 -->
+      <p style="font-size: 0.85rem; margin-bottom: 25px; opacity: 0.8;">
+        v1.0 · 收录 144 种时令水果 · 持续更新中...
+      </p>
+      
+      <!-- 分隔线 -->
+      <div style="height: 1px; background: rgba(255,255,255,0.3); margin: 25px 0;"></div>
+      
+      <!-- 免责声明 -->
+      <div style="text-align: left; background: rgba(0,0,0,0.2); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px);">
+        <p style="font-size: 0.75rem; line-height: 1.6; margin-bottom: 8px; opacity: 0.85;">
+          ⚠️<strong>免责声明：</strong>本网站提供的水果信息仅供参考和学习交流，不作为专业医疗或营养指导。
+        </p>
+        <p style="font-size: 0.75rem; line-height: 1.6; margin-bottom: 8px; opacity: 0.85;">
+          • 水果上市时间可能因地区气候、种植技术等因素有所差异<br>
+          • 营养成分数据为平均值，实际含量会因品种、产地、成熟度而波动<br>
+          • "食用功效"仅为民间传统认知或初步研究结果，不可替代医嘱<br>
+          • 如有特殊健康状况（如糖尿病、过敏体质），请咨询医生后适量食用
+        </p>
+        <p style="font-size: 0.7rem; line-height: 1.5; margin-top: 15px; opacity: 0.7; font-style: italic;">
+          🍊 吃当季水果，享受健康生活！本项目遵循 CC BY-NC-SA 4.0 协议开源分享
+        </p>
+      </div>
+      
+      <!-- 版权信息 -->
+      <p style="font-size: 0.75rem; margin-top: 25px; opacity: 0.7;">
+        © 2025 <a href="https://github.com/miaouai" target="_blank" style="color: #f093fb; text-decoration: none;">miaouai</a>. All rights reserved.
+      </p>
+    </div>
+  </footer>
+  
+  <script>
+    let fruitsData = [];
+    
+    // 获取当月
+    function getCurrentMonth() {
+      return new Date().getMonth() + 1; // 1-12
+    }
+    
+    // 加载水果数据
+    async function loadFruits() {
+      try {
+        const response = await fetch('fruit-list.json');
+        fruitsData = await response.json();
+        initApp();
+      } catch (error) {
+        console.error('加载失败:', error);
+        document.getElementById('current-fruits').innerHTML = '<p>数据加载中...</p>';
+      }
+    }
+    
+    // 初始化应用
+    function initApp() {
+      renderCurrentSeasonFruits();
+      renderMonthTabs();
+    }
+    
+    // 渲染当前应季水果
+    function renderCurrentSeasonFruits() {
+      const currentMonth = getCurrentMonth();
+      const container = document.getElementById('current-fruits');
+      
+      const seasonalFruits = fruitsData.fruits.filter(fruit => 
+        isFruitInMonth(fruit, currentMonth)
+      );
+      
+      if (seasonalFruits.length === 0) {
+        container.innerHTML = '<p>暂无数据</p>';
+        return;
+      }
+      
+      container.innerHTML = seasonalFruits.map(fruit => `
+        <div class="fruit-item" onclick="showIdCard('${fruit.id}')">
+          <div class="fruit-name">${fruit.name}</div>
+        </div>
+      `).join('');
+    }
+    
+    // 渲染月份标签
+    function renderMonthTabs() {
+      const container = document.getElementById('month-tabs');
+      container.innerHTML = Array.from({length: 12}, (_, i) => i + 1)
+        .map(month => `
+          <button class="month-tab" onclick="showMonthFruits(${month})">
+            ${month}月
+          </button>
+        `).join('');
+    }
+    
+    // 判断水果是否在指定月份上市
+    function isFruitInMonth(fruit, month) {
+      if (!fruit.harvest_start || !fruit.harvest_end) return false;
+      
+      const start = parseInt(fruit.harvest_start);
+      const end = parseInt(fruit.harvest_end);
+      
+      if (start <= end) {
+        return month >= start && month <= end;
+      } else {
+        // 跨年的情况（例如 11 月到次年 3 月）
+        return month >= start || month <= end;
+      }
+    }
+    
+    // 显示某个月的水果列表
+    function showMonthFruits(month) {
+      const modalTitle = document.getElementById('month-modal-title');
+      const fruitsGrid = document.getElementById('month-fruits-grid');
+      const modal = document.getElementById('month-modal');
+      
+      modalTitle.textContent = `${month}月的应季水果`;
+      
+      const monthlyFruits = fruitsData.fruits.filter(fruit => 
+        isFruitInMonth(fruit, month)
+      );
+      
+      if (monthlyFruits.length === 0) {
+        fruitsGrid.innerHTML = '<p>该月份暂无水果数据</p>';
+      } else {
+        fruitsGrid.innerHTML = monthlyFruits.map(fruit => `
+          <div class="fruit-item" onclick="showIdCard('${fruit.id}')">
+            <div class="fruit-name">${fruit.name}</div>
+          </div>
+        `).join('');
+      }
+      
+      modal.classList.add('active');
+    }
+    
+    // 显示水果 ID 卡
+    async function showIdCard(fruitId) {
+      try {
+        const response = await fetch(`fruit-idcard/${fruitId}.json`);
+        const data = await response.json();
+        
+        const modalTitle = document.getElementById('idcard-title');
+        const modalContent = document.getElementById('idcard-content');
+        const modal = document.getElementById('idcard-modal');
+        
+        modalTitle.textContent = data.name;
+        
+        modalContent.innerHTML = `
+          <div class="idcard-section">
+            <div class="idcard-label">分类信息</div>
+            <div class="tag-container">
+              ${Object.entries(data.classification || {}).map(([key, value]) => 
+                `<span class="tag">${key}: ${value}</span>`
+              ).join('')}
+            </div>
+          </div>
+          
+          <div class="idcard-section">
+            <div class="idcard-label">产地范围</div>
+            <div class="tag-container">
+              ${(data.origin_range || []).map(region => 
+                `<span class="tag">${region}</span>`
+              ).join('')}
+            </div>
+          </div>
+          
+          <div class="idcard-section">
+            <div class="idcard-label">最佳品尝季节</div>
+            <div class="idcard-value">🍂 ${data.best_season || '全年供应'}</div>
+          </div>
+          
+          <div class="idcard-section">
+            <div class="idcard-label">营养成分（每 100 克）</div>
+            <div class="nutrition-grid">
+              ${Object.entries(data.nutrition_per_100g || {}).map(([key, value]) => 
+                `<div class="nutrition-item">${key}: ${value}</div>`
+              ).join('')}
+            </div>
+          </div>
+          
+          <div class="idcard-section">
+            <div class="idcard-label">营养功效</div>
+            <div class="tag-container">
+              ${(data.benefits || []).map(benefit => 
+                `<span class="tag">✨ ${benefit}</span>`
+              ).join('')}
+            </div>
+          </div>
+          
+          <div class="idcard-section">
+            <div class="idcard-label">食用小贴士</div>
+            <ul class="tips-list">
+              ${(data.tips || []).map(tip => 
+                `<li>${tip}</li>`
+              ).join('')}
+            </ul>
+          </div>
+        `;
+        
+        modal.classList.add('active');
+      } catch (error) {
+        console.error('加载失败:', error);
+        alert('无法加载水果信息');
+      }
+    }
+    
+    // 关闭弹窗
+    function closeModal(modalId) {
+      document.getElementById(modalId).classList.remove('active');
+    }
+    
+    // 点击遮罩层关闭弹窗
+    document.querySelectorAll('.modal-overlay').forEach(overlay => {
+      overlay.addEventListener('click', (e) => {
+        if (e.target === overlay) {
+          overlay.classList.remove('active');
+        }
+      });
+    });
+    
+    // ESC 键关闭弹窗
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        document.querySelectorAll('.modal-overlay').forEach(modal => {
+          modal.classList.remove('active');
+        });
+      }
+    });
+    
+    // 启动应用
+    loadFruits();
+  </script>
+</body>
+</html>

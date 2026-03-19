@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJrdWJvdGEtZ3JhcGUiLAogICJuYW1lIjogIuW3qOWzsOiRoeiQhCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLokaHokITnp5EiLAogICAgIuWxniI6ICLokaHokITlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuW3qOWzsCIsCiAgICAgICLpu5Hmj5DvvIjor6/np7DvvIkiCiAgICBdLAogICAgIuexu+WeiyI6ICLmtYbmnpznsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuays+WMl+ecgSIsCiAgICAi5bGx5Lic55yBIiwKICAgICLovr3lroHnnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNy05IOaciO+8iOebm+Wkj+iHs+WIneeni++8jOaenOeykuehleWkp++8jOe0q+m7keWkmuaxge+8jOeUnOS4reW4puW+rumFuO+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNDVrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTAuOGciLAogICAgIuibi+eZvei0qCI6ICIwLjVnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIyNW1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMC45ZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLlr4zlkKvoirHpnZLntKDmipfmsKfljJYiLAogICAgIueZveiXnOiKpumGh+S/neaKpOW/g+ihgOeuoSIsCiAgICAi6KGl5YWF5aSP5a2j5rWB5aSx55S16Kej6LSoIgogIF0sCiAgInRpcHMiOiBbCiAgICAi5pW05Liy5Ya36JeP5ZCO6aOO5ZGz5pu05L2zIiwKICAgICLnlKjpnaLnsonmsLTovbvmkJPmuIXmtJfmm7TlubLlh4AiLAogICAgIuezluWwv+eXheaCo+iAhemcgOaOp+WItuaRhOWFpemHjyIKICBdCn0=
+{
+  "id": "kubota-grape",
+  "name": "巨峰葡萄",
+  "classification": {
+    "科": "葡萄科",
+    "属": "葡萄属",
+    "别名": [
+      "巨峰",
+      "黑提（误称）"
+    ],
+    "类型": "浆果类水果"
+  },
+  "origin_range": [
+    "河北省",
+    "山东省",
+    "辽宁省"
+  ],
+  "best_season": "7-9 月（盛夏至初秋，果粒硕大，紫黑多汁，甜中带微酸）",
+  "nutrition_per_100g": {
+    "热量": "45kcal",
+    "碳水化合物": "10.8g",
+    "蛋白质": "0.5g",
+    "维生素 C": "25mg",
+    "膳食纤维": "0.9g"
+  },
+  "benefits": [
+    "富含花青素抗氧化",
+    "白藜芦醇保护心血管",
+    "补充夏季流失电解质"
+  ],
+  "tips": [
+    "整串冷藏后风味更佳",
+    "用面粉水轻搓清洗更干净",
+    "糖尿病患者需控制摄入量"
+  ]
+}

@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJ3YW5nLWJpbiIsCiAgIm5hbWUiOiAi6buE55quIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuiKuOmmmeenkSIsCiAgICAi5bGeIjogIum7hOearuWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi6buE5p6HIiwKICAgICAgIuayueeariIKICAgIF0sCiAgICAi57G75Z6LIjogIuS6mueDreW4puWwj+Wei+aguOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5bm/5Lic55yBIiwKICAgICLlub/opb/lo67ml4/oh6rmsrvljLoiLAogICAgIuemj+W7uuecgSIKICBdLAogICJiZXN0X3NlYXNvbiI6ICI2LTgg5pyI77yI5aSP5a2j5oiQ54af77yM5p6c55qu6buE6KSQ77yM5p6c6IKJ6YW455Sc5b6u6Ium77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICI1MmtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICIxMi41ZyIsCiAgICAi6JuL55m96LSoIjogIjEuMGciLAogICAgIue7tOeUn+e0oCBDIjogIjM1bWciLAogICAgIuiGs+mjn+e6pOe7tCI6ICIyLjVnIgogIH0sCiAgImJlbmVmaXRzIjogWwogICAgIueQhuawlOa2iOmjn++8jOWMlueXsOatouWSsyIsCiAgICAi5ZCr6buE55qu6Iu377yM5YW35oqX54KO5L2c55SoIiwKICAgICLnvJPop6PmmpHng63ng6bmuLQiCiAgXSwKICAidGlwcyI6IFsKICAgICLlj6/ov57nmq7po5/nlKjvvIznmq7lkKvmjKXlj5Hmsrnmm7TpppkiLAogICAgIuebkOa4jeaIluezluiFjOWQjumjjuWRs+abtOS9syIsCiAgICAi56m66IW55oWO6aOf5Lul6Ziy5Yi65r+A6IOD6YW4IgogIF0KfQ==
+{
+  "id": "wang-bin",
+  "name": "黄皮",
+  "classification": {
+    "科": "芸香科",
+    "属": "黄皮属",
+    "别名": [
+      "黄枇",
+      "油皮"
+    ],
+    "类型": "亚热带小型核果"
+  },
+  "origin_range": [
+    "广东省",
+    "广西壮族自治区",
+    "福建省"
+  ],
+  "best_season": "6-8 月（夏季成熟，果皮黄褐，果肉酸甜微苦）",
+  "nutrition_per_100g": {
+    "热量": "52kcal",
+    "碳水化合物": "12.5g",
+    "蛋白质": "1.0g",
+    "维生素 C": "35mg",
+    "膳食纤维": "2.5g"
+  },
+  "benefits": [
+    "理气消食，化痰止咳",
+    "含黄皮苷，具抗炎作用",
+    "缓解暑热烦渴"
+  ],
+  "tips": [
+    "可连皮食用，皮含挥发油更香",
+    "盐渍或糖腌后风味更佳",
+    "空腹慎食以防刺激胃酸"
+  ]
+}

@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJhdm9jYWRvIiwKICAibmFtZSI6ICLniZvmsrnmnpwiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi5qif56eRIiwKICAgICLlsZ4iOiAi6bOE5qKo5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLps4TmoqgiLAogICAgICAi5aW25rK55p6cIgogICAgXSwKICAgICLnsbvlnosiOiAi54Ot5bim6auY6ISC5rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLkupHljZfnnIEiLAogICAgIua1t+WNl+ecgSIsCiAgICAi5Y+w5rm+55yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjUtMTAg5pyI77yI5aSP5a2j5Li65Li777yM5p6c6IKJ57+g57u/77yMY3JlYW15IOaXoOezlu+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiMTYwa2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjguNWciLAogICAgIuibi+eZvei0qCI6ICIyLjBnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIxMG1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiNi43ZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLlr4zlkKvljZXkuI3ppbHlkozohILogqrphbjvvIzmnInnm4rlv4PooYDnrqEiLAogICAgIumrmOe6pOe7tOS/g+i/m+mlseiFueaEnyIsCiAgICAi5ZCr5Y+26buE57Sg77yM5L+d5oqk6KeG5YqbIgogIF0sCiAgInRpcHMiOiBbCiAgICAi5p6c6JKC6ISx6JC95aSE5ZGI57u/6Imy5Li65paw6bKcIiwKICAgICLliIflvIDlkI7mu7Tmn6DmqqzmsYHpmLLmsKfljJYiLAogICAgIuaQremFjem7keiDoeakkuaPkOWNh+iQpeWFu+WQuOaUtiIKICBdCn0=
+{
+  "id": "avocado",
+  "name": "牛油果",
+  "classification": {
+    "科": "樟科",
+    "属": "鳄梨属",
+    "别名": [
+      "鳄梨",
+      "奶油果"
+    ],
+    "类型": "热带高脂水果"
+  },
+  "origin_range": [
+    "云南省",
+    "海南省",
+    "台湾省"
+  ],
+  "best_season": "5-10 月（夏季为主，果肉翠绿，creamy 无糖）",
+  "nutrition_per_100g": {
+    "热量": "160kcal",
+    "碳水化合物": "8.5g",
+    "蛋白质": "2.0g",
+    "维生素 C": "10mg",
+    "膳食纤维": "6.7g"
+  },
+  "benefits": [
+    "富含单不饱和脂肪酸，有益心血管",
+    "高纤维促进饱腹感",
+    "含叶黄素，保护视力"
+  ],
+  "tips": [
+    "果蒂脱落处呈绿色为新鲜",
+    "切开后滴柠檬汁防氧化",
+    "搭配黑胡椒提升营养吸收"
+  ]
+}

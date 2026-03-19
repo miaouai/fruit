@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJibGFja2JlcnJ5IiwKICAibmFtZSI6ICLpu5HojpMiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi6JS36JaH56eRIiwKICAgICLlsZ4iOiAi5oKs6ZKp5a2Q5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLpu5Hopobnm4blrZAiLAogICAgICAi6Zyy6I6TIgogICAgXSwKICAgICLnsbvlnosiOiAi6IGa5ZCI5rWG5p6c57G75rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLmsZ/oi4/nnIEiLAogICAgIua1meaxn+ecgSIsCiAgICAi5LqR5Y2X55yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjUtOCDmnIjvvIjliJ3lpI/oh7Pnm5vlpI/vvIzmnpzoibLntKvpu5HvvIzphbjnlJzlpJrmsYHvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjQza2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjkuNmciLAogICAgIuibi+eZvei0qCI6ICIxLjRnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIyMW1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiNS4zZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLpq5jnuqTnu7TmmL7okZfkv4Pov5vogqDpgZPlgaXlurciLAogICAgIuWQq+meo+iKsemFuO+8jOWFt+aKl+eZjOa9nOWKmyIsCiAgICAi5oqX5rCn5YyW77yM5bu257yT55qu6IKk6ICB5YyWIgogIF0sCiAgInRpcHMiOiBbCiAgICAi5p6c5a6e5piT5o2f77yM6L275ou/6L275pS+IiwKICAgICLlj6/mkK3phY3phbjlpbbmiJbnh5Xpuqbpo5/nlKgiLAogICAgIumHh+aRmOWQjuWwveW/q+WGt+iXjyIKICBdCn0=
+{
+  "id": "blackberry",
+  "name": "黑莓",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "悬钩子属",
+    "别名": [
+      "黑覆盆子",
+      "露莓"
+    ],
+    "类型": "聚合浆果类水果"
+  },
+  "origin_range": [
+    "江苏省",
+    "浙江省",
+    "云南省"
+  ],
+  "best_season": "5-8 月（初夏至盛夏，果色紫黑，酸甜多汁）",
+  "nutrition_per_100g": {
+    "热量": "43kcal",
+    "碳水化合物": "9.6g",
+    "蛋白质": "1.4g",
+    "维生素 C": "21mg",
+    "膳食纤维": "5.3g"
+  },
+  "benefits": [
+    "高纤维显著促进肠道健康",
+    "含鞣花酸，具抗癌潜力",
+    "抗氧化，延缓皮肤老化"
+  ],
+  "tips": [
+    "果实易损，轻拿轻放",
+    "可搭配酸奶或燕麦食用",
+    "采摘后尽快冷藏"
+  ]
+}

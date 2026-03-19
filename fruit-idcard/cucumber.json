@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJjdWN1bWJlciIsCiAgIm5hbWUiOiAi6buE55OcIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuiRq+iKpuenkSIsCiAgICAi5bGeIjogIum7hOeTnOWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi6IOh55OcIiwKICAgICAgIumdkueTnCIKICAgIF0sCiAgICAi57G75Z6LIjogIueTnOexu+iUrOiPnOawtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5bGx5Lic55yBIiwKICAgICLmsrPljZfnnIEiLAogICAgIuays+WMl+ecgSIKICBdLAogICJiZXN0X3NlYXNvbiI6ICI0LTEwIOaciO+8iOaYpeacq+iHs+WIneeni++8jOaenOiCieiEhuWrqeWkmuaxge+8jOa4hemmmeW+rueUnO+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiMTVrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMy42ZyIsCiAgICAi6JuL55m96LSoIjogIjAuOGciLAogICAgIue7tOeUn+e0oCBDIjogIjltZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjAuNWciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi6auY5rC05YiG5riF54Ot6Kej5pqRIiwKICAgICLlkKvkuJnphofkuozphbjmipHliLbns5bovazohILogqoiLAogICAgIuWkluaVt+WPr+iIkue8k+earuiCpOaZkuS8pCIKICBdLAogICJ0aXBzIjogWwogICAgIuW4puearumjn+eUqOiQpeWFu+abtOWFqOmdoiIsCiAgICAi6YG/5YWN5LiO5a+M5ZCr57u055Sf57SgIEMg5YiG6Kej6YW255qE6aOf54mp5ZCM6aOfIiwKICAgICLohL7og4PomZrlr5LogIXlsJHnlJ/po58iCiAgXQp9
+{
+  "id": "cucumber",
+  "name": "黄瓜",
+  "classification": {
+    "科": "葫芦科",
+    "属": "黄瓜属",
+    "别名": [
+      "胡瓜",
+      "青瓜"
+    ],
+    "类型": "瓜类蔬菜水果"
+  },
+  "origin_range": [
+    "山东省",
+    "河南省",
+    "河北省"
+  ],
+  "best_season": "4-10 月（春末至初秋，果肉脆嫩多汁，清香微甜）",
+  "nutrition_per_100g": {
+    "热量": "15kcal",
+    "碳水化合物": "3.6g",
+    "蛋白质": "0.8g",
+    "维生素 C": "9mg",
+    "膳食纤维": "0.5g"
+  },
+  "benefits": [
+    "高水分清热解暑",
+    "含丙醇二酸抑制糖转脂肪",
+    "外敷可舒缓皮肤晒伤"
+  ],
+  "tips": [
+    "带皮食用营养更全面",
+    "避免与富含维生素 C 分解酶的食物同食",
+    "脾胃虚寒者少生食"
+  ]
+}

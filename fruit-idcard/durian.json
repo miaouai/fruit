@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJkdXJpYW4iLAogICJuYW1lIjogIuamtOiOsiIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLmnKjmo4nnp5EiLAogICAgIuWxniI6ICLmprTojrLlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIueDreW4puawtOaenOS5i+eOiyIsCiAgICAgICLpup3pppnnjKvmnpwiCiAgICBdLAogICAgIuexu+WeiyI6ICLng63luKbpq5jng63ph4/msLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIua1t+WNl+ecgSIsCiAgICAi5LqR5Y2X55yBIiwKICAgICLlj7Dmub7nnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNS05IOaciO+8iOWkj+Wto+aIkOeGn++8jOaenOiCiemHkem7hO+8jOa1k+mmmei9r+ezr++8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiMTUwa2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjI3LjBnIiwKICAgICLom4vnmb3otKgiOiAiMi41ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMTltZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjMuOGciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi6auY54Ot6YeP5b+r6YCf6KGl5YWF5L2T5YqbIiwKICAgICLlr4zlkKvpkr7lkowgQiDml4/nu7TnlJ/ntKAiLAogICAgIuS/g+i/m+iCoOmBk+ebiueUn+iPjOeUn+mVvyIKICBdLAogICJ0aXBzIjogWwogICAgIuS4juWxseerueWQjOmjn+WPr+S4reWSjOeDreaApyIsCiAgICAi5LiN5Y+v5LiO6YWS5ZCM6aOf77yM5Y+v6IO95byV5Y+R5LiN6YCCIiwKICAgICLkuIDmrKHlu7rorq7kuI3otoXov4cgMjAwIOWFiyIKICBdCn0=
+{
+  "id": "durian",
+  "name": "榴莲",
+  "classification": {
+    "科": "木棉科",
+    "属": "榴莲属",
+    "别名": [
+      "热带水果之王",
+      "麝香猫果"
+    ],
+    "类型": "热带高热量水果"
+  },
+  "origin_range": [
+    "海南省",
+    "云南省",
+    "台湾省"
+  ],
+  "best_season": "5-9 月（夏季成熟，果肉金黄，浓香软糯）",
+  "nutrition_per_100g": {
+    "热量": "150kcal",
+    "碳水化合物": "27.0g",
+    "蛋白质": "2.5g",
+    "维生素 C": "19mg",
+    "膳食纤维": "3.8g"
+  },
+  "benefits": [
+    "高热量快速补充体力",
+    "富含钾和 B 族维生素",
+    "促进肠道益生菌生长"
+  ],
+  "tips": [
+    "与山竹同食可中和热性",
+    "不可与酒同食，可能引发不适",
+    "一次建议不超过 200 克"
+  ]
+}

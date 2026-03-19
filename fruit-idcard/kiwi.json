@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJraXdpIiwKICAibmFtZSI6ICLnjJXnjLTmoYMiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi54yV54y05qGD56eRIiwKICAgICLlsZ4iOiAi54yV54y05qGD5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLlpYflvILmnpwiLAogICAgICAi6Ziz5qGD77yI6K+v56ew77yM6Z2e5p2o5qGD77yJIgogICAgXSwKICAgICLnsbvlnosiOiAi5rWG5p6c57G75rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLpmZXopb/nnIEiLAogICAgIuWbm+W3neecgSIsCiAgICAi5rKz5Y2X55yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjgtMTIg5pyI77yI5aSP5pyr6Iez5Yas5a2j77yM5p6c6IKJ57+g57u/77yM6YW455Sc5aSa5rGB77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICI1NmtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICIxNC4wZyIsCiAgICAi6JuL55m96LSoIjogIjEuMGciLAogICAgIue7tOeUn+e0oCBDIjogIjYybWciLAogICAgIuiGs+mjn+e6pOe7tCI6ICIzLjBnIgogIH0sCiAgImJlbmVmaXRzIjogWwogICAgIue7tCBDIOWQq+mHj+mrmOS6juapmeWtkO+8jOWinuW8uuWFjeeWq+WKmyIsCiAgICAi5ZCr54yV54y05qGD56Kx77yM5Yqp5raI5YyW6JuL55m96LSoIiwKICAgICLpq5jnuqTnu7TmlLnlloTkvr/np5giCiAgXSwKICAidGlwcyI6IFsKICAgICLooajnmq7lj6/po5/kvYblpJrnu5Lmr5vvvIzlu7rorq7liYrnmq4iLAogICAgIuS4jumFuOWltuWQjOmjn+WPo+aEn+abtOS9syIsCiAgICAi6IW55rO75pyf6Ze05oWO6aOfIgogIF0KfQ==
+{
+  "id": "kiwi",
+  "name": "猕猴桃",
+  "classification": {
+    "科": "猕猴桃科",
+    "属": "猕猴桃属",
+    "别名": [
+      "奇异果",
+      "阳桃（误称，非杨桃）"
+    ],
+    "类型": "浆果类水果"
+  },
+  "origin_range": [
+    "陕西省",
+    "四川省",
+    "河南省"
+  ],
+  "best_season": "8-12 月（夏末至冬季，果肉翠绿，酸甜多汁）",
+  "nutrition_per_100g": {
+    "热量": "56kcal",
+    "碳水化合物": "14.0g",
+    "蛋白质": "1.0g",
+    "维生素 C": "62mg",
+    "膳食纤维": "3.0g"
+  },
+  "benefits": [
+    "维 C 含量高于橙子，增强免疫力",
+    "含猕猴桃碱，助消化蛋白质",
+    "高纤维改善便秘"
+  ],
+  "tips": [
+    "表皮可食但多绒毛，建议削皮",
+    "与酸奶同食口感更佳",
+    "腹泻期间慎食"
+  ]
+}

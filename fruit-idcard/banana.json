@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJiYW5hbmEiLAogICJuYW1lIjogIummmeiViSIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLoiq3olYnnp5EiLAogICAgIuWxniI6ICLoiq3olYnlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIueUmOiViSIsCiAgICAgICLlvJPolYkiCiAgICBdLAogICAgIuexu+WeiyI6ICLng63luKbmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIua1t+WNl+ecgSIsCiAgICAi5LqR5Y2X55yBIiwKICAgICLlub/kuJznnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAi5YWo5bm077yI54Ot5bim5bi45Lqn77yM5bCk5Lul5aSP56eL5Liw5Lqn77yM5p6c6IKJ6L2v57Ov6aaZ55Sc77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICI4OWtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICIyMi44ZyIsCiAgICAi6JuL55m96LSoIjogIjEuMWciLAogICAgIue7tOeUn+e0oCBDIjogIjhtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjIuNmciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi5a+M5ZCr6ZK+77yM6LCD6IqC6KGA5Y6L5ZKM5b+D5b6LIiwKICAgICLlkKvoibLmsKjphbjvvIzliqnnnKDlronnpZ4iLAogICAgIua2puiCoOmAmuS+v++8jOe8k+ino+S+v+enmCIKICBdLAogICJ0aXBzIjogWwogICAgIuihqOearuWHuueOsOm7keaWkeaXtueUnOW6puacgOmrmCIsCiAgICAi5pyq54af6Z2S6JWJ5ZCr6L6D5aSa5oqX5oCn5reA57KJIiwKICAgICLns5blsL/nl4XmgqPogIXpnIDmjqfliLbmkYTlhaXph48iCiAgXQp9
+{
+  "id": "banana",
+  "name": "香蕉",
+  "classification": {
+    "科": "芭蕉科",
+    "属": "芭蕉属",
+    "别名": [
+      "甘蕉",
+      "弓蕉"
+    ],
+    "类型": "热带水果"
+  },
+  "origin_range": [
+    "海南省",
+    "云南省",
+    "广东省"
+  ],
+  "best_season": "全年（热带常产，尤以夏秋丰产，果肉软糯香甜）",
+  "nutrition_per_100g": {
+    "热量": "89kcal",
+    "碳水化合物": "22.8g",
+    "蛋白质": "1.1g",
+    "维生素 C": "8mg",
+    "膳食纤维": "2.6g"
+  },
+  "benefits": [
+    "富含钾，调节血压和心律",
+    "含色氨酸，助眠安神",
+    "润肠通便，缓解便秘"
+  ],
+  "tips": [
+    "表皮出现黑斑时甜度最高",
+    "未熟青蕉含较多抗性淀粉",
+    "糖尿病患者需控制摄入量"
+  ]
+}

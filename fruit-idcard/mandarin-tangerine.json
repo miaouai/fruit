@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJtYW5kYXJpbi10YW5nZXJpbmUiLAogICJuYW1lIjogIua4qeW3nuicnOafkSIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLoirjpppnnp5EiLAogICAgIuWxniI6ICLmn5HmqZjlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuaXoOaguOicnOapmCIsCiAgICAgICLmuKnlt57mn5EiCiAgICBdLAogICAgIuexu+WeiyI6ICLnu4/lhbjmn5HmqZjnsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIua1meaxn+ecgSIsCiAgICAi5rmW5Y2X55yBIiwKICAgICLmuZbljJfnnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiMTAtMTIg5pyI77yI5rex56eL5Yid5Yas77yM5p6c6IKJ57uG5aup77yM55Sc6YW46YCC5Y+j77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICI1MGtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICIxMi4yZyIsCiAgICAi6JuL55m96LSoIjogIjAuOGciLAogICAgIue7tOeUn+e0oCBDIjogIjMxbWciLAogICAgIuiGs+mjn+e6pOe7tCI6ICIxLjhnIgogIH0sCiAgImJlbmVmaXRzIjogWwogICAgIuWinuW8uuWFjeeWq+WKm++8jOmihOmYsuaEn+WGkiIsCiAgICAi5L+D6L+b6IO25Y6f6JuL55m95ZCI5oiQIiwKICAgICLmlLnlloTnmq7ogqTnirbmgIEiCiAgXSwKICAidGlwcyI6IFsKICAgICLml6DmoLjmiJblsJHmoLjvvIzpo5/nlKjmlrnkvr8iLAogICAgIuaenOearuWPr+aZkuW5suS9nOmZiOeariIsCiAgICAi6YG/5YWN56m66IW55aSn6YeP6aOf55SoIgogIF0KfQ==
+{
+  "id": "mandarin-tangerine",
+  "name": "温州蜜柑",
+  "classification": {
+    "科": "芸香科",
+    "属": "柑橘属",
+    "别名": [
+      "无核蜜橘",
+      "温州柑"
+    ],
+    "类型": "经典柑橘类水果"
+  },
+  "origin_range": [
+    "浙江省",
+    "湖南省",
+    "湖北省"
+  ],
+  "best_season": "10-12 月（深秋初冬，果肉细嫩，甜酸适口）",
+  "nutrition_per_100g": {
+    "热量": "50kcal",
+    "碳水化合物": "12.2g",
+    "蛋白质": "0.8g",
+    "维生素 C": "31mg",
+    "膳食纤维": "1.8g"
+  },
+  "benefits": [
+    "增强免疫力，预防感冒",
+    "促进胶原蛋白合成",
+    "改善皮肤状态"
+  ],
+  "tips": [
+    "无核或少核，食用方便",
+    "果皮可晒干作陈皮",
+    "避免空腹大量食用"
+  ]
+}

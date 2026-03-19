@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJkcmFnb25mcnVpdCIsCiAgIm5hbWUiOiAi54Gr6b6Z5p6cIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuS7meS6uuaOjOenkSIsCiAgICAi5bGeIjogIumHj+WkqeWwuuWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi6Z2S6b6Z5p6cIiwKICAgICAgIue6oum+meaenCIKICAgIF0sCiAgICAi57G75Z6LIjogIueDreW4puS7meS6uuaOjOaenOWuniIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5rW35Y2X55yBIiwKICAgICLlub/opb/lo67ml4/oh6rmsrvljLoiLAogICAgIuW5v+S4nOecgSIKICBdLAogICJiZXN0X3NlYXNvbiI6ICI0LTExIOaciO+8iOaYpeWkj+eni+S4ieWto++8jOaenOiCieeZveaIlue6ou+8jOa4heeIveW+rueUnO+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNTFrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTIuMGciLAogICAgIuibi+eZvei0qCI6ICIxLjBnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICI5bWciLAogICAgIuiGs+mjn+e6pOe7tCI6ICIzLjBnIgogIH0sCiAgImJlbmVmaXRzIjogWwogICAgIumrmOe6pOe7tOS/g+i/m+iCoOmBk+igleWKqCIsCiAgICAi5ZCr6Iqx6Z2S57Sg77yI57qi6IKJ56eN77yJ77yM5oqX5rCn5YyWIiwKICAgICLkvY7ohILkvY7ng63ph4/pgILlkIjmjqfph43kurrnvqQiCiAgXSwKICAidGlwcyI6IFsKICAgICLlhrfol4/lkI7lj6PmhJ/mm7TkvbMiLAogICAgIuexveWPr+WKqea2iOWMlu+8jOWLv+WQkCIsCiAgICAi6IW55rO75pyf6Ze05oWO6aOfIgogIF0KfQ==
+{
+  "id": "dragonfruit",
+  "name": "火龙果",
+  "classification": {
+    "科": "仙人掌科",
+    "属": "量天尺属",
+    "别名": [
+      "青龙果",
+      "红龙果"
+    ],
+    "类型": "热带仙人掌果实"
+  },
+  "origin_range": [
+    "海南省",
+    "广西壮族自治区",
+    "广东省"
+  ],
+  "best_season": "4-11 月（春夏秋三季，果肉白或红，清爽微甜）",
+  "nutrition_per_100g": {
+    "热量": "51kcal",
+    "碳水化合物": "12.0g",
+    "蛋白质": "1.0g",
+    "维生素 C": "9mg",
+    "膳食纤维": "3.0g"
+  },
+  "benefits": [
+    "高纤维促进肠道蠕动",
+    "含花青素（红肉种），抗氧化",
+    "低脂低热量适合控重人群"
+  ],
+  "tips": [
+    "冷藏后口感更佳",
+    "籽可助消化，勿吐",
+    "腹泻期间慎食"
+  ]
+}

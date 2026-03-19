@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJ0YW5nZXJpbmUiLAogICJuYW1lIjogIuapmOWtkCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLoirjpppnnp5EiLAogICAgIuWxniI6ICLmn5HmqZjlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuicnOapmCIsCiAgICAgICLpu4TmqZgiCiAgICBdLAogICAgIuexu+WeiyI6ICLmn5HmqZjnsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuaxn+ilv+ecgSIsCiAgICAi5rmW5Y2X55yBIiwKICAgICLmtZnmsZ/nnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiMTAtMyDmnIjvvIjnp4vlhqzlraPoioLvvIzmnpzogonlpJrmsYHvvIznlJzkuK3luKbphbjvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjUxa2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjEyLjVnIiwKICAgICLom4vnmb3otKgiOiAiMC45ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMzVtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjEuOGciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi5aKe5by65YWN55ar5Yqb77yM6aKE6Ziy5oSf5YaSIiwKICAgICLlkKvmqZnnmq7oi7fvvIzkv53miqTooYDnrqEiLAogICAgIuS/g+i/m+mTgeWQuOaUtu+8jOi+heWKqeihpeihgCIKICBdLAogICJ0aXBzIjogWwogICAgIuapmOe7nOacieiNr+eUqOS7t+WAvO+8jOWPr+i/nuWQjOaenOiCiemjn+eUqCIsCiAgICAi5LiA5qyh5LiN5a6c6LaF6L+HIDMg5Liq77yM5Lul6Ziy5LiK54GrIiwKICAgICLpgb/lhY3kuI7okJ3ljZzlkIzpo58iCiAgXQp9
+{
+  "id": "tangerine",
+  "name": "橘子",
+  "classification": {
+    "科": "芸香科",
+    "属": "柑橘属",
+    "别名": [
+      "蜜橘",
+      "黄橘"
+    ],
+    "类型": "柑橘类水果"
+  },
+  "origin_range": [
+    "江西省",
+    "湖南省",
+    "浙江省"
+  ],
+  "best_season": "10-3 月（秋冬季节，果肉多汁，甜中带酸）",
+  "nutrition_per_100g": {
+    "热量": "51kcal",
+    "碳水化合物": "12.5g",
+    "蛋白质": "0.9g",
+    "维生素 C": "35mg",
+    "膳食纤维": "1.8g"
+  },
+  "benefits": [
+    "增强免疫力，预防感冒",
+    "含橙皮苷，保护血管",
+    "促进铁吸收，辅助补血"
+  ],
+  "tips": [
+    "橘络有药用价值，可连同果肉食用",
+    "一次不宜超过 3 个，以防上火",
+    "避免与萝卜同食"
+  ]
+}

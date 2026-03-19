@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJibGFja2N1cnJhbnQiLAogICJuYW1lIjogIum7keWKoOS7kSIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLojLbol6jlrZDnp5EiLAogICAgIuWxniI6ICLojLbol6jlrZDlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIum7keiMtuiXqOWtkCIsCiAgICAgICLpu5HosYbmnpwiCiAgICBdLAogICAgIuexu+WeiyI6ICLlsI/lnovmtYbmnpznsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIum7kem+meaxn+ecgSIsCiAgICAi5paw55aG57u05ZC+5bCU6Ieq5rK75Yy6IiwKICAgICLlhoXokpnlj6Toh6rmsrvljLoiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNi04IOaciO+8iOWkj+Wto+aIkOeGn++8jOaenOiJsua3see0q+i/kem7ke+8jOmFuOeUnOa1k+mDge+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNTdrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTMuMGciLAogICAgIuibi+eZvei0qCI6ICIxLjRnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIxODFtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjQuNWciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi57u0IEMg5ZCr6YeP5p6B6auY77yM5pi+6JGX5aKe5by65YWN55ar5YqbIiwKICAgICLlr4zlkKvoirHpnZLntKDvvIzkv53miqTop4blipvjgIHmipfoobDogIEiLAogICAgIuS/g+i/m+mTgeWQuOaUtu+8jOi+heWKqeaUueWWhOi0q+ihgCIKICBdLAogICJ0aXBzIjogWwogICAgIuWkmueUqOS6juWItuaenOaxgeOAgeaenOmFseaIluW5suaenCIsCiAgICAi6bKc6aOf5Y+v5pCt6YWN6JyC6Jyc5Lit5ZKM6YW45ZGzIiwKICAgICLog4Pphbjov4flpJrogIXpgILph4/po5/nlKgiCiAgXQp9
+{
+  "id": "blackcurrant",
+  "name": "黑加仑",
+  "classification": {
+    "科": "茶藨子科",
+    "属": "茶藨子属",
+    "别名": [
+      "黑茶藨子",
+      "黑豆果"
+    ],
+    "类型": "小型浆果类水果"
+  },
+  "origin_range": [
+    "黑龙江省",
+    "新疆维吾尔自治区",
+    "内蒙古自治区"
+  ],
+  "best_season": "6-8 月（夏季成熟，果色深紫近黑，酸甜浓郁）",
+  "nutrition_per_100g": {
+    "热量": "57kcal",
+    "碳水化合物": "13.0g",
+    "蛋白质": "1.4g",
+    "维生素 C": "181mg",
+    "膳食纤维": "4.5g"
+  },
+  "benefits": [
+    "维 C 含量极高，显著增强免疫力",
+    "富含花青素，保护视力、抗衰老",
+    "促进铁吸收，辅助改善贫血"
+  ],
+  "tips": [
+    "多用于制果汁、果酱或干果",
+    "鲜食可搭配蜂蜜中和酸味",
+    "胃酸过多者适量食用"
+  ]
+}

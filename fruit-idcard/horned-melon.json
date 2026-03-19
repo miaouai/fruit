@@ -1,1 +1,21 @@
-ewogICJpZCI6ICJob3JuZWQtbWVsb24iLAogICJuYW1lIjogIuWIuuinkueTnCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLokavoiqbnp5EiLAogICAgIuWxniI6ICLpu4Tnk5zlsZ4iLAogICAgIuWIq+WQjSI6IFsi54Gr5Y+C5p6cIiwgIumdnua0suinkum7hOeTnCJdLAogICAgIuexu+WeiyI6ICLng63luKbnk5zmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWyLmtbfljZfnnIEiLCAi5LqR5Y2X55yBIiwgIuW5v+S4nOecgSJdLAogICJiZXN0X3NlYXNvbiI6ICI3LTkg5pyI77yI55ub5aSP5pe26IqC77yM5p6c6IKJ5Yed6IO254q277yM5riF54i95b6u6YW477yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICI0NGtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICI4LjBnIiwKICAgICLom4vnmb3otKgiOiAiMS44ZyIsCiAgICAi57u055Sf57SgIEMiOiAiNS4wbWciLAogICAgIuiGs+mjn+e6pOe7tCI6ICIxLjBnIgogIH0sCiAgImJlbmVmaXRzIjogWyLpq5jmsLTliIblkKvph4/vvIzop6PmmpHliKnlsL8iLCAi5ZCr5qSN54mp6buP5ray77yM5L+d5oqk6IOD6buP6IacIiwgIuS9juezlumAguWQiOaOp+mHjeS6uue+pCJdLAogICJ0aXBzIjogWyLlr7nljYrliIflvIDlkI7nlKjli7rmjJbpo5/mnpzogokiLCAi5Y+v5Yqg6JyC6Jyc5o+Q5Y2H6aOO5ZGzIiwgIuacqueGn+aenOaciea2qeWRs++8jOW6lOmAieapmem7hOiJsuWklueariJdCn0K
+{
+  "id": "horned-melon",
+  "name": "刺角瓜",
+  "classification": {
+    "科": "葫芦科",
+    "属": "黄瓜属",
+    "别名": ["火参果", "非洲角黄瓜"],
+    "类型": "热带瓜果"
+  },
+  "origin_range": ["海南省", "云南省", "广东省"],
+  "best_season": "7-9 月（盛夏时节，果肉凝胶状，清爽微酸）",
+  "nutrition_per_100g": {
+    "热量": "44kcal",
+    "碳水化合物": "8.0g",
+    "蛋白质": "1.8g",
+    "维生素 C": "5.0mg",
+    "膳食纤维": "1.0g"
+  },
+  "benefits": ["高水分含量，解暑利尿", "含植物黏液，保护胃黏膜", "低糖适合控重人群"],
+  "tips": ["对半切开后用勺挖食果肉", "可加蜂蜜提升风味", "未熟果有涩味，应选橙黄色外皮"]
+}

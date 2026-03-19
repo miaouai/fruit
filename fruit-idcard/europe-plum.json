@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJldXJvcGUtcGx1bSIsCiAgIm5hbWUiOiAi5qyn5p2OIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuiUt+iWh+enkSIsCiAgICAi5bGeIjogIuadjuWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi5bGx5qix5qGDIiwKICAgICAgIuS5jOaLieWcreadjiIKICAgIF0sCiAgICAi57G75Z6LIjogIuWwj+Wei+aguOaenOexu+awtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5bGx6KW/55yBIiwKICAgICLmsrPljJfnnIEiLAogICAgIuWGheiSmeWPpOiHquayu+WMuiIKICBdLAogICJiZXN0X3NlYXNvbiI6ICI2LTgg5pyI77yI55ub5aSP5oiQ54af77yM5p6c5bCP6Imy5rex57qi77yM6YW455Sc5rWT6YOB77yM57G95aSn6IKJ6JaE77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICI0MGtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICI5LjVnIiwKICAgICLom4vnmb3otKgiOiAiMS4wZyIsCiAgICAi57u055Sf57SgIEMiOiAiMjVtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjIuMmciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi6auY6ZKZ5ZCr6YeP77yI5qSN54mp5Lit572V6KeB77yJ77yM5by65YGl6aqo6aq8IiwKICAgICLlkKvoirHpnZLntKDmipfmsKfljJYiLAogICAgIuS/g+i/m+a2iOWMlua2suWIhuazjCIKICBdLAogICJ0aXBzIjogWwogICAgIuWkmueUqOS6jumFv+mFkuaIluWItuaenOaxgSIsCiAgICAi6bKc6aOf5pe25Y675qC45pu05L2zIiwKICAgICLkuIDmrKHlu7rorq7kuI3otoXov4cgMTAwIOWFiyIKICBdCn0=
+{
+  "id": "europe-plum",
+  "name": "欧李",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "李属",
+    "别名": [
+      "山樱桃",
+      "乌拉圭李"
+    ],
+    "类型": "小型核果类水果"
+  },
+  "origin_range": [
+    "山西省",
+    "河北省",
+    "内蒙古自治区"
+  ],
+  "best_season": "6-8 月（盛夏成熟，果小色深红，酸甜浓郁，籽大肉薄）",
+  "nutrition_per_100g": {
+    "热量": "40kcal",
+    "碳水化合物": "9.5g",
+    "蛋白质": "1.0g",
+    "维生素 C": "25mg",
+    "膳食纤维": "2.2g"
+  },
+  "benefits": [
+    "高钙含量（植物中罕见），强健骨骼",
+    "含花青素抗氧化",
+    "促进消化液分泌"
+  ],
+  "tips": [
+    "多用于酿酒或制果汁",
+    "鲜食时去核更佳",
+    "一次建议不超过 100 克"
+  ]
+}

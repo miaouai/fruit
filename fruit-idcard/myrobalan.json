@@ -1,1 +1,21 @@
-ewogICJpZCI6ICJteXJvYmFsYW4iLAogICJuYW1lIjogIuS9meeUmOWtkCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLlpKfmiJ/np5EiLAogICAgIuWxniI6ICLlj7bkuIvnj6DlsZ4iLAogICAgIuWIq+WQjSI6IFsi5rK555SY5a2QIiwgIua7h+aphOamhCJdLAogICAgIuexu+WeiyI6ICLkuprng63luKbph47mnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWyLkupHljZfnnIEiLCAi5bm/6KW/5aOu5peP6Ieq5rK75Yy6IiwgIuW5v+S4nOecgSJdLAogICJiZXN0X3NlYXNvbiI6ICI5LTEyIOaciO+8iOeni+Wto+mHh+aUtu+8jOWFiOa2qeWQjueUmO+8jOWbnuWRs+aCoOmVv++8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNTBrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTIuMGciLAogICAgIuibi+eZvei0qCI6ICIwLjhnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIyMDBtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjQuMGciCiAgfSwKICAiYmVuZWZpdHMiOiBbIue7tCBDIOWQq+mHj+aegemrmO+8jOaKl+awp+WMluW8uiIsICLmuIXng63lh4nooYDvvIznlJ/mtKXmraLmuLQiLCAi5Yqp5raI5YyW44CB6ZmN6KGA6ISCIl0sCiAgInRpcHMiOiBbIuWIneasoemjn+eUqOWPr+iDveiniea2qe+8jOWPr+ebkOa4jeaIluezluiFjOWQjumjn+eUqCIsICLkuI3lrpznqbrohbnlpKfph4/po5/nlKgiLCAi5pCt6YWN6JyC6Jyc5Y+v57yT6Kej5rap5oSfIl0KfQo=
+{
+  "id": "myrobalan",
+  "name": "余甘子",
+  "classification": {
+    "科": "大戟科",
+    "属": "叶下珠属",
+    "别名": ["油甘子", "滇橄榄"],
+    "类型": "亚热带野果"
+  },
+  "origin_range": ["云南省", "广西壮族自治区", "广东省"],
+  "best_season": "9-12 月（秋季采收，先涩后甘，回味悠长）",
+  "nutrition_per_100g": {
+    "热量": "50kcal",
+    "碳水化合物": "12.0g",
+    "蛋白质": "0.8g",
+    "维生素 C": "200mg",
+    "膳食纤维": "4.0g"
+  },
+  "benefits": ["维 C 含量极高，抗氧化强", "清热凉血，生津止渴", "助消化、降血脂"],
+  "tips": ["初次食用可能觉涩，可盐渍或糖腌后食用", "不宜空腹大量食用", "搭配蜂蜜可缓解涩感"]
+}

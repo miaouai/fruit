@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJwbHVvdCIsCiAgIm5hbWUiOiAi5oGQ6b6Z6JuLIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuiUt+iWh+enkSIsCiAgICAi5bGeIjogIuadjuWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi5p2O5p2P5p2C5Lqk5p6cIiwKICAgICAgIuicnOadjuadjyIKICAgIF0sCiAgICAi57G75Z6LIjogIuadguS6pOaguOaenOexu+awtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5paw55aG57u05ZC+5bCU6Ieq5rK75Yy6IiwKICAgICLnlJjogoPnnIEiLAogICAgIumZleilv+ecgSIKICBdLAogICJiZXN0X3NlYXNvbiI6ICI3LTEwIOaciO+8iOWkj+acq+eni+WIne+8jOaenOearue0q+e6ouW4puaWkeeCue+8jOiCiei0qOe7huiFu++8jOeUnOWmguicnO+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNTBrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTIuNWciLAogICAgIuibi+eZvei0qCI6ICIwLjlnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIxMG1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMS44ZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLpq5jns5bliIblv6vpgJ/ooaXlhYXog73ph48iLAogICAgIuWQq86yLeiDoeiQneWNnOe0oOaKpOecvCIsCiAgICAi5L+D6L+b6IO25Y6f6JuL55m95ZCI5oiQIgogIF0sCiAgInRpcHMiOiBbCiAgICAi6KGo55qu5paR54K56LaK5aSa6LaK55ScIiwKICAgICLlhrfol4/lkI7po47lkbPmm7TkvbMiLAogICAgIuS4gOasoeS4jeWunOi/h+mHj+S7pemYsuS4iueBqyIKICBdCn0=
+{
+  "id": "pluot",
+  "name": "恐龙蛋",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "李属",
+    "别名": [
+      "李杏杂交果",
+      "蜜李杏"
+    ],
+    "类型": "杂交核果类水果"
+  },
+  "origin_range": [
+    "新疆维吾尔自治区",
+    "甘肃省",
+    "陕西省"
+  ],
+  "best_season": "7-10 月（夏末秋初，果皮紫红带斑点，肉质细腻，甜如蜜）",
+  "nutrition_per_100g": {
+    "热量": "50kcal",
+    "碳水化合物": "12.5g",
+    "蛋白质": "0.9g",
+    "维生素 C": "10mg",
+    "膳食纤维": "1.8g"
+  },
+  "benefits": [
+    "高糖分快速补充能量",
+    "含β-胡萝卜素护眼",
+    "促进胶原蛋白合成"
+  ],
+  "tips": [
+    "表皮斑点越多越甜",
+    "冷藏后风味更佳",
+    "一次不宜过量以防上火"
+  ]
+}

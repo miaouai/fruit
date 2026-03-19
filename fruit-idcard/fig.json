@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJmaWciLAogICJuYW1lIjogIuaXoOiKseaenCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLmoZHnp5EiLAogICAgIuWxniI6ICLmppXlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuaYoOaXpeaenCIsCiAgICAgICLlpbbmtYbmnpwiCiAgICBdLAogICAgIuexu+WeiyI6ICLpmpDlpLToirHluo/ogZrlkIjmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuaWsOeWhue7tOWQvuWwlOiHquayu+WMuiIsCiAgICAi5bGx5Lic55yBIiwKICAgICLmsZ/oi4/nnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNy0xMCDmnIjvvIjlpI/mnKvnp4vliJ3vvIzmnpzogonova/ns6/vvIznlJjnlJzlpoLonJzvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjUwa2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjEzLjBnIiwKICAgICLom4vnmb3otKgiOiAiMS41ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMm1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMy4wZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLpq5jnuqTnu7TmmL7okZfmtqbogqDpgJrkvr8iLAogICAgIuWQq+ibi+eZvemFtu+8jOWKqea2iOWMluWIhuino+ibi+eZvei0qCIsCiAgICAi5riF54Ot55Sf5rSl77yM6Kej5q+S5raI6IK/IgogIF0sCiAgInRpcHMiOiBbCiAgICAi6KGo55qu5b6u6KOC44CB5p+U6L2v5Li654af6YCP5qCH5b+XIiwKICAgICLpspzmnpzmmJPohZDvvIzlrpzlvZPml6Xpo5/nlKgiLAogICAgIuWPr+W5suWItuS/neWtmO+8jOiQpeWFu+abtOa1k+e8qSIKICBdCn0=
+{
+  "id": "fig",
+  "name": "无花果",
+  "classification": {
+    "科": "桑科",
+    "属": "榕属",
+    "别名": [
+      "映日果",
+      "奶浆果"
+    ],
+    "类型": "隐头花序聚合果"
+  },
+  "origin_range": [
+    "新疆维吾尔自治区",
+    "山东省",
+    "江苏省"
+  ],
+  "best_season": "7-10 月（夏末秋初，果肉软糯，甘甜如蜜）",
+  "nutrition_per_100g": {
+    "热量": "50kcal",
+    "碳水化合物": "13.0g",
+    "蛋白质": "1.5g",
+    "维生素 C": "2mg",
+    "膳食纤维": "3.0g"
+  },
+  "benefits": [
+    "高纤维显著润肠通便",
+    "含蛋白酶，助消化分解蛋白质",
+    "清热生津，解毒消肿"
+  ],
+  "tips": [
+    "表皮微裂、柔软为熟透标志",
+    "鲜果易腐，宜当日食用",
+    "可干制保存，营养更浓缩"
+  ]
+}

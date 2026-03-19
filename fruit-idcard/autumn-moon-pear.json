@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJhdXR1bW4tbW9vbi1wZWFyIiwKICAibmFtZSI6ICLnp4vmnIjmoqgiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi6JS36JaH56eRIiwKICAgICLlsZ4iOiAi5qKo5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLml6Xpn6nmoqgiLAogICAgICAi5rC05pm25qKoIgogICAgXSwKICAgICLnsbvlnosiOiAi5LuB5p6c57G75rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLlsbHkuJznnIEiLAogICAgIuays+WMl+ecgSIsCiAgICAi6L695a6B55yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjgtMTAg5pyI77yI5Yid56eL5oiQ54af77yM5p6c5aSn5peg5qC477yM6IKJ6LSo57uG6IW75aaC546J77yM5riF55Sc5aSa5rGB77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICI0NWtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICIxMS4yZyIsCiAgICAi6JuL55m96LSoIjogIjAuNGciLAogICAgIue7tOeUn+e0oCBDIjogIjVtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjMuN2ciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi5ram6IK65q2i5ZKz77yM57yT6Kej5bmy5ZKz5peg55ewIiwKICAgICLpq5jmsLTliIbnlJ/mtKXop6PmuLQiLAogICAgIuiGs+mjn+e6pOe7tOS/g+i/m+iCoOmBk+igleWKqCIKICBdLAogICJ0aXBzIjogWwogICAgIuWGt+iXj+WQjuWPo+aEn+S8vOaenOWGuyIsCiAgICAi5Y+v55u05o6l5omL5Yml6aOf55So5peg6ZyA5YmK55quIiwKICAgICLns5blsL/nl4XmgqPogIXpgILph4/po5/nlKgiCiAgXQp9
+{
+  "id": "autumn-moon-pear",
+  "name": "秋月梨",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "梨属",
+    "别名": [
+      "日韩梨",
+      "水晶梨"
+    ],
+    "类型": "仁果类水果"
+  },
+  "origin_range": [
+    "山东省",
+    "河北省",
+    "辽宁省"
+  ],
+  "best_season": "8-10 月（初秋成熟，果大无核，肉质细腻如玉，清甜多汁）",
+  "nutrition_per_100g": {
+    "热量": "45kcal",
+    "碳水化合物": "11.2g",
+    "蛋白质": "0.4g",
+    "维生素 C": "5mg",
+    "膳食纤维": "3.7g"
+  },
+  "benefits": [
+    "润肺止咳，缓解干咳无痰",
+    "高水分生津解渴",
+    "膳食纤维促进肠道蠕动"
+  ],
+  "tips": [
+    "冷藏后口感似果冻",
+    "可直接手剥食用无需削皮",
+    "糖尿病患者适量食用"
+  ]
+}

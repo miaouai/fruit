@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJqaW4tb3JhbmdlIiwKICAibmFtZSI6ICLplKbmqZkiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi6Iq46aaZ56eRIiwKICAgICLlsZ4iOiAi5p+R5qmY5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLmsZ/mtKXplKbmqZkiLAogICAgICAi5aSn5p6c5qmZIgogICAgXSwKICAgICLnsbvlnosiOiAi5Zyw5pa55LyY6LSo5qmZ57G7IgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLph43luobluIIiLAogICAgIuWbm+W3neecgSIsCiAgICAi5rmW5YyX55yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjEyLTIg5pyI77yI5Yas5a2j5LiK5biC77yM5p6c5b2i576O6KeC77yM5rGB5aSa5ZGz5rWT77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICI0OWtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICIxMi4wZyIsCiAgICAi6JuL55m96LSoIjogIjAuOWciLAogICAgIue7tOeUn+e0oCBDIjogIjMzbWciLAogICAgIuiGs+mjn+e6pOe7tCI6ICIyLjBnIgogIH0sCiAgImJlbmVmaXRzIjogWwogICAgIuihpeWFheWGrOWto+e7tCBDIOmcgOaxgiIsCiAgICAi5L+D6L+b5raI5YyW5ray5YiG5rOMIiwKICAgICLlop7lvLrmr5vnu4booYDnrqHlvLnmgKciCiAgXSwKICAidGlwcyI6IFsKICAgICLpgILlkIjmpqjmsYHmiJbnm7TmjqXpo5/nlKgiLAogICAgIuWGt+iXj+WQjuWPo+aEn+abtOa4heeIvSIsCiAgICAi6YG/5YWN5LiO5rW36bKc5ZCM6aOfIgogIF0KfQ==
+{
+  "id": "jin-orange",
+  "name": "锦橙",
+  "classification": {
+    "科": "芸香科",
+    "属": "柑橘属",
+    "别名": [
+      "江津锦橙",
+      "大果橙"
+    ],
+    "类型": "地方优质橙类"
+  },
+  "origin_range": [
+    "重庆市",
+    "四川省",
+    "湖北省"
+  ],
+  "best_season": "12-2 月（冬季上市，果形美观，汁多味浓）",
+  "nutrition_per_100g": {
+    "热量": "49kcal",
+    "碳水化合物": "12.0g",
+    "蛋白质": "0.9g",
+    "维生素 C": "33mg",
+    "膳食纤维": "2.0g"
+  },
+  "benefits": [
+    "补充冬季维 C 需求",
+    "促进消化液分泌",
+    "增强毛细血管弹性"
+  ],
+  "tips": [
+    "适合榨汁或直接食用",
+    "冷藏后口感更清爽",
+    "避免与海鲜同食"
+  ]
+}

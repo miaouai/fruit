@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJsb25nYW4iLAogICJuYW1lIjogIum+meecvCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLml6DmgqPlrZDnp5EiLAogICAgIuWxniI6ICLpvpnnnLzlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuahguWchiIsCiAgICAgICLnm4rmmboiCiAgICBdLAogICAgIuexu+WeiyI6ICLkuprng63luKbmoLjmnpznsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuW5v+ilv+WjruaXj+iHquayu+WMuiIsCiAgICAi5bm/5Lic55yBIiwKICAgICLnpo/lu7rnnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNi05IOaciO+8iOebm+Wkj+S4iuW4gu+8jOaenOiCiemAj+aYju+8jOeUmOeUnOa4qeihpe+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNzFrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTcuMGciLAogICAgIuibi+eZvei0qCI6ICIxLjJnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICI0M21nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMS4xZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLooaXnm4rlv4PohL7vvIzlhbvooYDlronnpZ4iLAogICAgIuaUueWWhOWkseecoOWBpeW/mCIsCiAgICAi5aKe5by66K6w5b+G5YqbIgogIF0sCiAgInRpcHMiOiBbCiAgICAi6bKc6aOf5riF55Sc77yM5bmy5Yi25Li65qGC5ZyG5pu05rip6KGlIiwKICAgICLpmLTomZrngavml7rogIXlsJHpo58iLAogICAgIuavj+aXpeW7uuiuruS4jei2hei/hyAxNSDpopciCiAgXQp9
+{
+  "id": "longan",
+  "name": "龙眼",
+  "classification": {
+    "科": "无患子科",
+    "属": "龙眼属",
+    "别名": [
+      "桂圆",
+      "益智"
+    ],
+    "类型": "亚热带核果类水果"
+  },
+  "origin_range": [
+    "广西壮族自治区",
+    "广东省",
+    "福建省"
+  ],
+  "best_season": "6-9 月（盛夏上市，果肉透明，甘甜温补）",
+  "nutrition_per_100g": {
+    "热量": "71kcal",
+    "碳水化合物": "17.0g",
+    "蛋白质": "1.2g",
+    "维生素 C": "43mg",
+    "膳食纤维": "1.1g"
+  },
+  "benefits": [
+    "补益心脾，养血安神",
+    "改善失眠健忘",
+    "增强记忆力"
+  ],
+  "tips": [
+    "鲜食清甜，干制为桂圆更温补",
+    "阴虚火旺者少食",
+    "每日建议不超过 15 颗"
+  ]
+}

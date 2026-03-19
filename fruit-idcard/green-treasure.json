@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJncmVlbi10cmVhc3VyZSIsCiAgIm5hbWUiOiAi57u/5a6d55OcIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuiRq+iKpuenkSIsCiAgICAi5bGeIjogIueUnOeTnOWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi57u/5a6d55+z55Sc55OcIiwKICAgICAgIue/oOeOieeTnCIKICAgIF0sCiAgICAi57G75Z6LIjogIuaXqeeGn+eUnOeTnOWTgeenjSIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5rKz5YyX55yBIiwKICAgICLlsbHkuJznnIEiLAogICAgIuays+WNl+ecgSIKICBdLAogICJiZXN0X3NlYXNvbiI6ICI2LTgg5pyI77yI5aSP5a2j5LiK5biC77yM5p6c6IKJ57+g57u/77yM5riF55Sc54i95Y+j77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICIzNGtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICI4LjJnIiwKICAgICLom4vnmb3otKgiOiAiMC42ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMTZtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjAuOGciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi5riF54Ot6Kej5pqR77yM55Sf5rSl5q2i5ri0IiwKICAgICLpkr7lkKvph4/pq5jvvIzosIPoioLnlLXop6PotKgiLAogICAgIuS9jueDremHj+mAguWQiOaOp+mHjeS6uue+pCIKICBdLAogICJ0aXBzIjogWwogICAgIuWGt+iXj+WQjumjjuWRs+abtOS9syIsCiAgICAi5LiN5a6c5LiO5a+S5oCn6aOf54mp5ZCM6aOf6L+H6YePIiwKICAgICLns5blsL/nl4XmgqPogIXpmZDph4/po5/nlKgiCiAgXQp9
+{
+  "id": "green-treasure",
+  "name": "绿宝瓜",
+  "classification": {
+    "科": "葫芦科",
+    "属": "甜瓜属",
+    "别名": [
+      "绿宝石甜瓜",
+      "翠玉瓜"
+    ],
+    "类型": "早熟甜瓜品种"
+  },
+  "origin_range": [
+    "河北省",
+    "山东省",
+    "河南省"
+  ],
+  "best_season": "6-8 月（夏季上市，果肉翠绿，清甜爽口）",
+  "nutrition_per_100g": {
+    "热量": "34kcal",
+    "碳水化合物": "8.2g",
+    "蛋白质": "0.6g",
+    "维生素 C": "16mg",
+    "膳食纤维": "0.8g"
+  },
+  "benefits": [
+    "清热解暑，生津止渴",
+    "钾含量高，调节电解质",
+    "低热量适合控重人群"
+  ],
+  "tips": [
+    "冷藏后风味更佳",
+    "不宜与寒性食物同食过量",
+    "糖尿病患者限量食用"
+  ]
+}

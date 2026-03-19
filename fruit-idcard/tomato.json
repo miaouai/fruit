@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJ0b21hdG8iLAogICJuYW1lIjogIueVquiMhCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLojITnp5EiLAogICAgIuWxniI6ICLnlarojITlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuilv+e6ouafvyIsCiAgICAgICLmtIvmn7/lrZAiCiAgICBdLAogICAgIuexu+WeiyI6ICLmtYbmnpznsbvolKzoj5zmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuWxseS4nOecgSIsCiAgICAi5rKz5Y2X55yBIiwKICAgICLmsrPljJfnnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNS0xMSDmnIjvvIjmmKXmnKvoh7PliJ3lhqzvvIzmnpzogonlpJrmsYHvvIzphbjnlJzpgILlj6PvvIznuqLnhp/mnIDkvbPvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjIwa2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjQuMGciLAogICAgIuibi+eZvei0qCI6ICIwLjlnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIxNG1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMS4yZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLlr4zlkKvnlarojITnuqLntKDvvIzmipfmsKfljJbpmLLnmYwiLAogICAgIuS/g+i/m+a2iOWMlua2suWIhuazjCIsCiAgICAi5L2O54Ot6YeP6YCC5ZCI5o6n6YeN5Lq6576kIgogIF0sCiAgInRpcHMiOiBbCiAgICAi54af6aOf5pu05Yip5LqO55Wq6IyE57qi57Sg5ZC45pS2IiwKICAgICLpgb/lhY3kuI7pu4Tnk5zlkIzpo5/vvIjlkKvliIbop6PphbbvvIkiLAogICAgIuepuuiFueaFjumjn+S7pemYsuWIuua/gOiDg+mFuCIKICBdCn0=
+{
+  "id": "tomato",
+  "name": "番茄",
+  "classification": {
+    "科": "茄科",
+    "属": "番茄属",
+    "别名": [
+      "西红柿",
+      "洋柿子"
+    ],
+    "类型": "浆果类蔬菜水果"
+  },
+  "origin_range": [
+    "山东省",
+    "河南省",
+    "河北省"
+  ],
+  "best_season": "5-11 月（春末至初冬，果肉多汁，酸甜适口，红熟最佳）",
+  "nutrition_per_100g": {
+    "热量": "20kcal",
+    "碳水化合物": "4.0g",
+    "蛋白质": "0.9g",
+    "维生素 C": "14mg",
+    "膳食纤维": "1.2g"
+  },
+  "benefits": [
+    "富含番茄红素，抗氧化防癌",
+    "促进消化液分泌",
+    "低热量适合控重人群"
+  ],
+  "tips": [
+    "熟食更利于番茄红素吸收",
+    "避免与黄瓜同食（含分解酶）",
+    "空腹慎食以防刺激胃酸"
+  ]
+}

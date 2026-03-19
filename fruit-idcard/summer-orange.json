@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJzdW1tZXItb3JhbmdlIiwKICAibmFtZSI6ICLlpI/mqZkiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi6Iq46aaZ56eRIiwKICAgICLlsZ4iOiAi5p+R5qmY5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLkvI/ku6TlpI/mqZkiLAogICAgICAi5aSP5p+RIgogICAgXSwKICAgICLnsbvlnosiOiAi5p+R5qmY57G75rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLph43luobluIIiLAogICAgIuWbm+W3neecgSIsCiAgICAi5rmW5Y2X55yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjQtNiDmnIjvvIjmmKXmnKvlpI/liJ3vvIzmnpzogonnu4blq6nlpJrmsYHvvIzphbjnlJzlubPooaHvvIzmmK/lsJHmnInnmoTlpI/lraPmiJDnhp/nlJzmqZnvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjQ4a2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjExLjdnIiwKICAgICLom4vnmb3otKgiOiAiMC45ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMzNtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjIuMGciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi5a+M5ZCr57u0IEMg5aKe5by65YWN55ar5YqbIiwKICAgICLlkKvmn6Dmqqzphbjkv4Pov5vmtojljJYiLAogICAgIuiwg+iKguW+ruW+queOr++8jOe8k+ino+Wkj+Wto+eWsuWKsyIKICBdLAogICJ0aXBzIjogWwogICAgIuWGt+iXj+WQjuWPo+aEn+abtOa4heeIvSIsCiAgICAi6YG/5YWN5LiO54mb5aW25ZCM6aOf5b2x5ZON6ZKZ5ZC45pS2IiwKICAgICLmnpznmq7ovoPljprvvIzlu7rorq7liIDliIfljrvnmq4iCiAgXQp9
+{
+  "id": "summer-orange",
+  "name": "夏橙",
+  "classification": {
+    "科": "芸香科",
+    "属": "柑橘属",
+    "别名": [
+      "伏令夏橙",
+      "夏柑"
+    ],
+    "类型": "柑橘类水果"
+  },
+  "origin_range": [
+    "重庆市",
+    "四川省",
+    "湖南省"
+  ],
+  "best_season": "4-6 月（春末夏初，果肉细嫩多汁，酸甜平衡，是少有的夏季成熟甜橙）",
+  "nutrition_per_100g": {
+    "热量": "48kcal",
+    "碳水化合物": "11.7g",
+    "蛋白质": "0.9g",
+    "维生素 C": "33mg",
+    "膳食纤维": "2.0g"
+  },
+  "benefits": [
+    "富含维 C 增强免疫力",
+    "含柠檬酸促进消化",
+    "调节微循环，缓解夏季疲劳"
+  ],
+  "tips": [
+    "冷藏后口感更清爽",
+    "避免与牛奶同食影响钙吸收",
+    "果皮较厚，建议刀切去皮"
+  ]
+}

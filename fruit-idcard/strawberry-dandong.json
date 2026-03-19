@@ -1,1 +1,25 @@
-ewogICJpZCI6ICJzdHJhd2JlcnJ5LWRhbmRvbmciLAogICJuYW1lIjogIuS4ueS4nOiNieiOkyIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLolLfolofnp5EiLAogICAgIuWxniI6ICLojYnojpPlsZ4iLAogICAgIuexu+WeiyI6ICLmuKnluKbmtYbmnpznsbsiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWyLovr3lroHkuLnkuJwiLCAi5rGf6IuPIiwgIuWMl+S6rCIsICLlsbHkuJwiXSwKICAiYmVzdF9zZWFzb24iOiAiMTItNCDmnIjvvIzot6jlubTlraPmnIDkvbPlk4HlsJ3mnJ8iLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjMya2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjcuN2ciLAogICAgIuibi+eZvei0qCI6ICIxLjVnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICI0N21nIiwKICAgICLoirHpnZLntKAiOiAi5Liw5a+MIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMmciCiAgfSwKICAiYmVuZWZpdHMiOiBbIue+juWuueWFu+minCIsICLmipfmsKfljJYiLCAi5o+Q56We6YaS6ISRIiwgIuWvjOWQq+e7tCBDIl0sCiAgInRpcHMiOiBbCiAgICAi5rSX5YeA5ZCO5bC95b+r6aOf55SoIiwKICAgICLkuI3lrpzlhrfol4/lpKrkuYXkvJrlpLHljrvpppnlkbMiLAogICAgIuW4pue7v+WPtueahOabtOaWsOmynCIKICBdCn0=
+{
+  "id": "strawberry-dandong",
+  "name": "丹东草莓",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "草莓属",
+    "类型": "温带浆果类"
+  },
+  "origin_range": ["辽宁丹东", "江苏", "北京", "山东"],
+  "best_season": "12-4 月，跨年季最佳品尝期",
+  "nutrition_per_100g": {
+    "热量": "32kcal",
+    "碳水化合物": "7.7g",
+    "蛋白质": "1.5g",
+    "维生素 C": "47mg",
+    "花青素": "丰富",
+    "膳食纤维": "2g"
+  },
+  "benefits": ["美容养颜", "抗氧化", "提神醒脑", "富含维 C"],
+  "tips": [
+    "洗净后尽快食用",
+    "不宜冷藏太久会失去香味",
+    "带绿叶的更新鲜"
+  ]
+}

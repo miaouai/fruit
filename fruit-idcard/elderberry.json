@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJlbGRlcmJlcnJ5IiwKICAibmFtZSI6ICLmjqXpqqjmnKgiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi5b+N5Yas56eRIiwKICAgICLlsZ4iOiAi5o6l6aqo5pyo5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLopb/mtIvmjqXpqqjmnKgiLAogICAgICAi6buR5o6l6aqo5pyoIgogICAgXSwKICAgICLnsbvlnosiOiAi5rWG5p6c57G75rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLpu5HpvpnmsZ/nnIEiLAogICAgIuWQieael+ecgSIsCiAgICAi5paw55aG57u05ZC+5bCU6Ieq5rK75Yy6IgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjctOSDmnIjvvIjlpI/mnKvmiJDnhp/vvIzmnpznsIfntKvpu5HvvIzlkbPphbjmtqnvvIzlpJrliqDlt6Xpo5/nlKjvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjcza2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjE4LjRnIiwKICAgICLom4vnmb3otKgiOiAiMC43ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMzZtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjcuMGciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi6auY6Iqx6Z2S57Sg5aKe5by65YWN55ar5YqbIiwKICAgICLkvKDnu5/nlKjkuo7nvJPop6PmhJ/lhpLnl4fnirYiLAogICAgIuaKl+awp+WMluW7tue8k+ihsOiAgSIKICBdLAogICJ0aXBzIjogWwogICAgIumynOaenOWQq+awsOiLt++8jOW/hemhu+eFrueGn+WQjumjn+eUqCIsCiAgICAi5aSa5Yi25oiQ5p6c5rGB44CB57OW5rWG5oiW5p6c6YWxIiwKICAgICLlrZXlpoflj4roh6rouqvlhY3nlqvnlr7nl4XogIXmhY7nlKgiCiAgXQp9
+{
+  "id": "elderberry",
+  "name": "接骨木",
+  "classification": {
+    "科": "忍冬科",
+    "属": "接骨木属",
+    "别名": [
+      "西洋接骨木",
+      "黑接骨木"
+    ],
+    "类型": "浆果类水果"
+  },
+  "origin_range": [
+    "黑龙江省",
+    "吉林省",
+    "新疆维吾尔自治区"
+  ],
+  "best_season": "7-9 月（夏末成熟，果簇紫黑，味酸涩，多加工食用）",
+  "nutrition_per_100g": {
+    "热量": "73kcal",
+    "碳水化合物": "18.4g",
+    "蛋白质": "0.7g",
+    "维生素 C": "36mg",
+    "膳食纤维": "7.0g"
+  },
+  "benefits": [
+    "高花青素增强免疫力",
+    "传统用于缓解感冒症状",
+    "抗氧化延缓衰老"
+  ],
+  "tips": [
+    "鲜果含氰苷，必须煮熟后食用",
+    "多制成果汁、糖浆或果酱",
+    "孕妇及自身免疫疾病者慎用"
+  ]
+}

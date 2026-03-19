@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJndWF2YSIsCiAgIm5hbWUiOiAi55Wq55+z5qa0IiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuahg+mHkeWomOenkSIsCiAgICAi5bGeIjogIueVquefs+amtOWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi6Iqt5LmQIiwKICAgICAgIum4oeefouaenCIKICAgIF0sCiAgICAi57G75Z6LIjogIueDreW4pua1huaenOexu+awtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5Y+w5rm+55yBIiwKICAgICLmtbfljZfnnIEiLAogICAgIuW5v+S4nOecgSIKICBdLAogICJiZXN0X3NlYXNvbiI6ICI1LTExIOaciO+8iOaYpeWkj+eni+S4ieWto++8jOaenOiCieeZveaIlueyiee6ou+8jOW+rumFuOa4heiEhu+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNDBrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiOC44ZyIsCiAgICAi6JuL55m96LSoIjogIjEuMWciLAogICAgIue7tOeUn+e0oCBDIjogIjY4bWciLAogICAgIuiGs+mjn+e6pOe7tCI6ICI1LjBnIgogIH0sCiAgImJlbmVmaXRzIjogWwogICAgIue7tCBDIOWQq+mHj+aegemrmO+8jOWinuW8uuWFjeeWq+WKmyIsCiAgICAi6auY57qk57u05pi+6JGX5pS55ZaE5L6/56eYIiwKICAgICLlkKvpnqPphbjvvIzlhbfmlLbmlZvmraLms7vkvZznlKgiCiAgXSwKICAidGlwcyI6IFsKICAgICLmnKrnhp/pnZLmnpzmtqnlj6PkvYbmraLms7vmlYjmnpzlvLoiLAogICAgIueGn+aenOWPr+aSkuebkOaIluiYuOaiheeyiemjn+eUqCIsCiAgICAi6IW55rO75pe26YCJ6Z2S5p6c77yM5L6/56eY6YCJ54af5p6cIgogIF0KfQ==
+{
+  "id": "guava",
+  "name": "番石榴",
+  "classification": {
+    "科": "桃金娘科",
+    "属": "番石榴属",
+    "别名": [
+      "芭乐",
+      "鸡矢果"
+    ],
+    "类型": "热带浆果类水果"
+  },
+  "origin_range": [
+    "台湾省",
+    "海南省",
+    "广东省"
+  ],
+  "best_season": "5-11 月（春夏秋三季，果肉白或粉红，微酸清脆）",
+  "nutrition_per_100g": {
+    "热量": "40kcal",
+    "碳水化合物": "8.8g",
+    "蛋白质": "1.1g",
+    "维生素 C": "68mg",
+    "膳食纤维": "5.0g"
+  },
+  "benefits": [
+    "维 C 含量极高，增强免疫力",
+    "高纤维显著改善便秘",
+    "含鞣酸，具收敛止泻作用"
+  ],
+  "tips": [
+    "未熟青果涩口但止泻效果强",
+    "熟果可撒盐或蘸梅粉食用",
+    "腹泻时选青果，便秘选熟果"
+  ]
+}

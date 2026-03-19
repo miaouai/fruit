@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJ3YXgtYXBwbGUiLAogICJuYW1lIjogIuiOsumbviIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLmoYPph5HlqJjnp5EiLAogICAgIuWxniI6ICLokrLmoYPlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIua0i+iSsuahgyIsCiAgICAgICLmsLTok4oiCiAgICBdLAogICAgIuexu+WeiyI6ICLng63luKbmtYbmnpznsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuWPsOa5vuecgSIsCiAgICAi5rW35Y2X55yBIiwKICAgICLlub/kuJznnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNS0xMCDmnIjvvIjlpI/np4vkuLrkuLvvvIzmnpzogonmtbfnu7XnirbvvIzmuIXnlJzlpJrmsYHvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjI5a2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjcuMGciLAogICAgIuibi+eZvei0qCI6ICIwLjdnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIxMm1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMS4wZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLpq5jmsLTliIblkKvph4/vvIzop6PmmpHliKnlsL8iLAogICAgIua4heeDrea2puiCuu+8jOeUn+a0peatoua4tCIsCiAgICAi5L2O54Ot6YeP6YCC5ZCI5o6n6YeN5Lq6576kIgogIF0sCiAgInRpcHMiOiBbCiAgICAi5p6c6ISQ5byg5byA6LaK5aSn6LaK55ScIiwKICAgICLlj6/omLjphbjmooXnsonmj5DljYfpo47lkbMiLAogICAgIuiEvuiDg+iZmuWvkuiAhemAgumHj+mjn+eUqCIKICBdCn0=
+{
+  "id": "wax-apple",
+  "name": "莲雾",
+  "classification": {
+    "科": "桃金娘科",
+    "属": "蒲桃属",
+    "别名": [
+      "洋蒲桃",
+      "水蓊"
+    ],
+    "类型": "热带浆果类水果"
+  },
+  "origin_range": [
+    "台湾省",
+    "海南省",
+    "广东省"
+  ],
+  "best_season": "5-10 月（夏秋为主，果肉海绵状，清甜多汁）",
+  "nutrition_per_100g": {
+    "热量": "29kcal",
+    "碳水化合物": "7.0g",
+    "蛋白质": "0.7g",
+    "维生素 C": "12mg",
+    "膳食纤维": "1.0g"
+  },
+  "benefits": [
+    "高水分含量，解暑利尿",
+    "清热润肺，生津止渴",
+    "低热量适合控重人群"
+  ],
+  "tips": [
+    "果脐张开越大越甜",
+    "可蘸酸梅粉提升风味",
+    "脾胃虚寒者适量食用"
+  ]
+}

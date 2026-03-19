@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJodXl1LXBvbWVsbyIsCiAgIm5hbWUiOiAi6IOh5p+aIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuiKuOmmmeenkSIsCiAgICAi5bGeIjogIuafkeapmOWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi5bi45bGx6IOh5p+aIiwKICAgICAgIumdkuafmiIKICAgIF0sCiAgICAi57G75Z6LIjogIuafmuexu+adguS6pOawtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5rWZ5rGf55yBIiwKICAgICLmsZ/opb/nnIEiLAogICAgIuemj+W7uuecgSIKICBdLAogICJiZXN0X3NlYXNvbiI6ICIxMS0xIOaciO+8iOWIneWGrOmHh+aUtu+8jOaenOiCieW+ruiLpuWbnueUmO+8jOa4heeDreS4i+eBq++8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNDJrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTAuNWciLAogICAgIuibi+eZvei0qCI6ICIwLjdnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIzOG1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMi4yZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLmuIXng63pmY3ngavvvIzljJbnl7DmraLlkrMiLAogICAgIuWQq+afmuearuiLt++8jOWFt+aKl+eCjuS9nOeUqCIsCiAgICAi6L6F5Yqp6ZmN6KGA6ISCIgogIF0sCiAgInRpcHMiOiBbCiAgICAi5a2Y5pS+5ZCO6Ium5ZGz6L2s55Sc77yM6aOO5ZGz5pu05L2zIiwKICAgICLlj6/liIfniYfms6HmsLTku6PojLbppa4iLAogICAgIuacjeiNr+acn+mXtOaFjumjn++8iOW9seWTjeiNr+aViO+8iSIKICBdCn0=
+{
+  "id": "huyu-pomelo",
+  "name": "胡柚",
+  "classification": {
+    "科": "芸香科",
+    "属": "柑橘属",
+    "别名": [
+      "常山胡柚",
+      "青柚"
+    ],
+    "类型": "柚类杂交水果"
+  },
+  "origin_range": [
+    "浙江省",
+    "江西省",
+    "福建省"
+  ],
+  "best_season": "11-1 月（初冬采收，果肉微苦回甘，清热下火）",
+  "nutrition_per_100g": {
+    "热量": "42kcal",
+    "碳水化合物": "10.5g",
+    "蛋白质": "0.7g",
+    "维生素 C": "38mg",
+    "膳食纤维": "2.2g"
+  },
+  "benefits": [
+    "清热降火，化痰止咳",
+    "含柚皮苷，具抗炎作用",
+    "辅助降血脂"
+  ],
+  "tips": [
+    "存放后苦味转甜，风味更佳",
+    "可切片泡水代茶饮",
+    "服药期间慎食（影响药效）"
+  ]
+}

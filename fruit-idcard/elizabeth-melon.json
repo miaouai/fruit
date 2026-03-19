@@ -1,1 +1,21 @@
-ewogICJpZCI6ICJlbGl6YWJldGgtbWVsb24iLAogICJuYW1lIjogIuS8iuS4veiOjueZveeTnCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLokavoiqbnp5EiLAogICAgIuWxniI6ICLnlJznk5zlsZ4iLAogICAgIuWIq+WQjSI6IFsi5LyK5Li96I6O55m96Jyc55OcIiwgIuaXqeeGn+e9kee6ueeTnCJdLAogICAgIuexu+WeiyI6ICLnk5znsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWyLmlrDnlobnu7TlkL7lsJToh6rmsrvljLoiLCAi55SY6IKD55yBIiwgIuWGheiSmeWPpOiHquayu+WMuiJdLAogICJiZXN0X3NlYXNvbiI6ICI2LTgg5pyI77yI55ub5aSP5a2j6IqC77yM5p6c6IKJ5qmZ6buE57uG6IW777yM6aaZ5rCU5rWT6YOB77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICIzNmtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICI4LjhnIiwKICAgICLom4vnmb3otKgiOiAiMC41ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMThtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjAuN2ciCiAgfSwKICAiYmVuZWZpdHMiOiBbIuWvjOWQq86yLeiDoeiQneWNnOe0oO+8jOaKpOecvOaYjuebriIsICLpkr7lkKvph4/pq5jvvIzosIPoioLnlLXop6PotKjlubPooaEiLCAi5rC05YiG5YWF6Laz77yM55Sf5rSl5q2i5ri0Il0sCiAgInRpcHMiOiBbIuaMkemAieaXtui9u+aMieW6lemDqOacieW8ueaAp+S4uuS9syIsICLliIflvIDlkI7lsL3lv6vpo5/nlKjvvIzpgb/lhY3msKfljJblj5jlkbMiLCAi5LiN5a6c5LiO5a+S5oCn6aOf54mp5ZCM6aOf6L+H5aSaIl0KfQo=
+{
+  "id": "elizabeth-melon",
+  "name": "伊丽莎白瓜",
+  "classification": {
+    "科": "葫芦科",
+    "属": "甜瓜属",
+    "别名": ["伊丽莎白蜜瓜", "早熟网纹瓜"],
+    "类型": "瓜类水果"
+  },
+  "origin_range": ["新疆维吾尔自治区", "甘肃省", "内蒙古自治区"],
+  "best_season": "6-8 月（盛夏季节，果肉橙黄细腻，香气浓郁）",
+  "nutrition_per_100g": {
+    "热量": "36kcal",
+    "碳水化合物": "8.8g",
+    "蛋白质": "0.5g",
+    "维生素 C": "18mg",
+    "膳食纤维": "0.7g"
+  },
+  "benefits": ["富含β-胡萝卜素，护眼明目", "钾含量高，调节电解质平衡", "水分充足，生津止渴"],
+  "tips": ["挑选时轻按底部有弹性为佳", "切开后尽快食用，避免氧化变味", "不宜与寒性食物同食过多"]
+}

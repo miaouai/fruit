@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJqYWNrZnJ1aXQiLAogICJuYW1lIjogIuiPoOiQneicnCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLmoZHnp5EiLAogICAgIuWxniI6ICLms6LnvZfonJzlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuacqOiPoOiQnSIsCiAgICAgICLmoJHoj6DokJ0iCiAgICBdLAogICAgIuexu+WeiyI6ICLng63luKblpKflnovogZrlkIjmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIua1t+WNl+ecgSIsCiAgICAi5LqR5Y2X55yBIiwKICAgICLlub/kuJznnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNC0xMCDmnIjvvIjmmKXlpI/np4vkuInlraPvvIzmnpzogonph5Hpu4TvvIzpppnnlJzova/ns6/vvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjk1a2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjI1LjBnIiwKICAgICLom4vnmb3otKgiOiAiMS43ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMTFtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjEuNWciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi6auY56Kz5rC05o+Q5L6b5oyB5LmF6IO96YePIiwKICAgICLlkKsgQiDml4/nu7TnlJ/ntKDvvIznvJPop6PnlrLlirMiLAogICAgIuS/g+i/m+S5s+axgeWIhuazjO+8iOWTuuS5s+acn+mAgueUqO+8iSIKICBdLAogICJ0aXBzIjogWwogICAgIuWIh+WJjeWIgOWFt+aKueayuemYsueymOa2siIsCiAgICAi5pyq54af5p6c5Y+v5L2c6JSs6I+c54Wy5rGkIiwKICAgICLov4fmlY/kvZPotKjogIXliJ3mrKHlsJHph4/lsJ3or5UiCiAgXQp9
+{
+  "id": "jackfruit",
+  "name": "菠萝蜜",
+  "classification": {
+    "科": "桑科",
+    "属": "波罗蜜属",
+    "别名": [
+      "木菠萝",
+      "树菠萝"
+    ],
+    "类型": "热带大型聚合果"
+  },
+  "origin_range": [
+    "海南省",
+    "云南省",
+    "广东省"
+  ],
+  "best_season": "4-10 月（春夏秋三季，果肉金黄，香甜软糯）",
+  "nutrition_per_100g": {
+    "热量": "95kcal",
+    "碳水化合物": "25.0g",
+    "蛋白质": "1.7g",
+    "维生素 C": "11mg",
+    "膳食纤维": "1.5g"
+  },
+  "benefits": [
+    "高碳水提供持久能量",
+    "含 B 族维生素，缓解疲劳",
+    "促进乳汁分泌（哺乳期适用）"
+  ],
+  "tips": [
+    "切前刀具抹油防粘液",
+    "未熟果可作蔬菜煲汤",
+    "过敏体质者初次少量尝试"
+  ]
+}

@@ -1,1 +1,21 @@
-ewogICJpZCI6ICJzY2hpc2FuZHJhIiwKICAibmFtZSI6ICLkupTlkbPlrZAiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi5pyo5YWw56eRIiwKICAgICLlsZ4iOiAi5LqU5ZGz5a2Q5bGeIiwKICAgICLliKvlkI0iOiBbIuWMl+S6lOWRs+WtkCIsICLnjoTlj4oiXSwKICAgICLnsbvlnosiOiAi6I2v55So5rWG5p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsi6L695a6B55yBIiwgIuWQieael+ecgSIsICLpu5HpvpnmsZ/nnIEiXSwKICAiYmVzdF9zZWFzb24iOiAiNy05IOaciO+8iOWkj+acq+eni+WIne+8jOaenOWunuaIkOeGn+WRiOmynOe6ouiJsu+8jOmFuOeUnOW+rui+m++8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiMTA2a2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjI1LjBnIiwKICAgICLom4vnmb3otKgiOiAiMS41ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMjBtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjMuMGciCiAgfSwKICAiYmVuZWZpdHMiOiBbIuaUtuaVm+Wbuua2qe+8jOebiuawlOeUn+a0pSIsICLlhbfmnInmipfmsKfljJbkvZznlKgiLCAi5pyJ5Yqp5LqO5pS55ZaE552h55yg6LSo6YePIl0sCiAgInRpcHMiOiBbIuWkmueUqOS6juazoeiMtuaIluWFpeiNr++8jOmynOmjn+i+g+WwkSIsICLmr4/ml6XnlKjph4/kuI3lrpzotoXov4cgMTAg5YWLIiwgIuWtleWmh+aFjueUqCJdCn0K
+{
+  "id": "schisandra",
+  "name": "五味子",
+  "classification": {
+    "科": "木兰科",
+    "属": "五味子属",
+    "别名": ["北五味子", "玄及"],
+    "类型": "药用浆果"
+  },
+  "origin_range": ["辽宁省", "吉林省", "黑龙江省"],
+  "best_season": "7-9 月（夏末秋初，果实成熟呈鲜红色，酸甜微辛）",
+  "nutrition_per_100g": {
+    "热量": "106kcal",
+    "碳水化合物": "25.0g",
+    "蛋白质": "1.5g",
+    "维生素 C": "20mg",
+    "膳食纤维": "3.0g"
+  },
+  "benefits": ["收敛固涩，益气生津", "具有抗氧化作用", "有助于改善睡眠质量"],
+  "tips": ["多用于泡茶或入药，鲜食较少", "每日用量不宜超过 10 克", "孕妇慎用"]
+}

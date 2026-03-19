@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJkYW5nc2hhbi1wZWFyIiwKICAibmFtZSI6ICLnoIDlsbHphaXmoqgiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi6JS36JaH56eRIiwKICAgICLlsZ4iOiAi5qKo5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLlronlvr3phaXmoqgiLAogICAgICAi56CA5bGx5qKoIgogICAgXSwKICAgICLnsbvlnosiOiAi5LuB5p6c57G75rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLlronlvr3nnIEiLAogICAgIuaxn+iLj+ecgSIsCiAgICAi5rKz5Y2X55yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjgtMTAg5pyI77yI5Yid56eL5LiK5biC77yM5p6c5aSn55qu6JaE77yM6IKJ6LSo6YWl6ISG77yM5rGB5aSa5rij5bCR77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICI0NGtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICIxMS4wZyIsCiAgICAi6JuL55m96LSoIjogIjAuNGciLAogICAgIue7tOeUn+e0oCBDIjogIjRtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjMuNmciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi5riF54Ot5ram6IK677yM5YyW55ew5q2i5ZKzIiwKICAgICLnlJ/mtKXmraLmuLTvvIznvJPop6Pnp4vnh6UiLAogICAgIumrmOawtOWIhuWIqeWwv+a2iOiCvyIKICBdLAogICJ0aXBzIjogWwogICAgIuWGt+iXj+WQjuWPo+aEn+abtOa4heeUnCIsCiAgICAi6JK454Wu5ZCO5ram6IK65pWI5p6c5pu05L2zIiwKICAgICLpgb/lhY3kuI7msrnohbvpo5/nianlkIzpo58iCiAgXQp9
+{
+  "id": "dangshan-pear",
+  "name": "砀山酥梨",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "梨属",
+    "别名": [
+      "安徽酥梨",
+      "砀山梨"
+    ],
+    "类型": "仁果类水果"
+  },
+  "origin_range": [
+    "安徽省",
+    "江苏省",
+    "河南省"
+  ],
+  "best_season": "8-10 月（初秋上市，果大皮薄，肉质酥脆，汁多渣少）",
+  "nutrition_per_100g": {
+    "热量": "44kcal",
+    "碳水化合物": "11.0g",
+    "蛋白质": "0.4g",
+    "维生素 C": "4mg",
+    "膳食纤维": "3.6g"
+  },
+  "benefits": [
+    "清热润肺，化痰止咳",
+    "生津止渴，缓解秋燥",
+    "高水分利尿消肿"
+  ],
+  "tips": [
+    "冷藏后口感更清甜",
+    "蒸煮后润肺效果更佳",
+    "避免与油腻食物同食"
+  ]
+}

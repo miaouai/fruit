@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJ3aGl0ZS1wZWFjaCIsCiAgIm5hbWUiOiAi5rC06Jyc5qGDIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuiUt+iWh+enkSIsCiAgICAi5bGeIjogIuadjuWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi55m95qGDIiwKICAgICAgIueOiemcsuahgyIKICAgIF0sCiAgICAi57G75Z6LIjogIuaguOaenOexu+awtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5rGf6IuP55yBIiwKICAgICLkuIrmtbfluIIiLAogICAgIua1meaxn+ecgSIKICBdLAogICJiZXN0X3NlYXNvbiI6ICI2LTgg5pyI77yI55ub5aSP5pe26IqC77yM5p6c55qu55m96YeM6YCP57qi77yM6IKJ6LSo6L2v57Ov5aSa5rGB77yM6aaZ5rCU6aal6YOB77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICIzOWtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICI5LjNnIiwKICAgICLom4vnmb3otKgiOiAiMC45ZyIsCiAgICAi57u055Sf57SgIEMiOiAiN21nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMS4zZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLmtqbogqTnvo7popzvvIzmlLnlloTnmq7ogqTlvLnmgKciLAogICAgIuihpeebiuawlOihgCIsCiAgICAi5ZCr6ZK+6LCD6IqC5L2T5ray5bmz6KGhIgogIF0sCiAgInRpcHMiOiBbCiAgICAi57uS5q+b5Y+v6IO96Ie05pWP77yM5bu66K6u5YmK55qu5oiW55uQ5rC05rSXIiwKICAgICLnhp/pgI/lkI7nqI3ova/kuLrmnIDkvbPpo5/nlKjmnJ8iLAogICAgIuWGt+iXj+S4jei2hei/hyAyIOWwj+aXtuS7pemYsuS8pOiEviIKICBdCn0=
+{
+  "id": "white-peach",
+  "name": "水蜜桃",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "李属",
+    "别名": [
+      "白桃",
+      "玉露桃"
+    ],
+    "类型": "核果类水果"
+  },
+  "origin_range": [
+    "江苏省",
+    "上海市",
+    "浙江省"
+  ],
+  "best_season": "6-8 月（盛夏时节，果皮白里透红，肉质软糯多汁，香气馥郁）",
+  "nutrition_per_100g": {
+    "热量": "39kcal",
+    "碳水化合物": "9.3g",
+    "蛋白质": "0.9g",
+    "维生素 C": "7mg",
+    "膳食纤维": "1.3g"
+  },
+  "benefits": [
+    "润肤美颜，改善皮肤弹性",
+    "补益气血",
+    "含钾调节体液平衡"
+  ],
+  "tips": [
+    "绒毛可能致敏，建议削皮或盐水洗",
+    "熟透后稍软为最佳食用期",
+    "冷藏不超过 2 小时以防伤脾"
+  ]
+}

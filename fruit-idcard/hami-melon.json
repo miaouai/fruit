@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJoYW1pLW1lbG9uIiwKICAibmFtZSI6ICLlk4jlr4bnk5wiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi6JGr6Iqm56eRIiwKICAgICLlsZ4iOiAi55Sc55Oc5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLphK/lloTnk5wiLAogICAgICAi5paw55aG55Sc55OcIgogICAgXSwKICAgICLnsbvlnosiOiAi5Y6a55qu55Sc55Oc57G75rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLmlrDnlobnu7TlkL7lsJToh6rmsrvljLoiLAogICAgIueUmOiCg+ecgSIsCiAgICAi5YaF6JKZ5Y+k6Ieq5rK75Yy6IgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjYtOSDmnIjvvIjnm5vlpI/ml7boioLvvIzmnpzogonmqZnpu4TvvIzpppnnlJzlpoLonJzvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjM4a2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjkuMmciLAogICAgIuibi+eZvei0qCI6ICIwLjVnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIxNm1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMC44ZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLlr4zlkKvOsi3og6HokJ3ljZzntKDvvIzmiqTnnLzmmI7nm64iLAogICAgIumrmOmSvuS9jumSoO+8jOiwg+iKguihgOWOiyIsCiAgICAi5aSp54S257OW5YiG5o+Q5L6b5b+r6YCf6IO96YePIgogIF0sCiAgInRpcHMiOiBbCiAgICAi6KGo55qu572R57q55riF5pmw44CB6aaZ5rCU5rWT6YOB5Li65L2zIiwKICAgICLlhrfol4/lkI7po47lkbPmm7TkvbPkvYbkuI3lrpzov4fkuYUiLAogICAgIuezluWwv+eXheaCo+iAhemcgOmZkOmHj+mjn+eUqCIKICBdCn0=
+{
+  "id": "hami-melon",
+  "name": "哈密瓜",
+  "classification": {
+    "科": "葫芦科",
+    "属": "甜瓜属",
+    "别名": [
+      "鄯善瓜",
+      "新疆甜瓜"
+    ],
+    "类型": "厚皮甜瓜类水果"
+  },
+  "origin_range": [
+    "新疆维吾尔自治区",
+    "甘肃省",
+    "内蒙古自治区"
+  ],
+  "best_season": "6-9 月（盛夏时节，果肉橙黄，香甜如蜜）",
+  "nutrition_per_100g": {
+    "热量": "38kcal",
+    "碳水化合物": "9.2g",
+    "蛋白质": "0.5g",
+    "维生素 C": "16mg",
+    "膳食纤维": "0.8g"
+  },
+  "benefits": [
+    "富含β-胡萝卜素，护眼明目",
+    "高钾低钠，调节血压",
+    "天然糖分提供快速能量"
+  ],
+  "tips": [
+    "表皮网纹清晰、香气浓郁为佳",
+    "冷藏后风味更佳但不宜过久",
+    "糖尿病患者需限量食用"
+  ]
+}

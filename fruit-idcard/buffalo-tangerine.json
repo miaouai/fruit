@@ -1,1 +1,21 @@
-ewogICJpZCI6ICJidWZmYWxvLXRhbmdlcmluZSIsCiAgIm5hbWUiOiAi5LiN55+l54GrIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuiKuOmmmeenkSIsCiAgICAi5bGeIjogIuafkeapmOWxniIsCiAgICAi5Yir5ZCNIjogWyLkuJHmqZgiLCAi5Ye46aG25p+RIl0sCiAgICAi57G75Z6LIjogIuafkeapmOexu+awtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbIuWbm+W3neecgSIsICLmsZ/opb/nnIEiLCAi5rmW5Y2X55yBIl0sCiAgImJlc3Rfc2Vhc29uIjogIjItNCDmnIjvvIjlhqzmnKvmmKXliJ3vvIzmnpzogonppbHmu6HlpJrmsYHvvIzphbjnlJzpgILlj6PvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjUza2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjEzLjBnIiwKICAgICLom4vnmb3otKgiOiAiMC44ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMzBtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjEuNGciCiAgfSwKICAiYmVuZWZpdHMiOiBbIuWvjOWQq+e7tOeUn+e0oCBD77yM5aKe5by65YWN55ar5YqbIiwgIuWQq+afoOaqrOmFuO+8jOS/g+i/m+a2iOWMliIsICLohrPpo5/nuqTnu7TmnInliqnkuo7ogqDpgZPooJXliqgiXSwKICAidGlwcyI6IFsi5p6c55qu6L6D5Y6a77yM5bu66K6u5Yml55qu5ZCO6aOf55SoIiwgIuWGt+iXj+WQjuWPo+aEn+abtOS9syIsICLkuI3lrpznqbrohbnlpKfph4/po5/nlKjku6XpmLLliLrmv4Dog4PphbjliIbms4wiXQp9Cg==
+{
+  "id": "buffalo-tangerine",
+  "name": "不知火",
+  "classification": {
+    "科": "芸香科",
+    "属": "柑橘属",
+    "别名": ["丑橘", "凸顶柑"],
+    "类型": "柑橘类水果"
+  },
+  "origin_range": ["四川省", "江西省", "湖南省"],
+  "best_season": "2-4 月（冬末春初，果肉饱满多汁，酸甜适口）",
+  "nutrition_per_100g": {
+    "热量": "53kcal",
+    "碳水化合物": "13.0g",
+    "蛋白质": "0.8g",
+    "维生素 C": "30mg",
+    "膳食纤维": "1.4g"
+  },
+  "benefits": ["富含维生素 C，增强免疫力", "含柠檬酸，促进消化", "膳食纤维有助于肠道蠕动"],
+  "tips": ["果皮较厚，建议剥皮后食用", "冷藏后口感更佳", "不宜空腹大量食用以防刺激胃酸分泌"]
+}

@@ -1,1 +1,21 @@
-ewogICJpZCI6ICJjaGVycnktdG9tYXRvIiwKICAibmFtZSI6ICLlnKPlpbPmnpwiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi6IyE56eRIiwKICAgICLlsZ4iOiAi55Wq6IyE5bGeIiwKICAgICLliKvlkI0iOiBbIuWwj+eVquiMhCIsICLmqLHmoYPnlarojIQiXSwKICAgICLnsbvlnosiOiAi6JSs6I+c5Z6L5rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsi5bGx5Lic55yBIiwgIuays+WMl+ecgSIsICLlub/kuJznnIEiXSwKICAiYmVzdF9zZWFzb24iOiAiNS0xMSDmnIjvvIjmmKXlpI/np4vkuInlraPvvIzmnpzlrp7pspznuqLvvIzphbjnlJzpgILlj6PvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjI1a2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjUuOGciLAogICAgIuibi+eZvei0qCI6ICIxLjJnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIyM21nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMS4yZyIKICB9LAogICJiZW5lZml0cyI6IFsi5a+M5ZCr55Wq6IyE57qi57Sg77yM5oqX5rCn5YyW6Ziy55mMIiwgIue7tCBDIOWQq+mHj+mrmOS6juaZrumAmueVquiMhCIsICLkvY7ng63ph4/pgILlkIjlh4/ohILmnJ/po5/nlKgiXSwKICAidGlwcyI6IFsi5riF5rSX5pe255So5reh55uQ5rC05rW45rOh5Y676Zmk5Yac5q6LIiwgIueUn+mjn+S/neeVmeabtOWkmuiQpeWFuyIsICLkuI3lrpzkuI7pu4Tnk5zlkIzpo5/vvIznoLTlnY/nu7QgQyJdCn0K
+{
+  "id": "cherry-tomato",
+  "name": "圣女果",
+  "classification": {
+    "科": "茄科",
+    "属": "番茄属",
+    "别名": ["小番茄", "樱桃番茄"],
+    "类型": "蔬菜型水果"
+  },
+  "origin_range": ["山东省", "河北省", "广东省"],
+  "best_season": "5-11 月（春夏秋三季，果实鲜红，酸甜适口）",
+  "nutrition_per_100g": {
+    "热量": "25kcal",
+    "碳水化合物": "5.8g",
+    "蛋白质": "1.2g",
+    "维生素 C": "23mg",
+    "膳食纤维": "1.2g"
+  },
+  "benefits": ["富含番茄红素，抗氧化防癌", "维 C 含量高于普通番茄", "低热量适合减脂期食用"],
+  "tips": ["清洗时用淡盐水浸泡去除农残", "生食保留更多营养", "不宜与黄瓜同食，破坏维 C"]
+}

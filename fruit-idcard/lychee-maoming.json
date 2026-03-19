@@ -1,1 +1,25 @@
-ewogICJpZCI6ICJseWNoZWUtbWFvbWluZyIsCiAgIm5hbWUiOiAi6IyC5ZCN6I2U5p6dIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuaXoOaCo+WtkOenkSIsCiAgICAi5bGeIjogIuiNlOaeneWxniIsCiAgICAidHlwZSI6ICLng63luKbmoLjmnpznsbsiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWyLlub/kuJzojILlkI0iLCAi5bm/6KW/IiwgIuemj+W7uiIsICLlm5vlt50iXSwKICAiYmVzdF9zZWFzb24iOiAiNS03IOaciOWIneWkj++8jOS4gOmqkee6ouWwmOWmg+WtkOeskSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNjZrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTQuN2ciLAogICAgIuibi+eZvei0qCI6ICIxLjNnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIzOW1nIiwKICAgICLpkr4iOiAiMjEzbWciLAogICAgIuWPtumFuCI6ICLkuLDlr4wiCiAgfSwKICAiYmVuZWZpdHMiOiBbIuihpeihgOWFu+minCIsICLlop7lvLrlhY3nlqsiLCAi5a6J56We5YGl6IODIiwgIuihpeWFhee7tCBDIl0sCiAgInRpcHMiOiBbCiAgICAi5LiA5pel5Yu/6LaF5LiA5pakIiwKICAgICLmmJPkuIrngavvvIzlu7rorq7nm5DmsLTmtbjms6HlkI7po5/nlKgiLAogICAgIumAieaLqee6ouWjs+mlsea7oeeahOabtOeUnCIKICBdCn0=
+{
+  "id": "lychee-maoming",
+  "name": "茂名荔枝",
+  "classification": {
+    "科": "无患子科",
+    "属": "荔枝属",
+    "type": "热带核果类"
+  },
+  "origin_range": ["广东茂名", "广西", "福建", "四川"],
+  "best_season": "5-7 月初夏，一骑红尘妃子笑",
+  "nutrition_per_100g": {
+    "热量": "66kcal",
+    "碳水化合物": "14.7g",
+    "蛋白质": "1.3g",
+    "维生素 C": "39mg",
+    "钾": "213mg",
+    "叶酸": "丰富"
+  },
+  "benefits": ["补血养颜", "增强免疫", "安神健胃", "补充维 C"],
+  "tips": [
+    "一日勿超一斤",
+    "易上火，建议盐水浸泡后食用",
+    "选择红壳饱满的更甜"
+  ]
+}

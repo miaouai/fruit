@@ -1,1 +1,21 @@
-ewogICJpZCI6ICJiZXJnYW1vdCIsCiAgIm5hbWUiOiAi5L2b5omL5p+RIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuiKuOmmmeenkSIsCiAgICAi5bGeIjogIuafkeapmOWxniIsCiAgICAi5Yir5ZCNIjogWyLkvZvmiYsiLCAi5LqU5oyH5p+RIl0sCiAgICAi57G75Z6LIjogIuiNr+eUqOafkeapmCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbIuW5v+S4nOecgSIsICLmtZnmsZ/nnIEiLCAi56aP5bu655yBIl0sCiAgImJlc3Rfc2Vhc29uIjogIjktMTIg5pyI77yI56eL5Yas5oiQ54af77yM6aaZ5rCU5rWT6YOB77yM5b2i5aaC5L2b5omL77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICIzMmtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICI4LjBnIiwKICAgICLom4vnmb3otKgiOiAiMS4yZyIsCiAgICAi57u055Sf57SgIEMiOiAiNDBtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjIuNWciCiAgfSwKICAiYmVuZWZpdHMiOiBbIueQhuawlOWMlueXsO+8jOeWj+iCneino+mDgSIsICLmjKXlj5HmsrnlhbfplYfpnZnkvZznlKgiLCAi5L+D6L+b6IOD6IKg6KCV5YqoIl0sCiAgInRpcHMiOiBbIuWkmueUqOS6juazoeiMtuOAgeeCluaxpOaIluicnOmlryIsICLpspzmnpznmq7ljprogonlsJHvvIzkuIDoiKzkuI3nm7TmjqXnlJ/po58iLCAi6Zi06Jma54Gr5pe66ICF5oWO55SoIl0KfQo=
+{
+  "id": "bergamot",
+  "name": "佛手柑",
+  "classification": {
+    "科": "芸香科",
+    "属": "柑橘属",
+    "别名": ["佛手", "五指柑"],
+    "类型": "药用柑橘"
+  },
+  "origin_range": ["广东省", "浙江省", "福建省"],
+  "best_season": "9-12 月（秋冬成熟，香气浓郁，形如佛手）",
+  "nutrition_per_100g": {
+    "热量": "32kcal",
+    "碳水化合物": "8.0g",
+    "蛋白质": "1.2g",
+    "维生素 C": "40mg",
+    "膳食纤维": "2.5g"
+  },
+  "benefits": ["理气化痰，疏肝解郁", "挥发油具镇静作用", "促进胃肠蠕动"],
+  "tips": ["多用于泡茶、炖汤或蜜饯", "鲜果皮厚肉少，一般不直接生食", "阴虚火旺者慎用"]
+}

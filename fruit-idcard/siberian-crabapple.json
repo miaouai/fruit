@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJzaWJlcmlhbi1jcmFiYXBwbGUiLAogICJuYW1lIjogIuaymeaenCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLolLfolofnp5EiLAogICAgIuWxniI6ICLoi7nmnpzlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuiKsee6oiIsCiAgICAgICLmnpfmqo4iCiAgICBdLAogICAgIuexu+WeiyI6ICLlsI/lnovku4HmnpznsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuWGheiSmeWPpOiHquayu+WMuiIsCiAgICAi5rKz5YyX55yBIiwKICAgICLovr3lroHnnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiOC0xMCDmnIjvvIjliJ3np4vkuIrluILvvIzmnpzlsI/oibLnuqLpu4TvvIzphbjnlJzniL3ohIbvvIznlaXluKbmtqnlkbPvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjUya2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjEzLjBnIiwKICAgICLom4vnmb3otKgiOiAiMC4zZyIsCiAgICAi57u055Sf57SgIEMiOiAiNW1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMi44ZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLmtojpo5/ljJbnp6/vvIzop6PmmpHmraLmuLQiLAogICAgIuS/g+i/m+iCoOmBk+igleWKqCIsCiAgICAi5Lyg57uf55So5LqO57yT6Kej6IW55rO777yI5pyq54af5p6c77yJIgogIF0sCiAgInRpcHMiOiBbCiAgICAi5Y+v6bKc6aOf44CB5pmS5bmy5oiW5Yi25p6c6YWxIiwKICAgICLmnKrnhp/pnZLmnpzmtqnlj6PkvYbmlLbmlZvmgKflvLoiLAogICAgIuiEvuiDg+iZmuWvkuiAhemAgumHj+mjn+eUqCIKICBdCn0=
+{
+  "id": "siberian-crabapple",
+  "name": "沙果",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "苹果属",
+    "别名": [
+      "花红",
+      "林檎"
+    ],
+    "类型": "小型仁果类水果"
+  },
+  "origin_range": [
+    "内蒙古自治区",
+    "河北省",
+    "辽宁省"
+  ],
+  "best_season": "8-10 月（初秋上市，果小色红黄，酸甜爽脆，略带涩味）",
+  "nutrition_per_100g": {
+    "热量": "52kcal",
+    "碳水化合物": "13.0g",
+    "蛋白质": "0.3g",
+    "维生素 C": "5mg",
+    "膳食纤维": "2.8g"
+  },
+  "benefits": [
+    "消食化积，解暑止渴",
+    "促进肠道蠕动",
+    "传统用于缓解腹泻（未熟果）"
+  ],
+  "tips": [
+    "可鲜食、晒干或制果酱",
+    "未熟青果涩口但收敛性强",
+    "脾胃虚寒者适量食用"
+  ]
+}

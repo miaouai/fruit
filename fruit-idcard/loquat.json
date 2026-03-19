@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJsb3F1YXQiLAogICJuYW1lIjogIuaeh+adtyIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLolLfolofnp5EiLAogICAgIuWxniI6ICLmnofmnbflsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuWNouapmCIsCiAgICAgICLph5HkuLgiCiAgICBdLAogICAgIuexu+WeiyI6ICLkuprng63luKbmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuaxn+iLj+ecgSIsCiAgICAi5rWZ5rGf55yBIiwKICAgICLlm5vlt53nnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiMy02IOaciO+8iOaYpeacq+Wkj+WIne+8jOaenOiCieaflOi9r++8jOW+rumFuOWbnueUmO+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNDFrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiOS44ZyIsCiAgICAi6JuL55m96LSoIjogIjAuOGciLAogICAgIue7tOeUn+e0oCBDIjogIjE1bWciLAogICAgIuiGs+mjn+e6pOe7tCI6ICIxLjNnIgogIH0sCiAgImJlbmVmaXRzIjogWwogICAgIua2puiCuuatouWSs++8jOWMlueXsOW5s+WWmCIsCiAgICAi5ZCr6Ium5p2P5LuB6Iu377yM5YW35oqX54KO5L2c55SoIiwKICAgICLkv4Pov5vpo5/mrLLvvIzliqnmtojljJYiCiAgXSwKICAidGlwcyI6IFsKICAgICLmnpznmq7lj6/po5/kvYbnlaXluKbmtqnlkbPvvIzlu7rorq7ljrvnmq4iLAogICAgIuacqueGn+aenOWQq+i+g+Wkmumeo+mFuO+8jOW6lOmAieapmem7hOiJsuaenOWuniIsCiAgICAi5LiN5a6c5LiO54mb5aW25ZCM6aOfIgogIF0KfQ==
+{
+  "id": "loquat",
+  "name": "枇杷",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "枇杷属",
+    "别名": [
+      "卢橘",
+      "金丸"
+    ],
+    "类型": "亚热带水果"
+  },
+  "origin_range": [
+    "江苏省",
+    "浙江省",
+    "四川省"
+  ],
+  "best_season": "3-6 月（春末夏初，果肉柔软，微酸回甘）",
+  "nutrition_per_100g": {
+    "热量": "41kcal",
+    "碳水化合物": "9.8g",
+    "蛋白质": "0.8g",
+    "维生素 C": "15mg",
+    "膳食纤维": "1.3g"
+  },
+  "benefits": [
+    "润肺止咳，化痰平喘",
+    "含苦杏仁苷，具抗炎作用",
+    "促进食欲，助消化"
+  ],
+  "tips": [
+    "果皮可食但略带涩味，建议去皮",
+    "未熟果含较多鞣酸，应选橙黄色果实",
+    "不宜与牛奶同食"
+  ]
+}

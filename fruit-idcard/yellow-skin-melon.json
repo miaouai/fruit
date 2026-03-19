@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJ5ZWxsb3ctc2tpbi1tZWxvbiIsCiAgIm5hbWUiOiAi6buE55qu55OcIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuiRq+iKpuenkSIsCiAgICAi5bGeIjogIueUnOeTnOWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi6buE6YeR55OcIiwKICAgICAgIum7hOeTpOeUnOeTnCIKICAgIF0sCiAgICAi57G75Z6LIjogIueTnOexu+awtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5paw55aG57u05ZC+5bCU6Ieq5rK75Yy6IiwKICAgICLnlJjogoPnnIEiLAogICAgIuWGheiSmeWPpOiHquayu+WMuiIKICBdLAogICJiZXN0X3NlYXNvbiI6ICI2LTkg5pyI77yI55ub5aSP5pe26IqC77yM5p6c6IKJ6YeR6buE77yM6aaZ55Sc5aSa5rGB77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICIzNWtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICI4LjVnIiwKICAgICLom4vnmb3otKgiOiAiMC41ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMTVtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjAuN2ciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi6auY5rC05YiG6Kej5pqR5Yip5bC/IiwKICAgICLlkKvOsi3og6HokJ3ljZzntKDvvIzmiqTnnLzmmI7nm64iLAogICAgIuWkqeeEtuezluWIhuaPkOS+m+iDvemHjyIKICBdLAogICJ0aXBzIjogWwogICAgIuaMkemAieaXtuS7pemmmeawlOa1k+mDgeOAgeihqOearuW+rui9r+S4uuS9syIsCiAgICAi5YiH5byA5ZCO5bC95b+r6aOf55SoIiwKICAgICLohL7og4PomZrlr5LogIXpgILph48iCiAgXQp9
+{
+  "id": "yellow-skin-melon",
+  "name": "黄皮瓜",
+  "classification": {
+    "科": "葫芦科",
+    "属": "甜瓜属",
+    "别名": [
+      "黄金瓜",
+      "黄瓤甜瓜"
+    ],
+    "类型": "瓜类水果"
+  },
+  "origin_range": [
+    "新疆维吾尔自治区",
+    "甘肃省",
+    "内蒙古自治区"
+  ],
+  "best_season": "6-9 月（盛夏时节，果肉金黄，香甜多汁）",
+  "nutrition_per_100g": {
+    "热量": "35kcal",
+    "碳水化合物": "8.5g",
+    "蛋白质": "0.5g",
+    "维生素 C": "15mg",
+    "膳食纤维": "0.7g"
+  },
+  "benefits": [
+    "高水分解暑利尿",
+    "含β-胡萝卜素，护眼明目",
+    "天然糖分提供能量"
+  ],
+  "tips": [
+    "挑选时以香气浓郁、表皮微软为佳",
+    "切开后尽快食用",
+    "脾胃虚寒者适量"
+  ]
+}

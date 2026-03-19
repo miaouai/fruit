@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJjdXN0YXJkLWFwcGxlIiwKICAibmFtZSI6ICLnlarojZTmnp0iLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi55Wq6I2U5p6d56eRIiwKICAgICLlsZ4iOiAi55Wq6I2U5p6d5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLph4rov6bmnpzvvIjov5HkurLvvIkiLAogICAgICAi5L2b5aS05p6cIgogICAgXSwKICAgICLnsbvlnosiOiAi54Ot5bim6IGa5ZCI5qC45p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLlj7Dmub7nnIEiLAogICAgIua1t+WNl+ecgSIsCiAgICAi56aP5bu655yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjYtOSDmnIjvvIjlpI/lraPkuIrluILvvIzmnpzogonkubPnmb3vvIxjcmVhbXkg6aaZ55Sc77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICIxMDFrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMjUuMGciLAogICAgIuibi+eZvei0qCI6ICIxLjZnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIxOW1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMi40ZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLpq5jog73ph4/ooaXlhYXkvZPlipsiLAogICAgIuWQq+e7tOeUn+e0oCBCNu+8jOe8k+ino+WOi+WKmyIsCiAgICAi5L+D6L+b5raI5YyWIgogIF0sCiAgInRpcHMiOiBbCiAgICAi6KGo55qu6L2v54af44CB6bOe55uu5b6u6KOC5Li65pyA5L2z6aOf55So5pyfIiwKICAgICLlhrfol4/lkI7lj6PmhJ/kvLzlhrDmt4fmt4siLAogICAgIuenjeWtkOacieavkuS4jeWPr+mjnyIKICBdCn0=
+{
+  "id": "custard-apple",
+  "name": "番荔枝",
+  "classification": {
+    "科": "番荔枝科",
+    "属": "番荔枝属",
+    "别名": [
+      "释迦果（近亲）",
+      "佛头果"
+    ],
+    "类型": "热带聚合核果"
+  },
+  "origin_range": [
+    "台湾省",
+    "海南省",
+    "福建省"
+  ],
+  "best_season": "6-9 月（夏季上市，果肉乳白，creamy 香甜）",
+  "nutrition_per_100g": {
+    "热量": "101kcal",
+    "碳水化合物": "25.0g",
+    "蛋白质": "1.6g",
+    "维生素 C": "19mg",
+    "膳食纤维": "2.4g"
+  },
+  "benefits": [
+    "高能量补充体力",
+    "含维生素 B6，缓解压力",
+    "促进消化"
+  ],
+  "tips": [
+    "表皮软熟、鳞目微裂为最佳食用期",
+    "冷藏后口感似冰淇淋",
+    "种子有毒不可食"
+  ]
+}

@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJibHVlYmVycnkiLAogICJuYW1lIjogIuiTneiOkyIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLmnZzpuYPoirHnp5EiLAogICAgIuWxniI6ICLotormqZjlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuesg+aWr+i2iuapmCIsCiAgICAgICLpu5HosYbmoJEiCiAgICBdLAogICAgIuexu+WeiyI6ICLlsI/lnovmtYbmnpznsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIum7kem+meaxn+ecgSIsCiAgICAi5ZCJ5p6X55yBIiwKICAgICLotLXlt57nnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNS05IOaciO+8iOWkj+Wto+S4uuS4u++8jOaenOearua3seiTne+8jOaenOiCiee7huiFu++8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNTdrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTQuNWciLAogICAgIuibi+eZvei0qCI6ICIwLjdnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICI5bWciLAogICAgIuiGs+mjn+e6pOe7tCI6ICIyLjRnIgogIH0sCiAgImJlbmVmaXRzIjogWwogICAgIuWvjOWQq+iKsemdkue0oO+8jOS/neaKpOinhuWKm+OAgeaKl+ihsOiAgSIsCiAgICAi5oqX5rCn5YyW6IO95Yqb5p6B5by6IiwKICAgICLmlLnlloTorrDlv4blipvvvIzlu7bnvJPohJHogIHljJYiCiAgXSwKICAidGlwcyI6IFsKICAgICLlhrfol4/kv53lrZjlj6/lu7bplb/kv53pspzmnJ8iLAogICAgIua4hea0l+aXtueUqOa1geawtOi9u+WGsu+8jOmBv+WFjeegtOWdj+aenOeyiSIsCiAgICAi5Y+v5Ya35Ya75ZCO55u05o6l6aOf55SoIgogIF0KfQ==
+{
+  "id": "blueberry",
+  "name": "蓝莓",
+  "classification": {
+    "科": "杜鹃花科",
+    "属": "越橘属",
+    "别名": [
+      "笃斯越橘",
+      "黑豆树"
+    ],
+    "类型": "小型浆果类水果"
+  },
+  "origin_range": [
+    "黑龙江省",
+    "吉林省",
+    "贵州省"
+  ],
+  "best_season": "5-9 月（夏季为主，果皮深蓝，果肉细腻）",
+  "nutrition_per_100g": {
+    "热量": "57kcal",
+    "碳水化合物": "14.5g",
+    "蛋白质": "0.7g",
+    "维生素 C": "9mg",
+    "膳食纤维": "2.4g"
+  },
+  "benefits": [
+    "富含花青素，保护视力、抗衰老",
+    "抗氧化能力极强",
+    "改善记忆力，延缓脑老化"
+  ],
+  "tips": [
+    "冷藏保存可延长保鲜期",
+    "清洗时用流水轻冲，避免破坏果粉",
+    "可冷冻后直接食用"
+  ]
+}

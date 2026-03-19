@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJwbHVtIiwKICAibmFtZSI6ICLmnY7lrZAiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi6JS36JaH56eRIiwKICAgICLlsZ4iOiAi5p2O5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLlmInluoblrZAiLAogICAgICAi5bGx5p2O5a2QIgogICAgXSwKICAgICLnsbvlnosiOiAi5qC45p6c57G75rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLlm5vlt53nnIEiLAogICAgIui+veWugeecgSIsCiAgICAi5bGx5Lic55yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjUtOCDmnIjvvIjliJ3lpI/oh7Pnm5vlpI/vvIzmnpzogonpu4TmiJbnuqLvvIzphbjnlJzlpJrmsYHvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjM4a2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjkuMGciLAogICAgIuibi+eZvei0qCI6ICIwLjdnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICI1bWciLAogICAgIuiGs+mjn+e6pOe7tCI6ICIxLjRnIgogIH0sCiAgImJlbmVmaXRzIjogWwogICAgIueUn+a0peatoua4tO+8jOS/g+i/m+mjn+assiIsCiAgICAi5ZCr5pyJ5py66YW477yM5Yqp5raI5YyWIiwKICAgICLmtqbogqDpgJrkvr8iCiAgXSwKICAidGlwcyI6IFsKICAgICLmnKrnhp/pnZLmnY7phbjmtqnvvIznhp/pgI/lkI7mm7TnlJwiLAogICAgIuepuuiFueaFjumjn++8jOWPr+iDveWIuua/gOiDg+m7j+iGnCIsCiAgICAi5LiO6JyC6Jyc5ZCM6aOf5Y+v6IO96Ie06IW55rO7IgogIF0KfQ==
+{
+  "id": "plum",
+  "name": "李子",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "李属",
+    "别名": [
+      "嘉庆子",
+      "山李子"
+    ],
+    "类型": "核果类水果"
+  },
+  "origin_range": [
+    "四川省",
+    "辽宁省",
+    "山东省"
+  ],
+  "best_season": "5-8 月（初夏至盛夏，果肉黄或红，酸甜多汁）",
+  "nutrition_per_100g": {
+    "热量": "38kcal",
+    "碳水化合物": "9.0g",
+    "蛋白质": "0.7g",
+    "维生素 C": "5mg",
+    "膳食纤维": "1.4g"
+  },
+  "benefits": [
+    "生津止渴，促进食欲",
+    "含有机酸，助消化",
+    "润肠通便"
+  ],
+  "tips": [
+    "未熟青李酸涩，熟透后更甜",
+    "空腹慎食，可能刺激胃黏膜",
+    "与蜂蜜同食可能致腹泻"
+  ]
+}

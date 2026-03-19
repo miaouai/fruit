@@ -1,1 +1,266 @@
-IyDwn42KIOawtOaenOmXuSAoTk9XKQoKPiAqKuaXtuS7pOawtOaenOafpeivouaMh+WNlyoqIC0g5LqG6Kej5Lit5Zu95aKD5YaF5q+P5Liq5pyI5LiK5biC55qE5paw6bKc5rC05p6cCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKIVtQcm9qZWN0IFN0YXR1c10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9TdGF0dXMtQWN0aXZlLXN1Y2Nlc3MpCiFbTGljZW5zZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaWNlbnNlLU1JVC1ibHVlKQpbIVtHaXRIdWIgUGFnZXNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0SHViLVBhZ2VzLWxpZ2h0Z3JleSldKGh0dHBzOi8vbWlhb3VhaS5naXRodWIuaW8vZnJ1aXQvKQoK8J+ThSDmjInlraPoioLmn6Xor6IgfCDwn4yPIOimhuebluWFqOWbveS6p+WMuiB8IPCfkqEg6JCl5YW75bCP6LS05aOrCgo8L2Rpdj4KCi0tLQoKIyMg8J+TliDpobnnm67nroDku4sKCuOAjOawtOaenOmXueOAjeaYr+S4gOS4quiHtOWKm+S6juiusOW9leWSjOWxleekuuS4reWbveWig+WGheS4jeWQjOaciOS7veW6lOWto+awtOaenOeahOW8gOa6kOmhueebruOAgumAmui/h+acrOmhueebrueahOaVsOaNru+8jOeUqOaIt+WPr+S7pe+8mgoKLSDwn5eT77iPICoq5oyJ5pyI5p+l6K+iKirvvJrlv6vpgJ/kuobop6Pmr4/kuKrmnIjmnInlk6rkupvmsLTmnpzmraPlvZPlraMKLSDwn4yPICoq5Lqn5Zyw5L+h5oGvKirvvJrmoIfms6jmr4/kuKrmsLTmnpznmoTkuLvopoHkuqfljLoKLSDwn6WXICoq5YGl5bq36aWu6aOfKirvvJrpgbXlvqroh6rnhLbop4TlvovvvIzlkIPlvZPlraPmnIDlpb3lkIPnmoTmsLTmnpwKLSDwn5KwICoq55yB6ZKx5pS755WlKirvvJrlupTlraPmsLTmnpzku7fmoLzmm7Tlrp7mg6DvvIEKCi0tLQoKIyMg8J+agCDlnKjnur/orr/pl64KCi0gKipHaXRIdWIgUGFnZXMqKjogaHR0cHM6Ly9taWFvdWFpLmdpdGh1Yi5pby9mcnVpdC8KLSAqKkdpdEh1YiDku5PlupMqKjogaHR0cHM6Ly9naXRodWIuY29tL21pYW91YWkvZnJ1aXQKCi0tLQoKIyMg8J+OqCDlip/og73pooTop4gKCiMjIyDlj4zmoI/kuqTkupLorr7orqEKCnwg56ys5LiA5qCP77ya5b2T5YmN5bqU5a2jIHwg56ys5LqM5qCP77ya5pyI5Lu95p+l6K+iIHwKfC0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLXwKfCDoh6rliqjmo4DmtYvlvZPliY3mnIjku73mmL7npLrlupTlraPmsLTmnpwgfCAxLTEyIOaciOagh+etvuiHqueUseWIh+aNoiB8Cnwg54K55Ye755u05o6l5p+l55yL5rC05p6c6K+m5oOFIHwg5p+l55yL5oyH5a6a5pyI5Lu955qE5rC05p6c5YiX6KGoIHwKCiMjIyDni6znq4vlvLnnqpfns7vnu58KCi0g8J+UjSAqKuaciOS7veWIl+ihqOW8ueeqlyoq77ya5pi+56S66K+l5pyI55qE5omA5pyJ5bqU5a2j5rC05p6cCi0g8J+TiyAqKuawtOaenCBJRCDljaHlvLnnqpcqKu+8muWujOaVtOeahOawtOaenOS/oeaBr+aho+ahiAotIOKchSAqKuS6kuS4jeW5suaJsCoq77ya5YWz6ZetIElEIOWNoeS4jeW9seWTjeaciOS7veWIl+ihqOaYvuekugoKLS0tCgojIyDwn5ug77iPIOaKgOacr+aetuaehAoKIyMjIOaVtOS9k+aetuaehOWbvgoKYGBgCuKUjOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUkArilIIgICAgICAgICAgICAgICAgICAgIGluZGV4Lmh0bWwgICAgICAgICAgICAgICAgICAgICAgICAgIOKUggrilIIgICAgICAgICAgICAgICAgICAgKOWNlemhteW6lOeUqOWFpeWPoykgICAgICAgICAgICAgICAgICAgICAgICDilIIK4pSU4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSs4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSYCiAgICAgICAgICAgICAgICAgICAgIOKUggogICAgICAgIOKUjOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUtOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUkAogICAgICAgIOKUgiAgICAgICAgICAgICAgICAgICAgICAgICDilIIKICAgICAgICDilrwgICAgICAgICAgICAgICAgICAgICAgICAg4pa8CuKUjOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUkCAgICAgICAgIOKUjOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUkArilIIgZnJ1aXQtbGlzdC5qc29u4pSCICAgICAgICAg4pSCICBmcnVpdC1pZGNhcmQvICAg4pSCCuKUgiAgICAgICAgICAgICAgIOKUgiAgICAgICAgIOKUgiAgICAgICAgICAgICAgICAgIOKUggrilIIgLSDmsLTmnpzkuLvntKLlvJUgICAg4pSCICAgICAgICAg4pSCICDilJzilIDilIAgd2F0ZXJtZWxvbi5qc29u4pSCCuKUgiAtIOS4iuW4guaciOS7veiMg+WbtCAg4pSCICAgICAgICAg4pSCICDilJzilIDilIAgc3RyYXdiZXJyeS5qc29u4pSCCuKUgiAtIOawtOaenOWQjeaYoOWwhCAgICAg4pSCICAgICAgICAg4pSCICDilJzilIDilIAgb3JhbmdlLmpzb24gICDilIIK4pSU4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSYICAgICAgICAg4pSCICDilJTilIDilIAgLi4uICAgICAgICAgIOKUggogICAgICAgIOKUgiAgICAgICAgICAgICAgICAg4pSCICAgICAo6K+m57uG5qGj5qGI5bqTKSAgICDilIIKICAgICAgICDilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilKzilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJgKICAgICAgICAgICAgICAgICAgICAgICAgIOKUggogICAgICAgICAgICAgICAg4pSM4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pa84pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSQCiAgICAgICAgICAgICAgICDilIIgICBKYXZhU2NyaXB0ICAgICDilIIKICAgICAgICAgICAgICAgIOKUgiAgKOWKqOaAgeWKoOi9vea4suafkykgICAg4pSCCiAgICAgICAgICAgICAgICDilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJgKYGBgCgojIyMg5qC45b+D6YC76L6R5rWB56iLCgpgYGBqYXZhc2NyaXB0Ci8vIDEuIOWKoOi9veS4u+aVsOaNrgpmZXRjaCgnZnJ1aXQtbGlzdC5qc29uJykKICDihpIgZnJ1aXRzRGF0YSAo5YyF5ZCr5omA5pyJ5rC05p6c55qEIGlkL25hbWUvaGFydmVzdF9zdGFydC9oYXJ2ZXN0X2VuZCkKCi8vIDIuIOiOt+WPluW9k+WJjeaciOS7vQpnZXRDdXJyZW50TW9udGgoKSDihpIgbW9udGggKDEtMTIpCgovLyAzLiDnrZvpgInlupTlraPmsLTmnpwKaXNGcnVpdEluTW9udGgoZnJ1aXQsIG1vbnRoKToKICAtIOWkhOeQhui3qOW5tOaDheWGtSAo5aaC56CC57OW5qmYIDEyIOaciOKGkuasoeW5tCAzIOaciCkKICAtIOi/lOWbnuW4g+WwlOWAvAoKLy8gNC4g5riy5p+T56ys5LiA5qCPICjlvZPliY3lupTlraMpCmZpbHRlcihmcnVpdHMsIGN1cnJlbnRNb250aCkg4oaSIHJlbmRlckdyaWQoKQoKLy8gNS4g54K55Ye75pyI5Lu95qCH562+CnNob3dNb250aEZydWl0cyhtb250aCkg4oaSIGZpbHRlciDihpIgb3Blbk1vZGFsKCkKCi8vIDYuIOeCueWHu+afpeeci+ivpuaDhQpzaG93SWRDYXJkKGZydWl0SWQpIOKGkiBmZXRjaChgZnJ1aXQtaWRjYXJkLyR7ZnJ1aXRJZH0uanNvbmApIOKGkiByZW5kZXJJZENhcmQoKQpgYGAKCi0tLQoKIyMg8J+TgSDnm67lvZXnu5PmnoQKCmBgYApmcnVpdC8K4pSc4pSA4pSAIGluZGV4Lmh0bWwgICAgICAgICAgICAgICMg5Li76aG177yIR2l0SHViIFBhZ2VzIOWFpeWPo++8iQrilJzilIDilIAgUkVBRE1FLm1kICAgICAgICAgICAgICAgIyDpobnnm67or7TmmI7mlofmoaMK4pSc4pSA4pSAIGZydWl0LWxpc3QuanNvbiAgICAgICAgICMg5rC05p6c5Li757Si5byV5pWw5o2uCuKUlOKUgOKUgCBmcnVpdC1pZGNhcmQvICAgICAgICAgICAjIOawtOaenOivpue7huS/oeaBr+ebruW9lQogICAg4pSc4pSA4pSAIHdhdGVybWVsb24uanNvbiAgICAgIyDopb/nk5zmoaPmoYgKICAgIOKUnOKUgOKUgCBzdHJhd2JlcnJ5LWRhbmRvbmcuanNvbiAgIyDkuLnkuJzojYnojpPmoaPmoYgKICAgIOKUnOKUgOKUgCBvcmFuZ2UtbmFuY2h1bi5qc29uICAgICAgIyDotaPljZfohJDmqZnmoaPmoYgKICAgIOKUlOKUgOKUgCAuLi4gKOabtOWkmuawtOaenOaho+ahiCkKYGBgCgotLS0KCiMjIPCfk4og5pWw5o2u5qC85byP6K+05piOCgojIyMgYGZydWl0LWxpc3QuanNvbmAgLSDkuLvntKLlvJUKCmBgYGpzb24KewogICJmcnVpdHMiOiBbCiAgICB7CiAgICAgICJpZCI6ICJ3YXRlcm1lbG9uIiwgICAgICAgICAgIC8vIOWUr+S4gOagh+ivhuespu+8jOS4jiBJRCDljaHmlofku7blkI3lr7nlupQKICAgICAgIm5hbWUiOiAi6KW/55OcIiwgICAgICAgICAgICAgICAgLy8g5pi+56S65ZCN56ewCiAgICAgICJoYXJ2ZXN0X3N0YXJ0IjogNSwgICAgICAgICAgIC8vIOW8gOWni+S4iuW4guaciOS7vSAoMS0xMikKICAgICAgImhhcnZlc3RfZW5kIjogOSAgICAgICAgICAgICAgLy8g57uT5p2f5LiK5biC5pyI5Lu9ICgxLTEyKQogICAgfQogIF0KfQpgYGAKCiMjIyBgZnJ1aXQtaWRjYXJkL3tpZH0uanNvbmAgLSDor6bnu4bmoaPmoYgKCmBgYGpzb24KewogICJpZCI6ICJ3YXRlcm1lbG9uIiwKICAibmFtZSI6ICLopb/nk5wiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsgICAgICAgICAgICAgICAvLyDliIbnsbvkv6Hmga8KICAgICLnp5EiOiAi6JGr6Iqm56eRIiwKICAgICLlsZ4iOiAi6KW/55Oc5bGeIiwKICAgICJ0eXBlIjogIuWkj+Wto+a2iOaakeawtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbIuaWsOeWhiIsICLlroHlpI8iXSwgLy8g5Lqn5Zyw5YiX6KGoCiAgImJlc3Rfc2Vhc29uIjogIjYtOCDmnIjnm5vlpI/ml7boioIiLCAgIC8vIOacgOS9s+WTgeWwneacnwogICJudXRyaXRpb25fcGVyXzEwMGciOiB7ICAgICAgICAgIC8vIOiQpeWFu+aIkOWIhuihqAogICAgIueDremHjyI6ICIzMGtjYWwiLAogICAgIue7tOeUn+e0oCBDIjogIjhtZyIKICB9LAogICJiZW5lZml0cyI6IFsi5raI5pqR6Kej5ri0IiwgIuWIqeWwvyJdLCAvLyDlip/mlYjliJfooagKICAidGlwcyI6IFsi6YCJ5ouN5omT5aOw6Z+z5riF6ISG55qEIl0gICAgIC8vIOmjn+eUqOWwj+i0tOWjqwp9CmBgYAoKLS0tCgojIyDwn46vIOmhueebruebrueahAoKIyMjIOaguOW/g+S7t+WAvAoKMS4gKirnp5Hmma7mlZnogrIqKu+8muW4ruWKqeWkp+S8l+S6huino+aXtuS7pOawtOaenOefpeivhgoyLiAqKuWBpeW6t+eUn+a0uyoq77ya5YCh5a+86aG65bqU5a2j6IqC55qE6aWu6aOf5pa55byPCjMuICoq5pWw5o2u5YWx5LqrKirvvJrlvIDmlL7msLTmnpzmlbDmja7lupPkvpvlvIDlj5HogIXkvb/nlKgKNC4gKirnpL7ljLrlhbHlu7oqKu+8muasoui/juWkp+WutuihpeWFheWujOWWhOacrOWcsOeJueiJsuawtOaenAoKIyMjIOmAgueUqOWcuuaZrwoKLSDwn4+qICoq5a625bqt6YeH6LStKirvvJrnn6XpgZPku4DkuYjml7blgJnkubDku4DkuYjmsLTmnpzmnIDmlrDpspwKLSDwn5Go4oCN8J+RqeKAjfCfkacgKirkurLlrZDmlZnogrIqKu+8muaVmeWtqeWtkOiupOivhuWbm+Wto+WPmOWMluS4jumjn+eJqeWFs+ezuwotIPCfjbMgKirng7npparlj4LogIMqKu+8muagueaNruWto+iKgumAieaLqemjn+adkAotIPCfk7EgKirlvIDlj5Hnu4PkuaAqKu+8muWtpuS5oCBKU09OIOaVsOaNrumpseWKqOeahOWJjeerr+mhueebrgoKLS0tCgojIyDwn6SdIOWmguS9lei0oeeMrgoK5qyi6L+O5Li66L+Z5Liq6aG555uu6LSh54yu5L2g5a625Lmh55qE5rC05p6c55+l6K+G77yBCgojIyMg5re75Yqg5paw5rC05p6cCgoxLiAqKkZvcmsg5pys5LuT5bqTKioKCjIuICoq5Zyo5Li757Si5byV5Lit5re75Yqg5p2h55uuKiogKGBmcnVpdC1saXN0Lmpzb25gKQogICBgYGBqc29uCiAgIHsiaWQiOiAieW91ci1mcnVpdC1uYW1lIiwgIm5hbWUiOiAi5L2g55qE5rC05p6cIiwgImhhcnZlc3Rfc3RhcnQiOiAzLCAiaGFydmVzdF9lbmQiOiA1fQogICBgYGAKCjMuICoq5Yib5bu66K+m57uG5qGj5qGIKiogKGBmcnVpdC1pZGNhcmQveW91ci1mcnVpdC1uYW1lLmpzb25gKQogICAtIOWPgueFp+eOsOaciSBKU09OIOaooeadvwogICAtIOWhq+WGmeWujOaVtOS/oeaBrwoKNC4gKirmj5DkuqQgUHVsbCBSZXF1ZXN0KioKCiMjIyDkv67mlLnnjrDmnInmlbDmja4KCuWmguaenOWPkeeOsOmUmeivr+aIluS4jeWHhuehrueahOWcsOaWue+8jOasoui/juaPkCBJc3N1ZSDmiJYgUFIg5L+u5q2j77yBCgotLS0KCiMjIPCfk4gg5pWw5o2u57uf6K6hCgp8IOaMh+aghyB8IOaVsOWAvCB8CnwtLS0tLS18LS0tLS0tfAp8IPCfjY4g5bey5pS25b2V5rC05p6cIHwgNjMrIOenjSB8Cnwg8J+Xuu+4jyDopobnm5bnnIHku70gfCAyMCsg5LiqIHwKfCDwn5OGIOaciOS7veWujOaVtOaApyB8IDEyLzEyIHwKfCDwn5SEIOabtOaWsOmikeeOhyB8IOaMgee7ree7tOaKpOS4rSB8CgotLS0KCiMjIPCfjqgg55WM6Z2i6K6+6K6hCgojIyMg6Imy5b2p5pa55qGICgotICoq5Li76IOM5pmvKio6IOe0q+e9l+WFsOa4kOWPmCBgIzY2N2VlYWAg4oaSIGAjNzY0YmEyYAotICoq5Y2h54mHKio6IOeyieapmea4kOWPmCArIOeZveiJsueOu+eSg+i0qOaEnwotICoq5paH5a2XKio6IOa3seeBsCBgIzMzM2Ag5L+d6K+B5Y+v6K+75oCnCgojIyMg5Lqk5LqS5Yqo55S7CgotIOKcqCDpobXpnaLovb3lhaXvvJrmuJDlhaXmlYjmnpwKLSDwn46vIOaCrOWBnOWPjemmiO+8mui9u+W+rue8qeaUviArIOmYtOW9seWKoOa3sQotIPCfk4Ig5by556qX5omT5byA77ya57yp5pS+5reh5YWlCi0g8J+UkiDpga7nvanlsYLvvJrpq5jmlq/mqKHns4ogYmFja2Ryb3AtZmlsdGVyCgojIyMg5ZON5bqU5byP6YCC6YWNCgotIPCfk7Eg56e75Yqo56uv77ya5Y2V5YiX5biD5bGA77yM6Kem5pG45LyY5YyWCi0g8J+SuyDmoYzpnaLnq6/vvJrlj4zmoI/lubbmjpLvvIznvZHmoLzluIPlsYAKLSDwn5OQIOaWreeCue+8mjc2OHB4CgotLS0KCiMjIPCfk5wg6K645Y+v6K+BCgrmnKzpobnnm67ph4fnlKggTUlUIOiuuOWPr+ivge+8jOasoui/juiHqueUseS9v+eUqOWSjOWIhuWPkeOAggoKLS0tCgojIyDwn5Go4oCN8J+SuyDnu7TmiqTogIUKCltAbWlhb3VhaV0oaHR0cHM6Ly9naXRodWIuY29tL21pYW91YWkpCgrlpoLmnInpl67popjmiJblu7rorq7vvIzmrKLov47mj5DkuqQgW0lzc3VlXShodHRwczovL2dpdGh1Yi5jb20vbWlhb3VhaS9mcnVpdC9pc3N1ZXMpCgotLS0KCjxkaXYgYWxpZ249ImNlbnRlciI+CgoqKuWQg+W9k+Wto+awtOaenO+8jOS6q+WBpeW6t+eUn+a0uyDwn6WsKioKCuKtkCDlpoLmnpzov5nkuKrpobnnm67lr7nkvaDmnInluK7liqnvvIzmrKLov44gU3RhciDmlK/mjIHvvIEKCi0tLQoKTWFkZSB3aXRoIOKdpO+4jyBieSBb5Za15pyJ54ixXShodHRwczovL2dpdGh1Yi5jb20vbWlhb3VhaSkKCjwvZGl2Pgo=
+# 🍊 水果闹 (NOW)
+
+> **时令水果查询指南** - 了解中国境内每个月上市的新鲜水果
+
+<div align="center">
+
+![Project Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-lightgrey)](https://miaouai.github.io/fruit/)
+
+📅 按季节查询 | 🌏 覆盖全国产区 | 💡 营养小贴士
+
+</div>
+
+---
+
+## 📖 项目简介
+
+「水果闹」是一个致力于记录和展示中国境内不同月份应季水果的开源项目。通过本项目的数据，用户可以：
+
+- 🗓️ **按月查询**：快速了解每个月有哪些水果正当季
+- 🌏 **产地信息**：标注每个水果的主要产区
+- 🥗 **健康饮食**：遵循自然规律，吃当季最好吃的水果
+- 💰 **省钱攻略**：应季水果价格更实惠！
+
+---
+
+## 🚀 在线访问
+
+- **GitHub Pages**: https://miaouai.github.io/fruit/
+- **GitHub 仓库**: https://github.com/miaouai/fruit
+
+---
+
+## 🎨 功能预览
+
+### 双栏交互设计
+
+| 第一栏：当前应季 | 第二栏：月份查询 |
+|----------------|----------------|
+| 自动检测当前月份显示应季水果 | 1-12 月标签自由切换 |
+| 点击直接查看水果详情 | 查看指定月份的水果列表 |
+
+### 独立弹窗系统
+
+- 🔍 **月份列表弹窗**：显示该月的所有应季水果
+- 📋 **水果 ID 卡弹窗**：完整的水果信息档案
+- ✅ **互不干扰**：关闭 ID 卡不影响月份列表显示
+
+---
+
+## 🛠️ 技术架构
+
+### 整体架构图
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    index.html                          │
+│                   (单页应用入口)                        │
+└────────────────────┬────────────────────────────────────┘
+                     │
+        ┌────────────┴────────────┐
+        │                         │
+        ▼                         ▼
+┌───────────────┐         ┌──────────────────┐
+│ fruit-list.json│         │  fruit-idcard/   │
+│               │         │                  │
+│ - 水果主索引    │         │  ├── watermelon.json│
+│ - 上市月份范围  │         │  ├── strawberry.json│
+│ - 水果名映射     │         │  ├── orange.json   │
+└───────────────┘         │  └── ...          │
+        │                 │     (详细档案库)    │
+        └────────────────┬────────────────────┘
+                         │
+                ┌────────▼─────────┐
+                │   JavaScript     │
+                │  (动态加载渲染)    │
+                └──────────────────┘
+```
+
+### 核心逻辑流程
+
+```javascript
+// 1. 加载主数据
+fetch('fruit-list.json')
+  → fruitsData (包含所有水果的 id/name/harvest_start/harvest_end)
+
+// 2. 获取当前月份
+getCurrentMonth() → month (1-12)
+
+// 3. 筛选应季水果
+isFruitInMonth(fruit, month):
+  - 处理跨年情况 (如砂糖橘 12 月→次年 3 月)
+  - 返回布尔值
+
+// 4. 渲染第一栏 (当前应季)
+filter(fruits, currentMonth) → renderGrid()
+
+// 5. 点击月份标签
+showMonthFruits(month) → filter → openModal()
+
+// 6. 点击查看详情
+showIdCard(fruitId) → fetch(`fruit-idcard/${fruitId}.json`) → renderIdCard()
+```
+
+---
+
+## 📁 目录结构
+
+```
+fruit/
+├── index.html              # 主页（GitHub Pages 入口）
+├── README.md               # 项目说明文档
+├── fruit-list.json         # 水果主索引数据
+└── fruit-idcard/           # 水果详细信息目录
+    ├── watermelon.json     # 西瓜档案
+    ├── strawberry-dandong.json  # 丹东草莓档案
+    ├── orange-nanchun.json      # 赣南脐橙档案
+    └── ... (更多水果档案)
+```
+
+---
+
+## 📊 数据格式说明
+
+### `fruit-list.json` - 主索引
+
+```json
+{
+  "fruits": [
+    {
+      "id": "watermelon",           // 唯一标识符，与 ID 卡文件名对应
+      "name": "西瓜",                // 显示名称
+      "harvest_start": 5,           // 开始上市月份 (1-12)
+      "harvest_end": 9              // 结束上市月份 (1-12)
+    }
+  ]
+}
+```
+
+### `fruit-idcard/{id}.json` - 详细档案
+
+```json
+{
+  "id": "watermelon",
+  "name": "西瓜",
+  "classification": {               // 分类信息
+    "科": "葫芦科",
+    "属": "西瓜属",
+    "type": "夏季消暑水果"
+  },
+  "origin_range": ["新疆", "宁夏"], // 产地列表
+  "best_season": "6-8 月盛夏时节",   // 最佳品尝期
+  "nutrition_per_100g": {          // 营养成分表
+    "热量": "30kcal",
+    "维生素 C": "8mg"
+  },
+  "benefits": ["消暑解渴", "利尿"], // 功效列表
+  "tips": ["选拍打声音清脆的"]     // 食用小贴士
+}
+```
+
+---
+
+## 🎯 项目目的
+
+### 核心价值
+
+1. **科普教育**：帮助大众了解时令水果知识
+2. **健康生活**：倡导顺应季节的饮食方式
+3. **数据共享**：开放水果数据库供开发者使用
+4. **社区共建**：欢迎大家补充完善本地特色水果
+
+### 适用场景
+
+- 🏪 **家庭采购**：知道什么时候买什么水果最新鲜
+- 👨‍👩‍👧 **亲子教育**：教孩子认识四季变化与食物关系
+- 🍳 **烹饪参考**：根据季节选择食材
+- 📱 **开发练习**：学习 JSON 数据驱动的前端项目
+
+---
+
+## 🤝 如何贡献
+
+欢迎为这个项目贡献你家乡的水果知识！
+
+### 添加新水果
+
+1. **Fork 本仓库**
+
+2. **在主索引中添加条目** (`fruit-list.json`)
+   ```json
+   {"id": "your-fruit-name", "name": "你的水果", "harvest_start": 3, "harvest_end": 5}
+   ```
+
+3. **创建详细档案** (`fruit-idcard/your-fruit-name.json`)
+   - 参照现有 JSON 模板
+   - 填写完整信息
+
+4. **提交 Pull Request**
+
+### 修改现有数据
+
+如果发现错误或不准确的地方，欢迎提 Issue 或 PR 修正！
+
+---
+
+## 📈 数据统计
+
+| 指标 | 数值 |
+|------|------|
+| 🍎 已收录水果 | 63+ 种 |
+| 🗺️ 覆盖省份 | 20+ 个 |
+| 📆 月份完整性 | 12/12 |
+| 🔄 更新频率 | 持续维护中 |
+
+---
+
+## 🎨 界面设计
+
+### 色彩方案
+
+- **主背景**: 紫罗兰渐变 `#667eea` → `#764ba2`
+- **卡片**: 粉橙渐变 + 白色玻璃质感
+- **文字**: 深灰 `#333` 保证可读性
+
+### 交互动画
+
+- ✨ 页面载入：渐入效果
+- 🎯 悬停反馈：轻微缩放 + 阴影加深
+- 📂 弹窗打开：缩放淡入
+- 🔒 遮罩层：高斯模糊 backdrop-filter
+
+### 响应式适配
+
+- 📱 移动端：单列布局，触摸优化
+- 💻 桌面端：双栏并排，网格布局
+- 📐 断点：768px
+
+---
+
+## 📜 许可证
+
+本项目采用 MIT 许可证，欢迎自由使用和分发。
+
+---
+
+## 👨‍💻 维护者
+
+[@miaouai](https://github.com/miaouai)
+
+如有问题或建议，欢迎提交 [Issue](https://github.com/miaouai/fruit/issues)
+
+---
+
+<div align="center">
+
+**吃当季水果，享健康生活 🥬**
+
+⭐ 如果这个项目对你有帮助，欢迎 Star 支持！
+
+---
+
+Made with ❤️ by [喵有爱](https://github.com/miaouai)
+
+</div>

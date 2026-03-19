@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJyYXNwYmVycnkiLAogICJuYW1lIjogIuagkeiOkyIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLolLfolofnp5EiLAogICAgIuWxniI6ICLmgqzpkqnlrZDlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuimhuebhuWtkCIsCiAgICAgICLmiZjnm5giCiAgICBdLAogICAgIuexu+WeiyI6ICLogZrlkIjmtYbmnpznsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIum7kem+meaxn+ecgSIsCiAgICAi5ZCJ5p6X55yBIiwKICAgICLmtZnmsZ/nnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNS04IOaciO+8iOWkj+Wto+S4iuW4gu+8jOaenOiJsue6ouiJs++8jOa4hemmmeW+rumFuO+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNTJrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTIuMGciLAogICAgIuibi+eZvei0qCI6ICIxLjJnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIyNm1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiNi41ZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLpq5jnuqTnu7TliqnmtojljJbpmLLkvr/np5giLAogICAgIuWQq+mFruexu+eJqei0qO+8jOi+heWKqeaOp+mHjSIsCiAgICAi5oqX5rCn5YyW77yM5L+d5oqk5b+D6KGA566hIgogIF0sCiAgInRpcHMiOiBbCiAgICAi5p6c5b+D56m65b+D5Li65YW45Z6L54m55b6BIiwKICAgICLlhrfol4/lkI7lj6/kvZzlgaXlurfnlJzngrkiLAogICAgIuS4gOasoeW7uuiuruS4jei2hei/hyAxMDAg5YWLIgogIF0KfQ==
+{
+  "id": "raspberry",
+  "name": "树莓",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "悬钩子属",
+    "别名": [
+      "覆盆子",
+      "托盘"
+    ],
+    "类型": "聚合浆果类水果"
+  },
+  "origin_range": [
+    "黑龙江省",
+    "吉林省",
+    "浙江省"
+  ],
+  "best_season": "5-8 月（夏季上市，果色红艳，清香微酸）",
+  "nutrition_per_100g": {
+    "热量": "52kcal",
+    "碳水化合物": "12.0g",
+    "蛋白质": "1.2g",
+    "维生素 C": "26mg",
+    "膳食纤维": "6.5g"
+  },
+  "benefits": [
+    "高纤维助消化防便秘",
+    "含酮类物质，辅助控重",
+    "抗氧化，保护心血管"
+  ],
+  "tips": [
+    "果心空心为典型特征",
+    "冷藏后可作健康甜点",
+    "一次建议不超过 100 克"
+  ]
+}

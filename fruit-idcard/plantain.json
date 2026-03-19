@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJwbGFudGFpbiIsCiAgIm5hbWUiOiAi6Iqt6JWJIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuiKreiVieenkSIsCiAgICAi5bGeIjogIuiKreiVieWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi5aSn6JWJIiwKICAgICAgIuadv+iViSIKICAgIF0sCiAgICAi57G75Z6LIjogIueDreW4pua1huaenOexu+awtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5bm/5Lic55yBIiwKICAgICLlub/opb/lo67ml4/oh6rmsrvljLoiLAogICAgIua1t+WNl+ecgSIKICBdLAogICJiZXN0X3NlYXNvbiI6ICI2LTEwIOaciO+8iOWkj+eni+S4uuS4u++8jOaenOW9oueyl+efre+8jOearuWOmuiCiei9r++8jOeUnOW6puS9juS6jummmeiVie+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiOTFrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMjIuOGciLAogICAgIuibi+eZvei0qCI6ICIxLjFnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICI5bWciLAogICAgIuiGs+mjn+e6pOe7tCI6ICIyLjZnIgogIH0sCiAgImJlbmVmaXRzIjogWwogICAgIuihpeWFheiDvemHj+e8k+ino+eWsuWKsyIsCiAgICAi5ZCr6ZK+6LCD6IqC6KGA5Y6LIiwKICAgICLmtqbogqDpgJrkvr8iCiAgXSwKICAidGlwcyI6IFsKICAgICLlrozlhajpu4Tnhp/lkI7po47lkbPmnIDkvbMiLAogICAgIuWPr+iSuOeFruaIlueFjueCuOmjn+eUqCIsCiAgICAi57OW5bC/55eF5oKj6ICF6ZyA5o6n5Yi25pGE5YWl6YePIgogIF0KfQ==
+{
+  "id": "plantain",
+  "name": "芭蕉",
+  "classification": {
+    "科": "芭蕉科",
+    "属": "芭蕉属",
+    "别名": [
+      "大蕉",
+      "板蕉"
+    ],
+    "类型": "热带浆果类水果"
+  },
+  "origin_range": [
+    "广东省",
+    "广西壮族自治区",
+    "海南省"
+  ],
+  "best_season": "6-10 月（夏秋为主，果形粗短，皮厚肉软，甜度低于香蕉）",
+  "nutrition_per_100g": {
+    "热量": "91kcal",
+    "碳水化合物": "22.8g",
+    "蛋白质": "1.1g",
+    "维生素 C": "9mg",
+    "膳食纤维": "2.6g"
+  },
+  "benefits": [
+    "补充能量缓解疲劳",
+    "含钾调节血压",
+    "润肠通便"
+  ],
+  "tips": [
+    "完全黄熟后风味最佳",
+    "可蒸煮或煎炸食用",
+    "糖尿病患者需控制摄入量"
+  ]
+}

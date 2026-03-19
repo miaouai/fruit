@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJzaGluZS1tdXNjYXQiLAogICJuYW1lIjogIumYs+WFieeOq+eRsCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLokaHokITnp5EiLAogICAgIuWxniI6ICLokaHokITlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuaZtOeOi+iRoeiQhCIsCiAgICAgICLpppnljbDpnZLmj5AiCiAgICBdLAogICAgIuexu+WeiyI6ICLpq5jnq6/pspzpo5/okaHokIQiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuS6keWNl+ecgSIsCiAgICAi5Zub5bed55yBIiwKICAgICLpmZXopb/nnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiNy0xMCDmnIjvvIjlpI/mnKvnp4vliJ3vvIzmnpznspLnv6Dnu7/lpoLnjonvvIzogonohIbml6Dnsb3vvIzlhbfnjqvnkbDpppnmsJTvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjQ2a2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjExLjBnIiwKICAgICLom4vnmb3otKgiOiAiMC41ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMjZtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjAuOWciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi6auY57u0IEMg5aKe5by65YWN55ar5YqbIiwKICAgICLlkKvoirPpppnpha/nsbvoiJLnvJPmg4Xnu6oiLAogICAgIuaKl+awp+WMluW7tue8k+ihsOiAgSIKICBdLAogICJ0aXBzIjogWwogICAgIuaVtOS4suWGt+iXj+WQjumjjuWRs+abtOS9syIsCiAgICAi5peg6ZyA5Y6755qu77yM5Y+v6L+e55qu6aOf55SoIiwKICAgICLku7fmoLzovoPpq5jvvIzms6jmhI/ovqjliKvnnJ/kvKoiCiAgXQp9
+{
+  "id": "shine-muscat",
+  "name": "阳光玫瑰",
+  "classification": {
+    "科": "葡萄科",
+    "属": "葡萄属",
+    "别名": [
+      "晴王葡萄",
+      "香印青提"
+    ],
+    "类型": "高端鲜食葡萄"
+  },
+  "origin_range": [
+    "云南省",
+    "四川省",
+    "陕西省"
+  ],
+  "best_season": "7-10 月（夏末秋初，果粒翠绿如玉，肉脆无籽，具玫瑰香气）",
+  "nutrition_per_100g": {
+    "热量": "46kcal",
+    "碳水化合物": "11.0g",
+    "蛋白质": "0.5g",
+    "维生素 C": "26mg",
+    "膳食纤维": "0.9g"
+  },
+  "benefits": [
+    "高维 C 增强免疫力",
+    "含芳香酯类舒缓情绪",
+    "抗氧化延缓衰老"
+  ],
+  "tips": [
+    "整串冷藏后风味更佳",
+    "无需去皮，可连皮食用",
+    "价格较高，注意辨别真伪"
+  ]
+}

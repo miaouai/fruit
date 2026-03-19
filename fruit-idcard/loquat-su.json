@@ -1,1 +1,25 @@
-ewogICJpZCI6ICJsb3F1YXQtc3UiLAogICJuYW1lIjogIuiLj+W3nuaeh+adtyIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLolLfolofnp5EiLAogICAgIuWxniI6ICLmnofmnbflsZ4iLAogICAgInR5cGUiOiAi5pil5a2j5qC45p6c57G7IgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsi5rGf6IuP6IuP5beeIiwgIuemj+W7uuiOhueUsCIsICLmsZ/opb8iLCAi5rWZ5rGfIl0sCiAgImJlc3Rfc2Vhc29uIjogIjMtNSDmnIjml6nmmKXml7boioLvvIzmtqbogrrmraLlkrMiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjQxa2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjkuN2ciLAogICAgIuibi+eZvei0qCI6ICIwLjZnIiwKICAgICLnu7TnlJ/ntKAgQSI6ICI4NM68ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMTJtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjIuMmciCiAgfSwKICAiYmVuZWZpdHMiOiBbIua2puiCuuatouWSsyIsICLnlJ/mtKXmraLmuLQiLCAi5ZKM6IOD6ZmN6YCGIiwgIue+juWuueWFu+minCJdLAogICJ0aXBzIjogWwogICAgIuaenOearui2ium7hOi2iuaIkOeGnyIsCiAgICAi5p6H5p236IaP5piv5Lyg57uf5q2i5ZKz5L2z5ZOBIiwKICAgICLnp43lrZDlj6/np43mpI3op4LotY/moJEiCiAgXQp9
+{
+  "id": "loquat-su",
+  "name": "苏州枇杷",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "枇杷属",
+    "type": "春季核果类"
+  },
+  "origin_range": ["江苏苏州", "福建莆田", "江西", "浙江"],
+  "best_season": "3-5 月早春时节，润肺止咳",
+  "nutrition_per_100g": {
+    "热量": "41kcal",
+    "碳水化合物": "9.7g",
+    "蛋白质": "0.6g",
+    "维生素 A": "84μg",
+    "维生素 C": "12mg",
+    "膳食纤维": "2.2g"
+  },
+  "benefits": ["润肺止咳", "生津止渴", "和胃降逆", "美容养颜"],
+  "tips": [
+    "果皮越黄越成熟",
+    "枇杷膏是传统止咳佳品",
+    "种子可种植观赏树"
+  ]
+}

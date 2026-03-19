@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJzdWdhcmNhbmUiLAogICJuYW1lIjogIueUmOiUlyIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLnpr7mnKznp5EiLAogICAgIuWxniI6ICLnlJjolJflsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuiWr+iUlyIsCiAgICAgICLlubLolJciCiAgICBdLAogICAgIuexu+WeiyI6ICLojI7np4bnsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuW5v+ilv+WjruaXj+iHquayu+WMuiIsCiAgICAi5bm/5Lic55yBIiwKICAgICLkupHljZfnnIEiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiMTItNSDmnIjvvIjlhqzmmKXlraPoioLvvIzojI7np4bohIbnlJzlpJrmsYHvvIzmuIXng63nlJ/mtKXvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjY0a2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjE2LjBnIiwKICAgICLom4vnmb3otKgiOiAiMC40ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMm1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMi4wZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLmuIXng63mtqbnh6XvvIznlJ/mtKXmraLmuLQiLAogICAgIuihpeWFheS9k+WKm++8jOe8k+ino+eWsuWKsyIsCiAgICAi5ZCr5aSa56eN5rCo5Z+66YW45ZKM55+/54mp6LSoIgogIF0sCiAgInRpcHMiOiBbCiAgICAi5Y+R57qi5oiW6ZyJ5Y+Y55SY6JSX5ZCr5q+S57Sg77yM5Lil56aB6aOf55SoIiwKICAgICLlkoDlmrzlkI7lkJDmuKPvvIzpgb/lhY3liJLkvKTlj6PohZQiLAogICAgIuezluWwv+eXheaCo+iAheW/jOmjnyIKICBdCn0=
+{
+  "id": "sugarcane",
+  "name": "甘蔗",
+  "classification": {
+    "科": "禾本科",
+    "属": "甘蔗属",
+    "别名": [
+      "薯蔗",
+      "干蔗"
+    ],
+    "类型": "茎秆类水果"
+  },
+  "origin_range": [
+    "广西壮族自治区",
+    "广东省",
+    "云南省"
+  ],
+  "best_season": "12-5 月（冬春季节，茎秆脆甜多汁，清热生津）",
+  "nutrition_per_100g": {
+    "热量": "64kcal",
+    "碳水化合物": "16.0g",
+    "蛋白质": "0.4g",
+    "维生素 C": "2mg",
+    "膳食纤维": "2.0g"
+  },
+  "benefits": [
+    "清热润燥，生津止渴",
+    "补充体力，缓解疲劳",
+    "含多种氨基酸和矿物质"
+  ],
+  "tips": [
+    "发红或霉变甘蔗含毒素，严禁食用",
+    "咀嚼后吐渣，避免划伤口腔",
+    "糖尿病患者忌食"
+  ]
+}

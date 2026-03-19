@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJyYXNwYmVycnktYWx0IiwKICAibmFtZSI6ICLopobnm4blrZAiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi6JS36JaH56eRIiwKICAgICLlsZ4iOiAi5oKs6ZKp5a2Q5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLmoJHojpPvvIjlkIzlsZ7ov5HkurLvvIkiLAogICAgICAi5omY55uY5p6cIgogICAgXSwKICAgICLnsbvlnosiOiAi6IGa5ZCI5rWG5p6c57G75rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLmtZnmsZ/nnIEiLAogICAgIuWuieW+veecgSIsCiAgICAi5rGf6KW/55yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjUtOCDmnIjvvIjlpI/lraPkuIrluILvvIzmnpzoibLnuqLoibPvvIzlkbPnlJjlvq7phbjvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjUya2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjExLjlnIiwKICAgICLom4vnmb3otKgiOiAiMS4yZyIsCiAgICAi57u055Sf57SgIEMiOiAiMjZtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjYuNWciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi6KGl6IK+5Zu657K+77yM5Lyg57uf55So5LqO55S35oCn5L+d5YGlIiwKICAgICLpq5jnuqTnu7Tkv4Pov5vogqDpgZPooJXliqgiLAogICAgIuWQq+mFruexu+eJqei0qO+8jOi+heWKqeiEguiCquS7o+iwoiIKICBdLAogICJ0aXBzIjogWwogICAgIuaenOWunuepuuW/g++8jOi9u+aLv+i9u+aUvumYsuegtOaNnyIsCiAgICAi5Y+v5Ya35Ya75L+d5a2Y55So5LqOIHNtb290aGllIiwKICAgICLkuIDmrKHlu7rorq7kuI3otoXov4cgMTAwIOWFiyIKICBdCn0=
+{
+  "id": "raspberry-alt",
+  "name": "覆盆子",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "悬钩子属",
+    "别名": [
+      "树莓（同属近亲）",
+      "托盘果"
+    ],
+    "类型": "聚合浆果类水果"
+  },
+  "origin_range": [
+    "浙江省",
+    "安徽省",
+    "江西省"
+  ],
+  "best_season": "5-8 月（夏季上市，果色红艳，味甘微酸）",
+  "nutrition_per_100g": {
+    "热量": "52kcal",
+    "碳水化合物": "11.9g",
+    "蛋白质": "1.2g",
+    "维生素 C": "26mg",
+    "膳食纤维": "6.5g"
+  },
+  "benefits": [
+    "补肾固精，传统用于男性保健",
+    "高纤维促进肠道蠕动",
+    "含酮类物质，辅助脂肪代谢"
+  ],
+  "tips": [
+    "果实空心，轻拿轻放防破损",
+    "可冷冻保存用于 smoothie",
+    "一次建议不超过 100 克"
+  ]
+}

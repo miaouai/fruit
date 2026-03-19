@@ -1,382 +1,900 @@
 {
   "fruits": [
     {
-      "id": "mango",
-      "name": "芒果",
-      "harvest_start": 4,
-      "harvest_end": 8
-    },
-    {
-      "id": "durian",
-      "name": "榴莲",
-      "harvest_start": 5,
-      "harvest_end": 9
-    },
-    {
-      "id": "rambutan",
-      "name": "山竹",
-      "harvest_start": 5,
-      "harvest_end": 9
-    },
-    {
-      "id": "dragonfruit",
-      "name": "火龙果",
-      "harvest_start": 5,
-      "harvest_end": 11
-    },
-    {
-      "id": "jackfruit",
-      "name": "菠萝蜜",
-      "harvest_start": 4,
-      "harvest_end": 10
-    },
-    {
-      "id": "passion-fruit",
-      "name": "百香果",
+      "id": "schisandra",
+      "name": "五味子",
       "harvest_start": 7,
-      "harvest_end": 12
+      "harvest_end": 9,
+      "category": "temperate"
     },
     {
-      "id": "cherimoya",
-      "name": "释迦",
+      "id": "jingxin-watermelon",
+      "name": "京欣西瓜",
       "harvest_start": 6,
-      "harvest_end": 10
+      "harvest_end": 8,
+      "category": "melon"
     },
     {
-      "id": "star-fruit",
-      "name": "杨桃",
-      "harvest_start": 3,
-      "harvest_end": 11
-    },
-    {
-      "id": "wax-apple",
-      "name": "莲雾",
-      "harvest_start": 5,
-      "harvest_end": 10
-    },
-    {
-      "id": "guava",
-      "name": "番石榴",
-      "harvest_start": 5,
-      "harvest_end": 10
-    },
-    {
-      "id": "papaya",
-      "name": "木瓜",
-      "harvest_start": 3,
-      "harvest_end": 12
-    },
-    {
-      "id": "coconut",
-      "name": "椰子",
-      "harvest_start": 5,
-      "harvest_end": 10
-    },
-    {
-      "id": "breadfruit",
-      "name": "面包果",
-      "harvest_start": 6,
-      "harvest_end": 9
+      "id": "pepino",
+      "name": "人参果",
+      "harvest_start": 8,
+      "harvest_end": 11,
+      "category": "tropical"
     },
     {
       "id": "ambarella",
       "name": "人心果",
       "harvest_start": 8,
-      "harvest_end": 11
+      "harvest_end": 11,
+      "category": "tropical"
     },
     {
-      "id": "roselle",
-      "name": "洛神花",
-      "harvest_start": 7,
-      "harvest_end": 10
-    },
-    {
-      "id": "orange",
-      "name": "橙子",
-      "harvest_start": 9,
-      "harvest_end": 3
-    },
-    {
-      "id": "tangerine",
-      "name": "橘子",
-      "harvest_start": 10,
-      "harvest_end": 4
-    },
-    {
-      "id": "lemon",
-      "name": "柠檬",
-      "harvest_start": 2,
-      "harvest_end": 6
-    },
-    {
-      "id": "pomelo",
-      "name": "柚子",
-      "harvest_start": 9,
-      "harvest_end": 2
-    },
-    {
-      "id": "kumquat",
-      "name": "金桔",
-      "harvest_start": 11,
-      "harvest_end": 3
-    },
-    {
-      "id": "honey-pomelo",
-      "name": "蜜柚",
-      "harvest_start": 9,
-      "harvest_end": 1
-    },
-    {
-      "id": "mandarin",
-      "name": "砂糖橘",
-      "harvest_start": 12,
-      "harvest_end": 3
-    },
-    {
-      "id": "blood-orange",
-      "name": "血橙",
-      "harvest_start": 11,
-      "harvest_end": 4
-    },
-    {
-      "id": "lime",
-      "name": "青柠",
-      "harvest_start": 4,
-      "harvest_end": 9
-    },
-    {
-      "id": "navel-orange",
-      "name": "脐橙",
-      "harvest_start": 10,
-      "harvest_end": 2
-    },
-    {
-      "id": "strawberry",
-      "name": "草莓",
-      "harvest_start": 10,
-      "harvest_end": 5
-    },
-    {
-      "id": "blueberry",
-      "name": "蓝莓",
-      "harvest_start": 5,
-      "harvest_end": 9
-    },
-    {
-      "id": "raspberry",
-      "name": "树莓",
-      "harvest_start": 5,
-      "harvest_end": 8
-    },
-    {
-      "id": "mulberry",
-      "name": "桑葚",
-      "harvest_start": 3,
-      "harvest_end": 6
-    },
-    {
-      "id": "blackcurrant",
-      "name": "黑加仑",
+      "id": "elizabeth-melon",
+      "name": "伊丽莎白瓜",
       "harvest_start": 6,
-      "harvest_end": 8
+      "harvest_end": 8,
+      "category": "melon"
     },
     {
-      "id": "gooseberry",
-      "name": "醋栗",
-      "harvest_start": 6,
-      "harvest_end": 8
-    },
-    {
-      "id": "cranberry",
-      "name": "蔓越莓",
-      "harvest_start": 8,
-      "harvest_end": 10
-    },
-    {
-      "id": "grape",
-      "name": "葡萄",
+      "id": "jiasier-melon",
+      "name": "伽师瓜",
       "harvest_start": 7,
-      "harvest_end": 10
+      "harvest_end": 10,
+      "category": "melon"
     },
     {
-      "id": "kiwi",
-      "name": "猕猴桃",
-      "harvest_start": 8,
-      "harvest_end": 12
-    },
-    {
-      "id": "plum",
-      "name": "西梅",
-      "harvest_start": 6,
-      "harvest_end": 9
-    },
-    {
-      "id": "apple",
-      "name": "苹果",
-      "harvest_start": 7,
-      "harvest_end": 11
-    },
-    {
-      "id": "pear",
-      "name": "梨",
-      "harvest_start": 7,
-      "harvest_end": 10
-    },
-    {
-      "id": "peach",
-      "name": "桃子",
-      "harvest_start": 5,
-      "harvest_end": 9
-    },
-    {
-      "id": "nashi-plum",
-      "name": "李子",
-      "harvest_start": 5,
-      "harvest_end": 8
-    },
-    {
-      "id": "apricot",
-      "name": "杏",
-      "harvest_start": 5,
-      "harvest_end": 7
-    },
-    {
-      "id": "cherry",
-      "name": "樱桃",
-      "harvest_start": 4,
-      "harvest_end": 6
-    },
-    {
-      "id": "nectarine",
-      "name": "油桃",
-      "harvest_start": 5,
-      "harvest_end": 8
-    },
-    {
-      "id": "medlar",
-      "name": "榅",
+      "id": "myrobalan",
+      "name": "余甘子",
       "harvest_start": 9,
-      "harvest_end": 11
+      "harvest_end": 12,
+      "category": "temperate"
     },
     {
-      "id": "watermelon",
-      "name": "西瓜",
-      "harvest_start": 5,
-      "harvest_end": 9
+      "id": "bergamot",
+      "name": "佛手柑",
+      "harvest_start": 9,
+      "harvest_end": 12,
+      "category": "regional"
     },
     {
-      "id": "cantaloupe",
+      "id": "star-anise",
+      "name": "八角",
+      "harvest_start": 9,
+      "harvest_end": 11,
+      "category": "temperate"
+    },
+    {
+      "id": "rock-sugar-orange",
+      "name": "冰糖橙",
+      "harvest_start": 10,
+      "harvest_end": 2,
+      "category": "regional"
+    },
+    {
+      "id": "horned-melon",
+      "name": "刺角瓜",
+      "harvest_start": 7,
+      "harvest_end": 9,
+      "category": "tropical"
+    },
+    {
+      "id": "hami-melon",
       "name": "哈密瓜",
       "harvest_start": 6,
-      "harvest_end": 9
+      "harvest_end": 9,
+      "category": "melon"
     },
     {
-      "id": "honeydew",
-      "name": "甜瓜",
-      "harvest_start": 5,
-      "harvest_end": 9
-    },
-    {
-      "id": "muskmelon",
-      "name": "香瓜",
-      "harvest_start": 6,
-      "harvest_end": 9
-    },
-    {
-      "id": "honey-melon",
-      "name": "白兰瓜",
-      "harvest_start": 6,
-      "harvest_end": 8
-    },
-    {
-      "id": "netted-melon",
-      "name": "网纹瓜",
-      "harvest_start": 5,
-      "harvest_end": 8
-    },
-    {
-      "id": "qilin-watermelon",
-      "name": "麒麟瓜",
-      "harvest_start": 4,
-      "harvest_end": 10
-    },
-    {
-      "id": "jujube",
-      "name": "枣",
+      "id": "jabuticaba",
+      "name": "嘉宝果",
       "harvest_start": 8,
-      "harvest_end": 10
+      "harvest_end": 3,
+      "category": "tropical"
     },
     {
-      "id": "persimmon",
-      "name": "柿子",
-      "harvest_start": 9,
-      "harvest_end": 11
+      "id": "gala-apple",
+      "name": "嘎拉苹果",
+      "harvest_start": 7,
+      "harvest_end": 9,
+      "category": "regional"
+    },
+    {
+      "id": "cherry-tomato",
+      "name": "圣女果",
+      "harvest_start": 5,
+      "harvest_end": 11,
+      "category": "regional"
+    },
+    {
+      "id": "xiahei-grape",
+      "name": "夏黑葡萄",
+      "harvest_start": 6,
+      "harvest_end": 8,
+      "category": "regional"
+    },
+    {
+      "id": "little-jade-watermelon",
+      "name": "小玉西瓜",
+      "harvest_start": 5,
+      "harvest_end": 8,
+      "category": "melon"
     },
     {
       "id": "hawthorn",
       "name": "山楂",
       "harvest_start": 9,
-      "harvest_end": 10
+      "harvest_end": 11,
+      "category": "temperate"
+    },
+    {
+      "id": "mangosteen",
+      "name": "山竹",
+      "harvest_start": 5,
+      "harvest_end": 9,
+      "category": "tropical"
+    },
+    {
+      "id": "kubota-grape",
+      "name": "巨峰葡萄",
+      "harvest_start": 7,
+      "harvest_end": 9,
+      "category": "regional"
+    },
+    {
+      "id": "kuerle-pear",
+      "name": "库尔勒香梨",
+      "harvest_start": 8,
+      "harvest_end": 10,
+      "category": "regional"
+    },
+    {
+      "id": "pluot",
+      "name": "恐龙蛋",
+      "harvest_start": 7,
+      "harvest_end": 10,
+      "category": "regional"
+    },
+    {
+      "id": "mouse-melon",
+      "name": "拇指西瓜",
+      "harvest_start": 6,
+      "harvest_end": 8,
+      "category": "melon"
+    },
+    {
+      "id": "elderberry",
+      "name": "接骨木",
+      "harvest_start": 7,
+      "harvest_end": 9,
+      "category": "temperate"
+    },
+    {
+      "id": "xanthoceras",
+      "name": "文冠果",
+      "harvest_start": 7,
+      "harvest_end": 8,
+      "category": "temperate"
     },
     {
       "id": "fig",
       "name": "无花果",
       "harvest_start": 7,
-      "harvest_end": 10
+      "harvest_end": 10,
+      "category": "temperate"
     },
     {
-      "id": "ginkgo",
-      "name": "银杏",
-      "harvest_start": 9,
-      "harvest_end": 10
+      "id": "early-red-jade",
+      "name": "早春红玉",
+      "harvest_start": 4,
+      "harvest_end": 7,
+      "category": "melon"
     },
     {
-      "id": "chestnut",
-      "name": "栗子",
-      "harvest_start": 9,
-      "harvest_end": 10
-    },
-    {
-      "id": "water-chestnut",
-      "name": "菱角",
-      "harvest_start": 8,
-      "harvest_end": 10
-    },
-    {
-      "id": "lotus-root",
-      "name": "藕",
-      "harvest_start": 9,
-      "harvest_end": 2
-    },
-    {
-      "id": "pineapple",
-      "name": "菠萝",
+      "id": "papaya",
+      "name": "木瓜",
       "harvest_start": 3,
-      "harvest_end": 7
+      "harvest_end": 12,
+      "category": "tropical"
+    },
+    {
+      "id": "plum",
+      "name": "李子",
+      "harvest_start": 5,
+      "harvest_end": 8,
+      "category": "temperate"
+    },
+    {
+      "id": "apricot",
+      "name": "杏",
+      "harvest_start": 5,
+      "harvest_end": 7,
+      "category": "temperate"
+    },
+    {
+      "id": "almond",
+      "name": "杏仁",
+      "harvest_start": 5,
+      "harvest_end": 7,
+      "category": "temperate"
+    },
+    {
+      "id": "eucommia",
+      "name": "杜仲",
+      "harvest_start": 9,
+      "harvest_end": 10,
+      "category": "temperate"
+    },
+    {
+      "id": "star-fruit",
+      "name": "杨桃",
+      "harvest_start": 3,
+      "harvest_end": 11,
+      "category": "tropical"
+    },
+    {
+      "id": "bayberry",
+      "name": "杨梅",
+      "harvest_start": 5,
+      "harvest_end": 7,
+      "category": "temperate"
+    },
+    {
+      "id": "pine-nut",
+      "name": "松子",
+      "harvest_start": 9,
+      "harvest_end": 10,
+      "category": "temperate"
     },
     {
       "id": "loquat",
       "name": "枇杷",
       "harvest_start": 3,
-      "harvest_end": 6
+      "harvest_end": 6,
+      "category": "tropical"
+    },
+    {
+      "id": "jujube",
+      "name": "枣",
+      "harvest_start": 8,
+      "harvest_end": 10,
+      "category": "temperate"
+    },
+    {
+      "id": "goji-berry",
+      "name": "枸杞",
+      "harvest_start": 7,
+      "harvest_end": 9,
+      "category": "temperate"
+    },
+    {
+      "id": "pomelo",
+      "name": "柚子",
+      "harvest_start": 9,
+      "harvest_end": 2,
+      "category": "tropical"
+    },
+    {
+      "id": "lemon",
+      "name": "柠檬",
+      "harvest_start": 1,
+      "harvest_end": 12,
+      "category": "tropical"
+    },
+    {
+      "id": "nai-plum",
+      "name": "柰李",
+      "harvest_start": 6,
+      "harvest_end": 8,
+      "category": "regional"
+    },
+    {
+      "id": "persimmon",
+      "name": "柿子",
+      "harvest_start": 9,
+      "harvest_end": 11,
+      "category": "temperate"
+    },
+    {
+      "id": "raspberry",
+      "name": "树莓",
+      "harvest_start": 5,
+      "harvest_end": 8,
+      "category": "temperate"
+    },
+    {
+      "id": "chestnut",
+      "name": "栗子",
+      "harvest_start": 9,
+      "harvest_end": 10,
+      "category": "temperate"
+    },
+    {
+      "id": "walnut",
+      "name": "核桃",
+      "harvest_start": 9,
+      "harvest_end": 10,
+      "category": "temperate"
+    },
+    {
+      "id": "dried-longan",
+      "name": "桂圆",
+      "harvest_start": 7,
+      "harvest_end": 9,
+      "category": "temperate"
+    },
+    {
+      "id": "peach",
+      "name": "桃子",
+      "harvest_start": 5,
+      "harvest_end": 9,
+      "category": "temperate"
+    },
+    {
+      "id": "mulberry",
+      "name": "桑葚",
+      "harvest_start": 3,
+      "harvest_end": 6,
+      "category": "temperate"
+    },
+    {
+      "id": "pear",
+      "name": "梨",
+      "harvest_start": 7,
+      "harvest_end": 10,
+      "category": "temperate"
+    },
+    {
+      "id": "coconut",
+      "name": "椰子",
+      "harvest_start": 5,
+      "harvest_end": 10,
+      "category": "tropical"
+    },
+    {
+      "id": "hazelnut",
+      "name": "榛子",
+      "harvest_start": 8,
+      "harvest_end": 9,
+      "category": "temperate"
+    },
+    {
+      "id": "durian",
+      "name": "榴莲",
+      "harvest_start": 5,
+      "harvest_end": 9,
+      "category": "tropical"
+    },
+    {
+      "id": "betel-nut",
+      "name": "槟榔",
+      "harvest_start": 1,
+      "harvest_end": 12,
+      "category": "temperate"
+    },
+    {
+      "id": "cherry",
+      "name": "樱桃",
+      "harvest_start": 4,
+      "harvest_end": 6,
+      "category": "temperate"
+    },
+    {
+      "id": "olive",
+      "name": "橄榄",
+      "harvest_start": 8,
+      "harvest_end": 10,
+      "category": "tropical"
+    },
+    {
+      "id": "tangerine",
+      "name": "橘子",
+      "harvest_start": 10,
+      "harvest_end": 3,
+      "category": "tropical"
+    },
+    {
+      "id": "orange",
+      "name": "橙子",
+      "harvest_start": 9,
+      "harvest_end": 3,
+      "category": "tropical"
+    },
+    {
+      "id": "europe-plum",
+      "name": "欧李",
+      "harvest_start": 6,
+      "harvest_end": 8,
+      "category": "temperate"
+    },
+    {
+      "id": "wo-gan",
+      "name": "沃柑",
+      "harvest_start": 12,
+      "harvest_end": 4,
+      "category": "regional"
+    },
+    {
+      "id": "siberian-crabapple",
+      "name": "沙果",
+      "harvest_start": 8,
+      "harvest_end": 10,
+      "category": "temperate"
+    },
+    {
+      "id": "sea-buckthorn",
+      "name": "沙棘",
+      "harvest_start": 8,
+      "harvest_end": 10,
+      "category": "temperate"
+    },
+    {
+      "id": "oily-apricot",
+      "name": "油杏",
+      "harvest_start": 5,
+      "harvest_end": 7,
+      "category": "regional"
+    },
+    {
+      "id": "nectarine",
+      "name": "油桃",
+      "harvest_start": 5,
+      "harvest_end": 8,
+      "category": "temperate"
+    },
+    {
+      "id": "crabapple",
+      "name": "海棠",
+      "harvest_start": 7,
+      "harvest_end": 9,
+      "category": "temperate"
+    },
+    {
+      "id": "dragonfruit",
+      "name": "火龙果",
+      "harvest_start": 4,
+      "harvest_end": 11,
+      "category": "tropical"
+    },
+    {
+      "id": "avocado",
+      "name": "牛油果",
+      "harvest_start": 5,
+      "harvest_end": 10,
+      "category": "tropical"
+    },
+    {
+      "id": "kiwi",
+      "name": "猕猴桃",
+      "harvest_start": 8,
+      "harvest_end": 12,
+      "category": "temperate"
     },
     {
       "id": "sugarcane",
       "name": "甘蔗",
-      "harvest_start": 11,
-      "harvest_end": 4
+      "harvest_start": 12,
+      "harvest_end": 5,
+      "category": "tropical"
     },
     {
-      "id": "longan",
-      "name": "龙眼",
+      "id": "cantaloupe",
+      "name": "甜瓜",
+      "harvest_start": 5,
+      "harvest_end": 9,
+      "category": "melon"
+    },
+    {
+      "id": "pomodoro",
+      "name": "番桃",
       "harvest_start": 6,
-      "harvest_end": 9
+      "harvest_end": 9,
+      "category": "tropical"
+    },
+    {
+      "id": "guava",
+      "name": "番石榴",
+      "harvest_start": 5,
+      "harvest_end": 11,
+      "category": "tropical"
+    },
+    {
+      "id": "tomato",
+      "name": "番茄",
+      "harvest_start": 5,
+      "harvest_end": 11,
+      "category": "regional"
+    },
+    {
+      "id": "custard-apple",
+      "name": "番荔枝",
+      "harvest_start": 6,
+      "harvest_end": 9,
+      "category": "tropical"
+    },
+    {
+      "id": "honeydew",
+      "name": "白兰瓜",
+      "harvest_start": 6,
+      "harvest_end": 8,
+      "category": "melon"
+    },
+    {
+      "id": "passion-fruit",
+      "name": "百香果",
+      "harvest_start": 7,
+      "harvest_end": 12,
+      "category": "tropical"
+    },
+    {
+      "id": "dangshan-pear",
+      "name": "砀山酥梨",
+      "harvest_start": 8,
+      "harvest_end": 10,
+      "category": "regional"
+    },
+    {
+      "id": "shatangju",
+      "name": "砂糖橘",
+      "harvest_start": 12,
+      "harvest_end": 3,
+      "category": "regional"
+    },
+    {
+      "id": "miracle-fruit",
+      "name": "神秘果",
+      "harvest_start": 5,
+      "harvest_end": 8,
+      "category": "tropical"
+    },
+    {
+      "id": "autumn-moon-pear",
+      "name": "秋月梨",
+      "harvest_start": 8,
+      "harvest_end": 10,
+      "category": "regional"
+    },
+    {
+      "id": "fuji-apple",
+      "name": "红富士苹果",
+      "harvest_start": 9,
+      "harvest_end": 11,
+      "category": "regional"
+    },
+    {
+      "id": "rambutan",
+      "name": "红毛丹",
+      "harvest_start": 6,
+      "harvest_end": 8,
+      "category": "tropical"
+    },
+    {
+      "id": "green-treasure",
+      "name": "绿宝瓜",
+      "harvest_start": 6,
+      "harvest_end": 8,
+      "category": "melon"
+    },
+    {
+      "id": "netted-melon",
+      "name": "网纹瓜",
+      "harvest_start": 5,
+      "harvest_end": 8,
+      "category": "melon"
+    },
+    {
+      "id": "lohan-fruit",
+      "name": "罗汉果",
+      "harvest_start": 9,
+      "harvest_end": 11,
+      "category": "temperate"
+    },
+    {
+      "id": "goat-honey",
+      "name": "羊角蜜",
+      "harvest_start": 5,
+      "harvest_end": 8,
+      "category": "melon"
+    },
+    {
+      "id": "emerald-crown",
+      "name": "翠冠瓜",
+      "harvest_start": 6,
+      "harvest_end": 8,
+      "category": "melon"
+    },
+    {
+      "id": "crisp-peach",
+      "name": "脆桃",
+      "harvest_start": 6,
+      "harvest_end": 8,
+      "category": "regional"
+    },
+    {
+      "id": "navel-orange",
+      "name": "脐橙",
+      "harvest_start": 10,
+      "harvest_end": 2,
+      "category": "tropical"
+    },
+    {
+      "id": "mango",
+      "name": "芒果",
+      "harvest_start": 4,
+      "harvest_end": 8,
+      "category": "tropical"
+    },
+    {
+      "id": "plantain",
+      "name": "芭蕉",
+      "harvest_start": 6,
+      "harvest_end": 10,
+      "category": "regional"
+    },
+    {
+      "id": "flower-leaf-melon",
+      "name": "花叶瓜",
+      "harvest_start": 6,
+      "harvest_end": 9,
+      "category": "melon"
+    },
+    {
+      "id": "pepper",
+      "name": "花椒",
+      "harvest_start": 7,
+      "harvest_end": 8,
+      "category": "temperate"
+    },
+    {
+      "id": "apple",
+      "name": "苹果",
+      "harvest_start": 7,
+      "harvest_end": 11,
+      "category": "temperate"
+    },
+    {
+      "id": "strawberry",
+      "name": "草莓",
+      "harvest_start": 11,
+      "harvest_end": 5,
+      "category": "temperate"
     },
     {
       "id": "lychee",
       "name": "荔枝",
       "harvest_start": 5,
-      "harvest_end": 7
+      "harvest_end": 7,
+      "category": "tropical"
+    },
+    {
+      "id": "wax-apple",
+      "name": "莲雾",
+      "harvest_start": 5,
+      "harvest_end": 10,
+      "category": "tropical"
+    },
+    {
+      "id": "pineapple",
+      "name": "菠萝",
+      "harvest_start": 2,
+      "harvest_end": 8,
+      "category": "tropical"
+    },
+    {
+      "id": "jackfruit",
+      "name": "菠萝蜜",
+      "harvest_start": 4,
+      "harvest_end": 10,
+      "category": "tropical"
+    },
+    {
+      "id": "grape",
+      "name": "葡萄",
+      "harvest_start": 7,
+      "harvest_end": 10,
+      "category": "temperate"
+    },
+    {
+      "id": "blueberry",
+      "name": "蓝莓",
+      "harvest_start": 5,
+      "harvest_end": 9,
+      "category": "temperate"
+    },
+    {
+      "id": "cranberry",
+      "name": "蔓越莓",
+      "harvest_start": 8,
+      "harvest_end": 10,
+      "category": "temperate"
+    },
+    {
+      "id": "snake-fruit",
+      "name": "蛇皮果",
+      "harvest_start": 5,
+      "harvest_end": 8,
+      "category": "tropical"
+    },
+    {
+      "id": "mamey-sapote",
+      "name": "蛋黄果",
+      "harvest_start": 6,
+      "harvest_end": 9,
+      "category": "tropical"
+    },
+    {
+      "id": "honey-pomelo",
+      "name": "蜜柚",
+      "harvest_start": 9,
+      "harvest_end": 2,
+      "category": "tropical"
+    },
+    {
+      "id": "flat-peach",
+      "name": "蟠桃",
+      "harvest_start": 7,
+      "harvest_end": 9,
+      "category": "regional"
+    },
+    {
+      "id": "blood-orange",
+      "name": "血橙",
+      "harvest_start": 11,
+      "harvest_end": 4,
+      "category": "tropical"
+    },
+    {
+      "id": "prune",
+      "name": "西梅",
+      "harvest_start": 6,
+      "harvest_end": 9,
+      "category": "temperate"
+    },
+    {
+      "id": "watermelon",
+      "name": "西瓜",
+      "harvest_start": 5,
+      "harvest_end": 9,
+      "category": "melon"
+    },
+    {
+      "id": "passion-flower",
+      "name": "西番莲",
+      "harvest_start": 7,
+      "harvest_end": 11,
+      "category": "tropical"
+    },
+    {
+      "id": "raspberry-alt",
+      "name": "覆盆子",
+      "harvest_start": 5,
+      "harvest_end": 8,
+      "category": "temperate"
+    },
+    {
+      "id": "cherry-imprt",
+      "name": "车厘子",
+      "harvest_start": 1,
+      "harvest_end": 3,
+      "category": "regional"
+    },
+    {
+      "id": "gooseberry",
+      "name": "醋栗",
+      "harvest_start": 6,
+      "harvest_end": 8,
+      "category": "temperate"
+    },
+    {
+      "id": "cherimoya",
+      "name": "释迦",
+      "harvest_start": 6,
+      "harvest_end": 10,
+      "category": "tropical"
+    },
+    {
+      "id": "kumquat",
+      "name": "金桔",
+      "harvest_start": 11,
+      "harvest_end": 3,
+      "category": "regional"
+    },
+    {
+      "id": "ginkgo",
+      "name": "银杏",
+      "harvest_start": 9,
+      "harvest_end": 10,
+      "category": "temperate"
+    },
+    {
+      "id": "shine-muscat",
+      "name": "阳光玫瑰",
+      "harvest_start": 7,
+      "harvest_end": 10,
+      "category": "regional"
+    },
+    {
+      "id": "snowflake-pear",
+      "name": "雪花梨",
+      "harvest_start": 8,
+      "harvest_end": 10,
+      "category": "regional"
+    },
+    {
+      "id": "lime",
+      "name": "青柠",
+      "harvest_start": 4,
+      "harvest_end": 10,
+      "category": "tropical"
+    },
+    {
+      "id": "muskmelon",
+      "name": "香瓜",
+      "harvest_start": 6,
+      "harvest_end": 9,
+      "category": "melon"
+    },
+    {
+      "id": "banana",
+      "name": "香蕉",
+      "harvest_start": 1,
+      "harvest_end": 12,
+      "category": "tropical"
+    },
+    {
+      "id": "qilin-watermelon",
+      "name": "麒麟瓜",
+      "harvest_start": 4,
+      "harvest_end": 10,
+      "category": "melon"
+    },
+    {
+      "id": "yellow-river-honey",
+      "name": "黄河蜜",
+      "harvest_start": 7,
+      "harvest_end": 10,
+      "category": "melon"
+    },
+    {
+      "id": "cucumber",
+      "name": "黄瓜",
+      "harvest_start": 4,
+      "harvest_end": 10,
+      "category": "regional"
+    },
+    {
+      "id": "wang-bin",
+      "name": "黄皮",
+      "harvest_start": 6,
+      "harvest_end": 8,
+      "category": "tropical"
+    },
+    {
+      "id": "yellow-skin-melon",
+      "name": "黄皮瓜",
+      "harvest_start": 6,
+      "harvest_end": 9,
+      "category": "melon"
+    },
+    {
+      "id": "blackcurrant",
+      "name": "黑加仑",
+      "harvest_start": 6,
+      "harvest_end": 8,
+      "category": "temperate"
+    },
+    {
+      "id": "blackberry",
+      "name": "黑莓",
+      "harvest_start": 5,
+      "harvest_end": 8,
+      "category": "temperate"
+    },
+    {
+      "id": "longan",
+      "name": "龙眼",
+      "harvest_start": 6,
+      "harvest_end": 9,
+      "category": "tropical"
     }
   ]
 }

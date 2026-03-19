@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJ0YWJsZS1ncmFwZSIsCiAgIm5hbWUiOiAi5o+Q5a2QIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuiRoeiQhOenkSIsCiAgICAi5bGeIjogIuiRoeiQhOWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi5peg5qC46JGh6JCEIiwKICAgICAgIumynOmjn+iRoeiQhCIKICAgIF0sCiAgICAi57G75Z6LIjogIua1huaenOexu+awtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5paw55aG57u05ZC+5bCU6Ieq5rK75Yy6IiwKICAgICLnlJjogoPnnIEiLAogICAgIuays+WMl+ecgSIKICBdLAogICJiZXN0X3NlYXNvbiI6ICI4LTExIOaciO+8iOWkj+acq+iHs+WIneWGrO+8jOaenOearue0p+Wunu+8jOiAkOWCqOi/kO+8jOeUnOW6pumrmO+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNDRrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTAuNWciLAogICAgIuibi+eZvei0qCI6ICIwLjVnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIyNG1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMC44ZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLooaXlhYXog73ph4/nvJPop6PnlrLlirMiLAogICAgIuWQq+WkmumFmuexu+eJqei0qOaKpOW/gyIsCiAgICAi5L+D6L+b6ZOB5ZC45pS26L6F5Yqp6KGl6KGAIgogIF0sCiAgInRpcHMiOiBbCiAgICAi5p6c5qKX57+g57u/5Li65paw6bKc5qCH5b+XIiwKICAgICLlhrfol4/lkI7lj6PmhJ/mm7TohIbnlJwiLAogICAgIua4hea0l+aXtuS/neeVmeaenOeyieiQpeWFu+abtOS9syIKICBdCn0=
+{
+  "id": "table-grape",
+  "name": "提子",
+  "classification": {
+    "科": "葡萄科",
+    "属": "葡萄属",
+    "别名": [
+      "无核葡萄",
+      "鲜食葡萄"
+    ],
+    "类型": "浆果类水果"
+  },
+  "origin_range": [
+    "新疆维吾尔自治区",
+    "甘肃省",
+    "河北省"
+  ],
+  "best_season": "8-11 月（夏末至初冬，果皮紧实，耐储运，甜度高）",
+  "nutrition_per_100g": {
+    "热量": "44kcal",
+    "碳水化合物": "10.5g",
+    "蛋白质": "0.5g",
+    "维生素 C": "24mg",
+    "膳食纤维": "0.8g"
+  },
+  "benefits": [
+    "补充能量缓解疲劳",
+    "含多酚类物质护心",
+    "促进铁吸收辅助补血"
+  ],
+  "tips": [
+    "果梗翠绿为新鲜标志",
+    "冷藏后口感更脆甜",
+    "清洗时保留果粉营养更佳"
+  ]
+}

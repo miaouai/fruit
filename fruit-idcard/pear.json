@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJwZWFyIiwKICAibmFtZSI6ICLmoqgiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi6JS36JaH56eRIiwKICAgICLlsZ4iOiAi5qKo5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLlv6vmnpwiLAogICAgICAi546J5LmzIgogICAgXSwKICAgICLnsbvlnosiOiAi5LuB5p6c57G75rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLmsrPljJfnnIEiLAogICAgIuWxseS4nOecgSIsCiAgICAi6ZmV6KW/55yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjctMTAg5pyI77yI5aSP5pyr56eL5Yid77yM5p6c6IKJ6ISG5aup5aSa5rGB77yM5riF55Sc5b6u6YW477yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICI0NGtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICIxMS4wZyIsCiAgICAi6JuL55m96LSoIjogIjAuNGciLAogICAgIue7tOeUn+e0oCBDIjogIjRtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjMuNmciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi5ram6IK65q2i5ZKz77yM5riF54Ot5YyW55ewIiwKICAgICLpq5jmsLTliIbnlJ/mtKXmraLmuLQiLAogICAgIuiGs+mjn+e6pOe7tOS/g+i/m+iCoOmBk+WBpeW6tyIKICBdLAogICJ0aXBzIjogWwogICAgIueUn+mjn+a4heeDre+8jOiSuOeFrua2puiCuiIsCiAgICAi6YG/5YWN5LiO6J6D6J+55ZCM6aOf77yM5piT6Ie06IW55rO7IiwKICAgICLohL7og4PomZrlr5LogIXlrpznhp/po58iCiAgXQp9
+{
+  "id": "pear",
+  "name": "梨",
+  "classification": {
+    "科": "蔷薇科",
+    "属": "梨属",
+    "别名": [
+      "快果",
+      "玉乳"
+    ],
+    "类型": "仁果类水果"
+  },
+  "origin_range": [
+    "河北省",
+    "山东省",
+    "陕西省"
+  ],
+  "best_season": "7-10 月（夏末秋初，果肉脆嫩多汁，清甜微酸）",
+  "nutrition_per_100g": {
+    "热量": "44kcal",
+    "碳水化合物": "11.0g",
+    "蛋白质": "0.4g",
+    "维生素 C": "4mg",
+    "膳食纤维": "3.6g"
+  },
+  "benefits": [
+    "润肺止咳，清热化痰",
+    "高水分生津止渴",
+    "膳食纤维促进肠道健康"
+  ],
+  "tips": [
+    "生食清热，蒸煮润肺",
+    "避免与螃蟹同食，易致腹泻",
+    "脾胃虚寒者宜熟食"
+  ]
+}

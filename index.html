@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>水果闹 (NOW) - 时令水果查询</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    header {
+      text-align: center;
+      color: white;
+      margin-bottom: 40px;
+      animation: fadeInDown 0.8s ease-out;
+    }
+    
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+    }
+    
+    .subtitle {
+      font-size: 1.1rem;
+      opacity: 0.95;
+    }
+    
+    /* 第一栏：当前应季水果 */
+    .section-current {
+      background: white;
+      border-radius: 20px;
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+      animation: fadeInUp 0.6s ease-out;
+    }
+    
+    .section-title {
+      font-size: 1.5rem;
+      color: #333;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .section-title::before {
+      content: '🔥';
+    }
+    
+    .fruit-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 15px;
+    }
+    
+    .fruit-item {
+      background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+      border-radius: 15px;
+      padding: 20px 10px;
+      text-align: center;
+      color: white;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(245, 87, 108, 0.3);
+    }
+    
+    .fruit-item:hover {
+      transform: translateY(-5px) scale(1.05);
+      box-shadow: 0 8px 25px rgba(245, 87, 108, 0.4);
+    }
+    
+    .fruit-name {
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+    
+    /* 第二栏：月份选择 */
+    .section-months {
+      background: white;
+      border-radius: 20px;
+      padding: 30px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+      animation: fadeInUp 0.8s ease-out;
+    }
+    
+    .section-title.months {
+      color: #333;
+    }
+    
+    .section-title.months::before {
+      content: '📅';
+    }
+    
+    .month-tabs {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 12px;
+      margin-top: 20px;
+    }
+    
+    .month-tab {
+      background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+      border: none;
+      border-radius: 12px;
+      padding: 15px;
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #333;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    }
+    
+    .month-tab:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+    }
+    
+    .month-tab.active {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+    }
+    
+    /* 弹窗样式 */
+    .modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.6);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+      backdrop-filter: blur(5px);
+      animation: fadeIn 0.3s ease;
+    }
+    
+    .modal-overlay.active {
+      display: flex;
+    }
+    
+    .modal {
+      background: white;
+      border-radius: 20px;
+      padding: 30px;
+      max-width: 500px;
+      width: 90%;
+      max-height: 80vh;
+      overflow-y: auto;
+      position: relative;
+      animation: scaleIn 0.3s ease;
+    }
+    
+    .modal-close {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      background: #f5576c;
+      color: white;
+      border: none;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      font-size: 1.2rem;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+    
+    .modal-close:hover {
+      background: #e6405c;
+      transform: rotate(90deg);
+    }
+    
+    .modal-title {
+      font-size: 1.8rem;
+      color: #333;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    
+    /* 水果 ID 卡片样式 */
+    .idcard-section {
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 1px dashed #eee;
+    }
+    
+    .idcard-section:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+    
+    .idcard-label {
+      font-weight: 600;
+      color: #666;
+      font-size: 0.9rem;
+      margin-bottom: 5px;
+    }
+    
+    .idcard-value {
+      color: #333;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+    
+    .nutrition-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 8px;
+      margin-top: 10px;
+    }
+    
+    .nutrition-item {
+      background: #f8f9fa;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-size: 0.9rem;
+    }
+    
+    .tag-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+    }
+    
+    .tag {
+      background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      color: #333;
+    }
+    
+    .tips-list {
+      list-style: none;
+      margin-top: 10px;
+    }
+    
+    .tips-list li {
+      padding: 8px 0 8px 25px;
+      position: relative;
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+    
+    .tips-list li::before {
+      content: '💡';
+      position: absolute;
+      left: 0;
+      top: 8px;
+    }
+    
+    @keyframes fadeInDown {
+      from { opacity: 0; transform: translateY(-30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    
+    @keyframes scaleIn {
+      from { opacity: 0; transform: scale(0.9); }
+      to { opacity: 1; transform: scale(1); }
+    }
+    
+    /* 响应式 */
+    @media (max-width: 768px) {
+      h1 { font-size: 1.8rem; }
+      
+      .month-tabs {
+        grid-template-columns: repeat(3, 1fr);
+      }
+      
+      .fruit-grid {
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🍊 水果闹 (NOW)</h1>
+      <p class="subtitle">了解中国境内每个月上市的新鲜水果，吃当季、享健康！</p>
+    </header>
+    
+    <!-- 第一栏：当前应季水果 -->
+    <div class="section-current">
+      <h2 class="section-title">本季节的应季水果</h2>
+      <div class="fruit-grid" id="current-fruits"></div>
+    </div>
+    
+    <!-- 第二栏：月份选择 -->
+    <div class="section-months">
+      <h2 class="section-title months">按月查询水果</h2>
+      <div class="month-tabs" id="month-tabs"></div>
+    </div>
+  </div>
+  
+  <!-- 月份水果列表弹窗 -->
+  <div class="modal-overlay" id="month-modal">
+    <div class="modal">
+      <button class="modal-close" onclick="closeModal('month-modal')">×</button>
+      <h2 class="modal-title" id="month-modal-title"></h2>
+      <div class="fruit-grid" id="month-fruits-grid"></div>
+    </div>
+  </div>
+  
+  <!-- 水果 ID 卡弹窗 -->
+  <div class="modal-overlay" id="idcard-modal">
+    <div class="modal">
+      <button class="modal-close" onclick="closeModal('idcard-modal')">×</button>
+      <h2 class="modal-title" id="idcard-title"></h2>
+      <div id="idcard-content"></div>
+    </div>
+  </div>
+  
+  <script>
+    let fruitsData = [];
+    
+    // 获取当月
+    function getCurrentMonth() {
+      return new Date().getMonth() + 1; // 1-12
+    }
+    
+    // 加载水果数据
+    async function loadFruits() {
+      try {
+        const response = await fetch('fruit-list.json');
+        fruitsData = await response.json();
+        initApp();
+      } catch (error) {
+        console.error('加载失败:', error);
+        document.getElementById('current-fruits').innerHTML = '<p>数据加载中...</p>';
+      }
+    }
+    
+    // 初始化应用
+    function initApp() {
+      renderCurrentSeasonFruits();
+      renderMonthTabs();
+    }
+    
+    // 渲染当前应季水果
+    function renderCurrentSeasonFruits() {
+      const currentMonth = getCurrentMonth();
+      const container = document.getElementById('current-fruits');
+      
+      const seasonalFruits = fruitsData.fruits.filter(fruit => 
+        isFruitInMonth(fruit, currentMonth)
+      );
+      
+      if (seasonalFruits.length === 0) {
+        container.innerHTML = '<p>暂无数据</p>';
+        return;
+      }
+      
+      container.innerHTML = seasonalFruits.map(fruit => `
+        <div class="fruit-item" onclick="showIdCard('${fruit.id}')">
+          <div class="fruit-name">${fruit.name}</div>
+        </div>
+      `).join('');
+    }
+    
+    // 渲染月份标签
+    function renderMonthTabs() {
+      const container = document.getElementById('month-tabs');
+      container.innerHTML = Array.from({length: 12}, (_, i) => i + 1)
+        .map(month => `
+          <button class="month-tab" onclick="showMonthFruits(${month})">
+            ${month}月
+          </button>
+        `).join('');
+    }
+    
+    // 判断水果是否在指定月份上市
+    function isFruitInMonth(fruit, month) {
+      if (!fruit.harvest_start || !fruit.harvest_end) return false;
+      
+      const start = parseInt(fruit.harvest_start);
+      const end = parseInt(fruit.harvest_end);
+      
+      if (start <= end) {
+        return month >= start && month <= end;
+      } else {
+        // 跨年的情况（例如 11 月到次年 3 月）
+        return month >= start || month <= end;
+      }
+    }
+    
+    // 显示某个月的水果列表
+    function showMonthFruits(month) {
+      const modalTitle = document.getElementById('month-modal-title');
+      const fruitsGrid = document.getElementById('month-fruits-grid');
+      const modal = document.getElementById('month-modal');
+      
+      modalTitle.textContent = `${month}月的应季水果`;
+      
+      const monthlyFruits = fruitsData.fruits.filter(fruit => 
+        isFruitInMonth(fruit, month)
+      );
+      
+      if (monthlyFruits.length === 0) {
+        fruitsGrid.innerHTML = '<p>该月份暂无水果数据</p>';
+      } else {
+        fruitsGrid.innerHTML = monthlyFruits.map(fruit => `
+          <div class="fruit-item" onclick="showIdCard('${fruit.id}')">
+            <div class="fruit-name">${fruit.name}</div>
+          </div>
+        `).join('');
+      }
+      
+      modal.classList.add('active');
+    }
+    
+    // 显示水果 ID 卡
+    async function showIdCard(fruitId) {
+      try {
+        const response = await fetch(`fruit-idcard/${fruitId}.json`);
+        const data = await response.json();
+        
+        const modalTitle = document.getElementById('idcard-title');
+        const modalContent = document.getElementById('idcard-content');
+        const modal = document.getElementById('idcard-modal');
+        
+        modalTitle.textContent = data.name;
+        
+        modalContent.innerHTML = `
+          <div class="idcard-section">
+            <div class="idcard-label">分类信息</div>
+            <div class="tag-container">
+              ${Object.entries(data.classification || {}).map(([key, value]) => 
+                `<span class="tag">${key}: ${value}</span>`
+              ).join('')}
+            </div>
+          </div>
+          
+          <div class="idcard-section">
+            <div class="idcard-label">产地范围</div>
+            <div class="tag-container">
+              ${(data.origin_range || []).map(region => 
+                `<span class="tag">${region}</span>`
+              ).join('')}
+            </div>
+          </div>
+          
+          <div class="idcard-section">
+            <div class="idcard-label">最佳品尝季节</div>
+            <div class="idcard-value">🍂 ${data.best_season || '全年供应'}</div>
+          </div>
+          
+          <div class="idcard-section">
+            <div class="idcard-label">营养成分（每 100 克）</div>
+            <div class="nutrition-grid">
+              ${Object.entries(data.nutrition_per_100g || {}).map(([key, value]) => 
+                `<div class="nutrition-item">${key}: ${value}</div>`
+              ).join('')}
+            </div>
+          </div>
+          
+          <div class="idcard-section">
+            <div class="idcard-label">营养功效</div>
+            <div class="tag-container">
+              ${(data.benefits || []).map(benefit => 
+                `<span class="tag">✨ ${benefit}</span>`
+              ).join('')}
+            </div>
+          </div>
+          
+          <div class="idcard-section">
+            <div class="idcard-label">食用小贴士</div>
+            <ul class="tips-list">
+              ${(data.tips || []).map(tip => 
+                `<li>${tip}</li>`
+              ).join('')}
+            </ul>
+          </div>
+        `;
+        
+        modal.classList.add('active');
+      } catch (error) {
+        console.error('加载失败:', error);
+        alert('无法加载水果信息');
+      }
+    }
+    
+    // 关闭弹窗
+    function closeModal(modalId) {
+      document.getElementById(modalId).classList.remove('active');
+    }
+    
+    // 点击遮罩层关闭弹窗
+    document.querySelectorAll('.modal-overlay').forEach(overlay => {
+      overlay.addEventListener('click', (e) => {
+        if (e.target === overlay) {
+          overlay.classList.remove('active');
+        }
+      });
+    });
+    
+    // ESC 键关闭弹窗
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        document.querySelectorAll('.modal-overlay').forEach(modal => {
+          modal.classList.remove('active');
+        });
+      }
+    });
+    
+    // 启动应用
+    loadFruits();
+  </script>
+</body>
+</html>

@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJvbGl2ZSIsCiAgIm5hbWUiOiAi5qmE5qaEIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuaphOamhOenkSIsCiAgICAi5bGeIjogIuaphOamhOWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi6Z2S5p6cIiwKICAgICAgIuW/oOaenCIKICAgIF0sCiAgICAi57G75Z6LIjogIuS6mueDreW4puaguOaenOexu+awtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi56aP5bu655yBIiwKICAgICLlub/kuJznnIEiLAogICAgIuW5v+ilv+WjruaXj+iHquayu+WMuiIKICBdLAogICJiZXN0X3NlYXNvbiI6ICI4LTEwIOaciO+8iOWIneeni+mHh+aUtu+8jOmynOaenOmdkue7v++8jOWFiOa2qeWQjueUmO+8iSIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNDlrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTIuMGciLAogICAgIuibi+eZvei0qCI6ICIwLjhnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIyMG1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMy4wZyIKICB9LAogICJiZW5lZml0cyI6IFsKICAgICLmuIXng63op6Pmr5LvvIzliKnlkr3nlJ/mtKUiLAogICAgIuWQq+WkmumFmuexu+eJqei0qO+8jOaKl+awp+WMluaKl+eCjiIsCiAgICAi5Yqp5raI5YyW44CB6Kej6YWS5q+SIgogIF0sCiAgInRpcHMiOiBbCiAgICAi6bKc6aOf6ZyA5Y+N5aSN5ZKA5Zq85Lul6L2s5YyW5rap5ZGzIiwKICAgICLluLjohYzliLbkuLronJzppa/miJbms6HojLYiLAogICAgIuiEvuiDg+iZmuWvkuiAheaFjueUn+mjnyIKICBdCn0=
+{
+  "id": "olive",
+  "name": "橄榄",
+  "classification": {
+    "科": "橄榄科",
+    "属": "橄榄属",
+    "别名": [
+      "青果",
+      "忠果"
+    ],
+    "类型": "亚热带核果类水果"
+  },
+  "origin_range": [
+    "福建省",
+    "广东省",
+    "广西壮族自治区"
+  ],
+  "best_season": "8-10 月（初秋采收，鲜果青绿，先涩后甘）",
+  "nutrition_per_100g": {
+    "热量": "49kcal",
+    "碳水化合物": "12.0g",
+    "蛋白质": "0.8g",
+    "维生素 C": "20mg",
+    "膳食纤维": "3.0g"
+  },
+  "benefits": [
+    "清热解毒，利咽生津",
+    "含多酚类物质，抗氧化抗炎",
+    "助消化、解酒毒"
+  ],
+  "tips": [
+    "鲜食需反复咀嚼以转化涩味",
+    "常腌制为蜜饯或泡茶",
+    "脾胃虚寒者慎生食"
+  ]
+}

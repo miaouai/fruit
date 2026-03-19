@@ -330,7 +330,7 @@
     </div>
   </div>
   
-  <!-- 水果 ID 卡弹窗 -->
+    <!-- 水果 ID 卡弹窗 -->
   <div class="modal-overlay" id="idcard-modal">
     <div class="modal">
       <button class="modal-close" onclick="closeModal('idcard-modal')">×</button>
@@ -338,6 +338,55 @@
       <div id="idcard-content"></div>
     </div>
   </div>
+  
+  <!-- 页脚 -->
+  <footer style="text-align: center; color: white; padding: 40px 20px; margin-top: 30px; animation: fadeInUp 1s ease-out;">
+    <div style="max-width: 800px; margin: 0 auto;">
+      <!-- 项目链接 -->
+      <div style="margin-bottom: 25px;">
+        <a href="https://github.com/miaouai/fruit" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           style="display: inline-block; background: rgba(255,255,255,0.2); padding: 10px 25px; border-radius: 25px; color: white; text-decoration: none; font-weight: 600; transition: all 0.3s ease; backdrop-filter: blur(10px);">
+          📦 GitHub 仓库 · miaouai/fruit
+        </a>
+      </div>
+      
+      <!-- 作者信息 -->
+      <p style="font-size: 0.95rem; margin-bottom: 10px; opacity: 0.9;">
+        由 <strong>miaouai</strong> 开发维护 | 数据来源：公开农业资料 & AI 采集整理
+      </p>
+      
+      <!-- 版本统计 -->
+      <p style="font-size: 0.85rem; margin-bottom: 25px; opacity: 0.8;">
+        v1.0 · 收录 144 种时令水果 · 持续更新中...
+      </p>
+      
+      <!-- 分隔线 -->
+      <div style="height: 1px; background: rgba(255,255,255,0.3); margin: 25px 0;"></div>
+      
+      <!-- 免责声明 -->
+      <div style="text-align: left; background: rgba(0,0,0,0.2); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px);">
+        <p style="font-size: 0.75rem; line-height: 1.6; margin-bottom: 8px; opacity: 0.85;">
+          ⚠️<strong>免责声明：</strong>本网站提供的水果信息仅供参考和学习交流，不作为专业医疗或营养指导。
+        </p>
+        <p style="font-size: 0.75rem; line-height: 1.6; margin-bottom: 8px; opacity: 0.85;">
+          • 水果上市时间可能因地区气候、种植技术等因素有所差异<br>
+          • 营养成分数据为平均值，实际含量会因品种、产地、成熟度而波动<br>
+          • "食用功效"仅为民间传统认知或初步研究结果，不可替代医嘱<br>
+          • 如有特殊健康状况（如糖尿病、过敏体质），请咨询医生后适量食用
+        </p>
+        <p style="font-size: 0.7rem; line-height: 1.5; margin-top: 15px; opacity: 0.7; font-style: italic;">
+          🍊 吃当季水果，享受健康生活！本项目遵循 CC BY-NC-SA 4.0 协议开源分享
+        </p>
+      </div>
+      
+      <!-- 版权信息 -->
+      <p style="font-size: 0.75rem; margin-top: 25px; opacity: 0.7;">
+        © 2025 <a href="https://github.com/miaouai" target="_blank" style="color: #f093fb; text-decoration: none;">miaouai</a>. All rights reserved.
+      </p>
+    </div>
+  </footer>
   
   <script>
     let fruitsData = [];

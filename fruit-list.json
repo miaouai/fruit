@@ -71,13 +71,6 @@
       "category": "regional"
     },
     {
-      "id": "star-anise",
-      "name": "八角",
-      "harvest_start": 9,
-      "harvest_end": 11,
-      "category": "temperate"
-    },
-    {
       "id": "rock-sugar-orange",
       "name": "冰糖橙",
       "harvest_start": 10,
@@ -120,7 +113,7 @@
       "category": "regional"
     },
     {
-      "id": "夏橙",
+      "id": "summer-orange",
       "name": "夏橙",
       "harvest_start": 4,
       "harvest_end": 6,
@@ -225,13 +218,6 @@
       "category": "regional"
     },
     {
-      "id": "xanthoceras",
-      "name": "文冠果",
-      "harvest_start": 7,
-      "harvest_end": 8,
-      "category": "temperate"
-    },
-    {
       "id": "fig",
       "name": "无花果",
       "harvest_start": 7,
@@ -267,20 +253,6 @@
       "category": "temperate"
     },
     {
-      "id": "almond",
-      "name": "杏仁",
-      "harvest_start": 5,
-      "harvest_end": 7,
-      "category": "temperate"
-    },
-    {
-      "id": "eucommia",
-      "name": "杜仲",
-      "harvest_start": 9,
-      "harvest_end": 10,
-      "category": "temperate"
-    },
-    {
       "id": "star-fruit",
       "name": "杨桃",
       "harvest_start": 3,
@@ -292,13 +264,6 @@
       "name": "杨梅",
       "harvest_start": 5,
       "harvest_end": 7,
-      "category": "temperate"
-    },
-    {
-      "id": "pine-nut",
-      "name": "松子",
-      "harvest_start": 9,
-      "harvest_end": 10,
       "category": "temperate"
     },
     {
@@ -358,20 +323,6 @@
       "category": "temperate"
     },
     {
-      "id": "chestnut",
-      "name": "栗子",
-      "harvest_start": 9,
-      "harvest_end": 10,
-      "category": "temperate"
-    },
-    {
-      "id": "walnut",
-      "name": "核桃",
-      "harvest_start": 9,
-      "harvest_end": 10,
-      "category": "temperate"
-    },
-    {
       "id": "dried-longan",
       "name": "桂圆",
       "harvest_start": 7,
@@ -414,25 +365,11 @@
       "category": "tropical"
     },
     {
-      "id": "hazelnut",
-      "name": "榛子",
-      "harvest_start": 8,
-      "harvest_end": 9,
-      "category": "temperate"
-    },
-    {
       "id": "durian",
       "name": "榴莲",
       "harvest_start": 5,
       "harvest_end": 9,
       "category": "tropical"
-    },
-    {
-      "id": "betel-nut",
-      "name": "槟榔",
-      "harvest_start": 1,
-      "harvest_end": 12,
-      "category": "temperate"
     },
     {
       "id": "cherry",
@@ -701,13 +638,6 @@
       "category": "melon"
     },
     {
-      "id": "lohan-fruit",
-      "name": "罗汉果",
-      "harvest_start": 9,
-      "harvest_end": 11,
-      "category": "temperate"
-    },
-    {
       "id": "goat-honey",
       "name": "羊角蜜",
       "harvest_start": 5,
@@ -776,13 +706,6 @@
       "harvest_start": 6,
       "harvest_end": 9,
       "category": "melon"
-    },
-    {
-      "id": "pepper",
-      "name": "花椒",
-      "harvest_start": 7,
-      "harvest_end": 8,
-      "category": "temperate"
     },
     {
       "id": "apple",
@@ -944,13 +867,6 @@
       "harvest_start": 11,
       "harvest_end": 3,
       "category": "regional"
-    },
-    {
-      "id": "ginkgo",
-      "name": "银杏",
-      "harvest_start": 9,
-      "harvest_end": 10,
-      "category": "temperate"
     },
     {
       "id": "jin-orange",

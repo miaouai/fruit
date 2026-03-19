@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJzZWEtYnVja3Rob3JuIiwKICAibmFtZSI6ICLmspnmo5giLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi6IOh6aKT5a2Q56eRIiwKICAgICLlsZ4iOiAi5rKZ5qOY5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLphovmn7MiLAogICAgICAi6buR5Yi6IgogICAgXSwKICAgICLnsbvlnosiOiAi5rWG5p6c57G76I2v55So5YW86aOf55So5p6c5a6eIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLlsbHopb/nnIEiLAogICAgIuWGheiSmeWPpOiHquayu+WMuiIsCiAgICAi6Z2S5rW355yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjgtMTAg5pyI77yI5Yid56eL6YeH5pS277yM5p6c5qmZ6buE5aaC54+g77yM5p6B6YW477yM5aSa5Yqg5bel6aWu55So77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICIxMDBrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMjIuMGciLAogICAgIuibi+eZvei0qCI6ICIxLjJnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIyMDRtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjUuMGciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi57u0IEMg5ZCr6YeP5p6B6auY77yM5pi+6JGX5aKe5by65YWN55ar5YqbIiwKICAgICLlr4zlkKvmspnmo5jmsrnkv53miqTog4Ppu4/ohpwiLAogICAgIuaKl+awp+WMluOAgeaKl+i+kOWwhCIKICBdLAogICJ0aXBzIjogWwogICAgIumynOaenOaegemFuO+8jOWkmuWItuaIkOaenOaxgeOAgeaenOayueaIluiDtuWbiiIsCiAgICAi56m66IW55oWO6aWu5rWT57yp5rGBIiwKICAgICLlrZXlpofkvb/nlKjliY3lkqjor6LljLvnlJ8iCiAgXQp9
+{
+  "id": "sea-buckthorn",
+  "name": "沙棘",
+  "classification": {
+    "科": "胡颓子科",
+    "属": "沙棘属",
+    "别名": [
+      "醋柳",
+      "黑刺"
+    ],
+    "类型": "浆果类药用兼食用果实"
+  },
+  "origin_range": [
+    "山西省",
+    "内蒙古自治区",
+    "青海省"
+  ],
+  "best_season": "8-10 月（初秋采收，果橙黄如珠，极酸，多加工饮用）",
+  "nutrition_per_100g": {
+    "热量": "100kcal",
+    "碳水化合物": "22.0g",
+    "蛋白质": "1.2g",
+    "维生素 C": "204mg",
+    "膳食纤维": "5.0g"
+  },
+  "benefits": [
+    "维 C 含量极高，显著增强免疫力",
+    "富含沙棘油保护胃黏膜",
+    "抗氧化、抗辐射"
+  ],
+  "tips": [
+    "鲜果极酸，多制成果汁、果油或胶囊",
+    "空腹慎饮浓缩汁",
+    "孕妇使用前咨询医生"
+  ]
+}

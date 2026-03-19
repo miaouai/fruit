@@ -1,1 +1,25 @@
-ewogICJpZCI6ICJwaXRheWEteXVubmFuIiwKICAibmFtZSI6ICLkupHljZfngavpvpnmnpwiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi5LuZ5Lq65o6M56eRIiwKICAgICLlsZ4iOiAi6YeP5aSp5bC65bGeIiwKICAgICJ0eXBlIjogIueDreW4puS7meS6uuaOjOexuyIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbIuW5v+S4nCIsICLlub/opb8iLCAi5rW35Y2XIiwgIuS6keWNlyJdLAogICJiZXN0X3NlYXNvbiI6ICI1LTExIOaciOWkj+Wto+eni+Wto++8jOW4uOW5tOS+m+W6lCIsCiAgIm51dHJpdGlvbl9wZXJfMTAwZyI6IHsKICAgICLng63ph48iOiAiNTBrY2FsIiwKICAgICLnorPmsLTljJblkIjniakiOiAiMTEuMmciLAogICAgIuibi+eZvei0qCI6ICIxLjNnIiwKICAgICLnu7TnlJ/ntKAgQyI6ICIxNW1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMy41ZyIsCiAgICAi6Iqx6Z2S57SgIjogIue6ouW/g+WTgeenjeS4sOWvjCIKICB9LAogICJiZW5lZml0cyI6IFsi5L2O5Y2h6auY57qk57u0IiwgIua2puiCoOmAmuS+vyIsICLnvo7lrrnlhbvpopwiLCAi6ZmN6KGA57OWIl0sCiAgInRpcHMiOiBbCiAgICAi57qi5b+D55qE5q+U55m95b+D55qE55ScIiwKICAgICLooajnmq7mnInliLrnmoTmm7TmlrDpspwiLAogICAgIuWGt+iXj+WQjuWPo+aEn+abtOS9syIKICBdCn0=
+{
+  "id": "pitaya-yunnan",
+  "name": "云南火龙果",
+  "classification": {
+    "科": "仙人掌科",
+    "属": "量天尺属",
+    "type": "热带仙人掌类"
+  },
+  "origin_range": ["广东", "广西", "海南", "云南"],
+  "best_season": "5-11 月夏季秋季，常年供应",
+  "nutrition_per_100g": {
+    "热量": "50kcal",
+    "碳水化合物": "11.2g",
+    "蛋白质": "1.3g",
+    "维生素 C": "15mg",
+    "膳食纤维": "3.5g",
+    "花青素": "红心品种丰富"
+  },
+  "benefits": ["低卡高纤维", "润肠通便", "美容养颜", "降血糖"],
+  "tips": [
+    "红心的比白心的甜",
+    "表皮有刺的更新鲜",
+    "冷藏后口感更佳"
+  ]
+}

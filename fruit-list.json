@@ -1,0 +1,21 @@
+{
+  "fruits": [
+    {"id": "watermelon", "name": "西瓜", "harvest_start": 5, "harvest_end": 9},
+    {"id": "subtlercandy-orange", "name": "砂糖橘", "harvest_start": 12, "harvest_end": 3},
+    {"id": "strawberry-dandong", "name": "丹东草莓", "harvest_start": 11, "harvest_end": 4},
+    {"id": "longan-fujian", "name": "福建龙眼", "harvest_start": 7, "harvest_end": 8},
+    {"id": "lychee-maoming", "name": "茂名荔枝", "harvest_start": 5, "harvest_end": 7},
+    {"id": "hami-melon", "name": "哈密瓜", "harvest_start": 6, "harvest_end": 9},
+    {"id": "persimmon-shaanxi", "name": "富平柿子", "harvest_start": 9, "harvest_end": 11},
+    {"id": "grape-xinjiang", "name": "新疆葡萄", "harvest_start": 7, "harvest_end": 10},
+    {"id": "apple-luochuan", "name": "洛川苹果", "harvest_start": 9, "harvest_end": 11},
+    {"id": "sugarcane-guangxi", "name": "广西甘蔗", "harvest_start": 12, "harvest_end": 5},
+    {"id": "pomelo-fujian", "name": "琯溪蜜柚", "harvest_start": 10, "harvest_end": 2},
+    {"id": "pitaya-yunnan", "name": "云南火龙果", "harvest_start": 5, "harvest_end": 11},
+    {"id": "mango-hainan", "name": "海南芒果", "harvest_start": 4, "harvest_end": 8},
+    {"id": "pineapple-xuwen", "name": "徐闻菠萝", "harvest_start": 3, "harvest_end": 6},
+    {"id": "loquat-su", "name": "苏州枇杷", "harvest_start": 3, "harvest_end": 5},
+    {"id": "cherry-shandong", "name": "烟台樱桃", "harvest_start": 4, "harvest_end": 6},
+    {"id": "orange-nanchun", "name": "赣南脐橙", "harvest_start": 10, "harvest_end": 2}
+  ]
+}

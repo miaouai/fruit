@@ -1,1 +1,24 @@
-ewogICJpZCI6ICJuYXZlbC1vcmFuZ2UiLAogICJuYW1lIjogIuiEkOapmSIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLlvoXooaXlhYUiLAogICAgIuWxniI6ICLlvoXooaXlhYUiLAogICAgIuWIq+WQjSI6IFtdLAogICAgIuexu+WeiyI6ICLlvoXliIbnsbsiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuW+heihpeWFhSIKICBdLAogICJiZXN0X3NlYXNvbiI6ICIxMC0y5pyIIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICLlvoXooaXlhYUiLAogICAgIueis+awtOWMluWQiOeJqSI6ICLlvoXooaXlhYUiCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi5b6F6KGl5YWFIgogIF0sCiAgInRpcHMiOiBbCiAgICAi5b6F6KGl5YWFIgogIF0KfQ==
+{
+  "id": "navel-orange",
+  "name": "脐橙",
+  "classification": {
+    "科": "待补充",
+    "属": "待补充",
+    "别名": [],
+    "类型": "待分类"
+  },
+  "origin_range": [
+    "待补充"
+  ],
+  "best_season": "10-2月",
+  "nutrition_per_100g": {
+    "热量": "待补充",
+    "碳水化合物": "待补充"
+  },
+  "benefits": [
+    "待补充"
+  ],
+  "tips": [
+    "待补充"
+  ]
+}

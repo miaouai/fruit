@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJtdWxiZXJyeSIsCiAgIm5hbWUiOiAi5qGR6JGaIiwKICAiY2xhc3NpZmljYXRpb24iOiB7CiAgICAi56eRIjogIuahkeenkSIsCiAgICAi5bGeIjogIuahkeWxniIsCiAgICAi5Yir5ZCNIjogWwogICAgICAi5qGR5p6cIiwKICAgICAgIum7keakuSIKICAgIF0sCiAgICAi57G75Z6LIjogIua1huaenOexu+awtOaenCIKICB9LAogICJvcmlnaW5fcmFuZ2UiOiBbCiAgICAi5paw55aG57u05ZC+5bCU6Ieq5rK75Yy6IiwKICAgICLmsrPljJfnnIEiLAogICAgIuWxseS4nOecgSIKICBdLAogICJiZXN0X3NlYXNvbiI6ICIzLTYg5pyI77yI5pil5pyr5aSP5Yid77yM5p6c5a6e57Sr6buR5aSa5rGB77yM55SY55Sc5b6u6YW477yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICI0M2tjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICI5LjVnIiwKICAgICLom4vnmb3otKgiOiAiMS4yZyIsCiAgICAi57u055Sf57SgIEMiOiAiMzZtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjMuM2ciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi5ruL6Zi06KGl6KGA77yM5LmM5Y+R5piO55uuIiwKICAgICLlr4zlkKvoirHpnZLntKDvvIzmipfmsKfljJblvLoiLAogICAgIua2puiCoOmAmuS+v++8jOaUueWWhOS+v+enmCIKICBdLAogICJ0aXBzIjogWwogICAgIuaYk+afk+iJsu+8jOmjn+eUqOaXtuazqOaEj+iho+eJqSIsCiAgICAi5riF5rSX5pe255So5reh55uQ5rC05rW45rOhIiwKICAgICLohL7og4PomZrlr5LogIXkuI3lrpzlpJrpo58iCiAgXQp9
+{
+  "id": "mulberry",
+  "name": "桑葚",
+  "classification": {
+    "科": "桑科",
+    "属": "桑属",
+    "别名": [
+      "桑果",
+      "黑椹"
+    ],
+    "类型": "浆果类水果"
+  },
+  "origin_range": [
+    "新疆维吾尔自治区",
+    "河北省",
+    "山东省"
+  ],
+  "best_season": "3-6 月（春末夏初，果实紫黑多汁，甘甜微酸）",
+  "nutrition_per_100g": {
+    "热量": "43kcal",
+    "碳水化合物": "9.5g",
+    "蛋白质": "1.2g",
+    "维生素 C": "36mg",
+    "膳食纤维": "3.3g"
+  },
+  "benefits": [
+    "滋阴补血，乌发明目",
+    "富含花青素，抗氧化强",
+    "润肠通便，改善便秘"
+  ],
+  "tips": [
+    "易染色，食用时注意衣物",
+    "清洗时用淡盐水浸泡",
+    "脾胃虚寒者不宜多食"
+  ]
+}

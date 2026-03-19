@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJtaXJhY2xlLWZydWl0IiwKICAibmFtZSI6ICLnpZ7np5jmnpwiLAogICJjbGFzc2lmaWNhdGlvbiI6IHsKICAgICLnp5EiOiAi5bGx5qaE56eRIiwKICAgICLlsZ4iOiAi56We56eY5p6c5bGeIiwKICAgICLliKvlkI0iOiBbCiAgICAgICLlpYfov7nmnpwiLAogICAgICAi5Y+Y5ZGz5p6cIgogICAgXSwKICAgICLnsbvlnosiOiAi54Ot5bim5rWG5p6c57G75rC05p6cIgogIH0sCiAgIm9yaWdpbl9yYW5nZSI6IFsKICAgICLmtbfljZfnnIEiLAogICAgIuWPsOa5vuecgSIsCiAgICAi5LqR5Y2X55yBIgogIF0sCiAgImJlc3Rfc2Vhc29uIjogIjUtOCDmnIjvvIjlpI/lraPmiJDnhp/vvIzmnpzogonlkKvnpZ7np5jmnpzom4vnmb3vvIzlj6/mlLnlj5jlkbPop4nvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjQ1a2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjExLjBnIiwKICAgICLom4vnmb3otKgiOiAiMS4wZyIsCiAgICAi57u055Sf57SgIEMiOiAiMjVtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjMuMGciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi56We56eY5p6c6JuL55m95Y+v5L2/6YW45ZGz5Y+Y55Sc77yM6L6F5Yqp5o6n57OWIiwKICAgICLmipfmsKfljJbvvIzlu7bnvJPoobDogIEiLAogICAgIuS/g+i/m+mjn+assiIKICBdLAogICJ0aXBzIjogWwogICAgIumjn+eUqOWQjiAzMCDliIbpkp/lhoXlsJ3mn6DmqqzkvJrmhJ/op4nnlJwiLAogICAgIuWkmueUqOS6jui2o+WRs+S9k+mqjOaIluezluWwv+eXhei+heWKqSIsCiAgICAi5LiN5a6c56m66IW55aSn6YeP6aOf55SoIgogIF0KfQ==
+{
+  "id": "miracle-fruit",
+  "name": "神秘果",
+  "classification": {
+    "科": "山榄科",
+    "属": "神秘果属",
+    "别名": [
+      "奇迹果",
+      "变味果"
+    ],
+    "类型": "热带浆果类水果"
+  },
+  "origin_range": [
+    "海南省",
+    "台湾省",
+    "云南省"
+  ],
+  "best_season": "5-8 月（夏季成熟，果肉含神秘果蛋白，可改变味觉）",
+  "nutrition_per_100g": {
+    "热量": "45kcal",
+    "碳水化合物": "11.0g",
+    "蛋白质": "1.0g",
+    "维生素 C": "25mg",
+    "膳食纤维": "3.0g"
+  },
+  "benefits": [
+    "神秘果蛋白可使酸味变甜，辅助控糖",
+    "抗氧化，延缓衰老",
+    "促进食欲"
+  ],
+  "tips": [
+    "食用后 30 分钟内尝柠檬会感觉甜",
+    "多用于趣味体验或糖尿病辅助",
+    "不宜空腹大量食用"
+  ]
+}

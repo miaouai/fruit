@@ -1,1 +1,21 @@
-ewogICJpZCI6ICJqaW5neGluLXdhdGVybWVsb24iLAogICJuYW1lIjogIuS6rOaso+ilv+eTnCIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLokavoiqbnp5EiLAogICAgIuWxniI6ICLopb/nk5zlsZ4iLAogICAgIuWIq+WQjSI6IFsi5Lqs5qyj5LiA5Y+3IiwgIuaXqeeGn+ilv+eTnCJdLAogICAgIuexu+WeiyI6ICLnk5znsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWyLljJfkuqzluIIiLCAi5rKz5YyX55yBIiwgIuWxseS4nOecgSJdLAogICJiZXN0X3NlYXNvbiI6ICI2LTgg5pyI77yI55ub5aSP5pe26IqC77yM55Ok57qi5rGB5aSa77yM5riF55Sc54i95Y+j77yJIiwKICAibnV0cml0aW9uX3Blcl8xMDBnIjogewogICAgIueDremHjyI6ICIzMGtjYWwiLAogICAgIueis+awtOWMluWQiOeJqSI6ICI3LjZnIiwKICAgICLom4vnmb3otKgiOiAiMC42ZyIsCiAgICAi57u055Sf57SgIEMiOiAiOG1nIiwKICAgICLohrPpo5/nuqTnu7QiOiAiMC40ZyIKICB9LAogICJiZW5lZml0cyI6IFsi6auY5rC05YiG5ZCr6YeP77yM6Kej5pqR5Yip5bC/IiwgIuWQq+eVquiMhOe6oue0oO+8jOacieebiuW/g+ihgOeuoSIsICLkvY7ng63ph4/pgILlkIjmjqfph43kurrnvqQiXSwKICAidGlwcyI6IFsi5YiH5byA5ZCO5bC95b+r6aOf55So77yM6YG/5YWN57uG6I+M5ruL55SfIiwgIuWGt+iXj+S4jeWunOi2hei/hyAyIOWwj+aXtu+8jOS7peWFjeS8pOiEvuiDgyIsICLns5blsL/nl4XmgqPogIXlupTmjqfliLbmkYTlhaXph48iXQp9Cg==
+{
+  "id": "jingxin-watermelon",
+  "name": "京欣西瓜",
+  "classification": {
+    "科": "葫芦科",
+    "属": "西瓜属",
+    "别名": ["京欣一号", "早熟西瓜"],
+    "类型": "瓜类水果"
+  },
+  "origin_range": ["北京市", "河北省", "山东省"],
+  "best_season": "6-8 月（盛夏时节，瓤红汁多，清甜爽口）",
+  "nutrition_per_100g": {
+    "热量": "30kcal",
+    "碳水化合物": "7.6g",
+    "蛋白质": "0.6g",
+    "维生素 C": "8mg",
+    "膳食纤维": "0.4g"
+  },
+  "benefits": ["高水分含量，解暑利尿", "含番茄红素，有益心血管", "低热量适合控重人群"],
+  "tips": ["切开后尽快食用，避免细菌滋生", "冷藏不宜超过 2 小时，以免伤脾胃", "糖尿病患者应控制摄入量"]
+}

@@ -1,1 +1,36 @@
-ewogICJpZCI6ICJ3by1nYW4iLAogICJuYW1lIjogIuayg+afkSIsCiAgImNsYXNzaWZpY2F0aW9uIjogewogICAgIuenkSI6ICLoirjpppnnp5EiLAogICAgIuWxniI6ICLmn5HmqZjlsZ4iLAogICAgIuWIq+WQjSI6IFsKICAgICAgIuayg+ahlCIsCiAgICAgICLmnYLkuqTmn5EiCiAgICBdLAogICAgIuexu+WeiyI6ICLmn5HmqZjnsbvmsLTmnpwiCiAgfSwKICAib3JpZ2luX3JhbmdlIjogWwogICAgIuW5v+ilv+WjruaXj+iHquayu+WMuiIsCiAgICAi5LqR5Y2X55yBIiwKICAgICLph43luobluIIiCiAgXSwKICAiYmVzdF9zZWFzb24iOiAiMTItNCDmnIjvvIjlhqzmmKXlraPoioLvvIzmnpzogonohIblq6nljJbmuKPvvIzpq5jns5bkvY7phbjvvIkiLAogICJudXRyaXRpb25fcGVyXzEwMGciOiB7CiAgICAi54Ot6YePIjogIjUya2NhbCIsCiAgICAi56Kz5rC05YyW5ZCI54mpIjogIjEzLjBnIiwKICAgICLom4vnmb3otKgiOiAiMC44ZyIsCiAgICAi57u055Sf57SgIEMiOiAiMzBtZyIsCiAgICAi6Iaz6aOf57qk57u0IjogIjEuN2ciCiAgfSwKICAiYmVuZWZpdHMiOiBbCiAgICAi6KGl5YWF5Yas5a2j57u0IEMg6ZyA5rGCIiwKICAgICLkv4Pov5vogqDpgZPooJXliqgiLAogICAgIuWinuW8uuearuiCpOW8ueaApyIKICBdLAogICJ0aXBzIjogWwogICAgIuaenOearuaYk+WJpe+8jOWPr+ebtOaOpeaJi+WJpemjn+eUqCIsCiAgICAi5Ya36JeP5ZCO5Y+j5oSf5pu05L2zIiwKICAgICLns5blsL/nl4XmgqPogIXpgILph4/po5/nlKgiCiAgXQp9
+{
+  "id": "wo-gan",
+  "name": "沃柑",
+  "classification": {
+    "科": "芸香科",
+    "属": "柑橘属",
+    "别名": [
+      "沃桔",
+      "杂交柑"
+    ],
+    "类型": "柑橘类水果"
+  },
+  "origin_range": [
+    "广西壮族自治区",
+    "云南省",
+    "重庆市"
+  ],
+  "best_season": "12-4 月（冬春季节，果肉脆嫩化渣，高糖低酸）",
+  "nutrition_per_100g": {
+    "热量": "52kcal",
+    "碳水化合物": "13.0g",
+    "蛋白质": "0.8g",
+    "维生素 C": "30mg",
+    "膳食纤维": "1.7g"
+  },
+  "benefits": [
+    "补充冬季维 C 需求",
+    "促进肠道蠕动",
+    "增强皮肤弹性"
+  ],
+  "tips": [
+    "果皮易剥，可直接手剥食用",
+    "冷藏后口感更佳",
+    "糖尿病患者适量食用"
+  ]
+}
